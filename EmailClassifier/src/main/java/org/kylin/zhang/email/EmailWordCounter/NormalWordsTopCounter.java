@@ -5,6 +5,7 @@ import org.kylin.zhang.email.bean.EmailBean;
 
 import java.io.*;
 import java.net.URL;
+import java.util.ArrayList;
 import java.util.List;
 import java.util.Map;
 
@@ -14,8 +15,6 @@ import java.util.Map;
 public class NormalWordsTopCounter extends  WordsCounter {
 
     private static boolean isSpamEmail = false ;
-    private List<Map.Entry<String,Integer>> sortedMapList = null ;
-
     public NormalWordsTopCounter(){
         super();
     }
@@ -28,8 +27,9 @@ public class NormalWordsTopCounter extends  WordsCounter {
          URL url ;
          File f ;
          BufferedWriter bufferedWriter ;
+         List<Map.Entry<String,Integer>> sortedMapList = null ;
 
-         this.sortedMapList = super.run(emailBeanList, isSpamEmail) ;
+         sortedMapList = super.run(emailBeanList, isSpamEmail) ;
 
          if (sortedMapList == null || sortedMapList.size() <= 0){
              logger.error("[error] failed to get sorted map list from parent");
@@ -41,20 +41,20 @@ public class NormalWordsTopCounter extends  WordsCounter {
              f = new File(url.getPath()) ;
              bufferedWriter = new BufferedWriter( new FileWriter(f,true)) ;
 
-             if ( this.sortedMapList == null || this.sortedMapList.size() <= 0){
+             if ( sortedMapList == null || sortedMapList.size() <= 0){
                  logger.error("[error] top words pair is empty ") ;
                  return ;
              }
 
              bufferedWriter.newLine();
-            for(Map.Entry<String,Integer> mapping: this.sortedMapList){
+
+            for(Map.Entry<String,Integer> mapping: sortedMapList){
                 if ( mapping.getKey() == null ) continue ;
                 bufferedWriter.write(mapping.getKey());
-                System.out.println( mapping.getKey()) ;
+              //  System.out.println( mapping.getKey()) ;
                 bufferedWriter.newLine();
                 bufferedWriter.flush();
             }
-
 
             bufferedWriter.close();
 
@@ -68,6 +68,6 @@ public class NormalWordsTopCounter extends  WordsCounter {
         NormalWordsTopCounter normalWordsTopCounter = new NormalWordsTopCounter(500) ;
 
         normalWordsTopCounter.updateStopWordFile(emailBeanList);
-        System.out.println(normalWordsTopCounter.sortedMapList.size());
+
     }
 }

@@ -175,12 +175,6 @@ public class EmailFileReader {
                 emailBean.setSentDate(msg.getSentDate()) ;
             }
 
-            // ---> extract unique id of email
-                if ( msg.getMessageID() != null){
-                    String id = msg.getMessageID().replace("<","").replace(">","").trim() ;
-                    emailBean.setHashCode( id ) ;
-                    // System.out.println(emailBean.getHashCode()) ;
-                }
 
             // ---> extract content's body
             // type1 : multipart
