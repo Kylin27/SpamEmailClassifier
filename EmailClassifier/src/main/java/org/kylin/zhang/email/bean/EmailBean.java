@@ -22,7 +22,6 @@ public class EmailBean implements Serializable {
     private List<String>  ccTypeList  ;
     private List<String> bccTypeList ;
     private List<String> toTypeList ;
-    private String  hashCode = null ;
 
 
     // ---- getters and setters
@@ -49,13 +48,7 @@ public class EmailBean implements Serializable {
         }
     }
 
-    public String getHashCode() {
-        return hashCode;
-    }
 
-    public void setHashCode(String hashCode) {
-        this.hashCode = hashCode;
-    }
 
     public Date getRecvDate() {
         return recvDate;

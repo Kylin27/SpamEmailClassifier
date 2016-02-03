@@ -1,13 +1,9 @@
-package org.kylin.zhang.Redis;
+package org.kylin.zhang.redis;
 
 import org.kylin.zhang.email.EmailFileReader;
 import org.kylin.zhang.email.bean.EmailBean;
-import org.msgpack.MessagePack;
 import redis.clients.jedis.Jedis;
-import redis.clients.jedis.JedisPool;
-import redis.clients.jedis.JedisPoolConfig;
 
-import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
 
@@ -47,15 +43,19 @@ public class RedisUtils {
             else
                 key += normal ;
 
-            key += "-"+bean.getHashCode() ;
-        //    System.out.println("insert key " + key ) ;
+            key += "-"+bean.hashCode() ;
             keySet.add(key);
-            jedis.set( key.getBytes(), Packer.packer(bean, EmailBean.class)) ;
+
+            if ( !jedis.exists(key.getBytes()))
+                jedis.set( key.getBytes(), RedisPacker.packer(bean, EmailBean.class)) ;
+            else
+                System.out.println("ReidsUtils line 52") ;
         }
         return keySet ;
     }
 
     public static List<EmailBean> getEmailBeans( List<String> keySet ){
+
         if( keySet == null || keySet.size() == 0){
             System.out.println("[error] input keySet is null or empty ") ;
             return null ;
@@ -67,15 +67,27 @@ public class RedisUtils {
         for ( String key : keySet ){
             EmailBean emBean = null ;
             byte [] bytes = null ;
-            if ( jedisHandler.exists(key.getBytes()))
+
+            if ( jedisHandler.exists(key.getBytes())){
                 bytes = jedisHandler.get(key.getBytes()) ;
-            else
-                System.out.println("could not find value with key "+ key ) ;
 
-            emBean = (EmailBean)Packer.unpacker(bytes, EmailBean.class) ;
+                if ( key.startsWith(spam) || key.startsWith(normal))
+                    jedisHandler.del(key.getBytes()) ;
+            }
+            else {
+                System.out.println("could not find value with key " + key);
+                continue ;
+            }
+            Object obj = RedisPacker.unpacker(bytes, EmailBean.class) ;
 
-            if ( emBean != null )
-                emailBeanLists.add(emBean) ;
+           /* if ( obj instanceof  EmailBean)*/
+                emBean =(EmailBean)obj ;
+         /*   else
+                System.out.println("what the fuck ?") ;*/
+
+            if ( emBean != null ) {
+                emailBeanLists.add(emBean);
+            }
         }
 
         return emailBeanLists ;
@@ -119,48 +131,3 @@ public class RedisUtils {
     }
 }
 
-class Packer {
-    private static  MessagePack packer = null ;
-
-    public static MessagePack getPacker (){
-        if (packer == null ){
-            packer = new MessagePack() ;
-        }
-        return packer ;
-    }
-
-    public static byte [] packer(Object obj , Class className){
-        byte [] value = null ;
-
-        try{
-            MessagePack packer = getPacker() ;
-            packer.register(className);
-            value = packer.write(obj) ;
-        } catch(Exception e){
-            e.printStackTrace();
-        }
-        return value ;
-    }
-    public static Object unpacker(byte [] bytes , Class className ){
-        Object obj = null ;
-
-        try{
-            // verify the bytes is legal
-            if (bytes == null || bytes.length <= 0){
-                System.out.println("[error] input bytes is null or empty") ;
-                return obj ;
-            }
-
-            MessagePack unpacker = getPacker() ;
-            unpacker.register(className);
-            obj = unpacker.read(bytes) ;
-
-        } catch(Exception e){
-            e.printStackTrace();
-        }
-
-        return obj ;
-    }
-
-
-}

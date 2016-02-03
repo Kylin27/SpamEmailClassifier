@@ -4,16 +4,13 @@ import org.apache.log4j.Logger;
 import org.apache.spark.mllib.linalg.Vector;
 import org.apache.spark.mllib.linalg.Vectors;
 import org.apache.spark.mllib.regression.LabeledPoint;
-import org.kylin.zhang.Redis.RedisUtils;
+import org.kylin.zhang.redis.RedisUtils;
 import org.kylin.zhang.email.EmailWordCounter.WordsCounter;
 import org.kylin.zhang.email.bean.EmailBean;
 import redis.clients.jedis.Jedis;
 
 
-import java.text.DateFormat;
 import java.util.*;
-import java.util.regex.Matcher;
-import java.util.regex.Pattern;
 
 /**
  * Created by win-7 on 2016/2/3.
@@ -27,22 +24,12 @@ import java.util.regex.Pattern;
  */
 public class FeatureExtractor {
 
-    private   Map<String,Double> topNSpamWordsPair = null ;
+
     private Logger logger = Logger.getLogger(FeatureExtractor.class) ;
     private WordsCounter wordsCounter ;
 
     public FeatureExtractor(){
             wordsCounter = new WordsCounter() ;
-    }
-
-    public FeatureExtractor(Map<String, Double> spamWordsPair){
-        this() ;
-        if ( spamWordsPair == null || spamWordsPair.size() <= 0){
-           logger.error("[error] input top N spam words pair is empty") ;
-           topNSpamWordsPair = null ;
-            return ;
-        }
-        this.topNSpamWordsPair = spamWordsPair ;
     }
 
    public  List<LabeledPoint> getEmailBeansFeatureLabeledPointList (List<String> emailBeanKeySet){
@@ -94,12 +81,14 @@ public class FeatureExtractor {
      *       freature 1 = n*w
      *
      * 2. we classify time 24 hours into three region
-     *     am. --> 0
-     *     pm. --> 1
+     *     am.  --> 0
+     *     pm.  --> 1
+     *     null --> 2
      *
      * 3. whether the sentDate is later than receivedDate  --> ordinary spam feature , sentDate > receivedDate
-     *    if sentDate later than receivedDate --> type 0 ;
-     *    else type 1 ;
+     *    if sentDate later than receivedDate        --> type 0 ;
+     *    else if sentDate earlier than receiveDate  --> type 1 ;
+     *    else if one of them is null | all null              --> type 2 ;
      *
      * 4. whether the from-address attribute is empty (which you could not see where the email comes from )
      *    if sender's attribute is empty  --> type 0 ;
@@ -126,10 +115,6 @@ public class FeatureExtractor {
             emailBean = wordsCounter.filterEmailBean( emailBean ) ;
         }
 
-        if ( topNSpamWordsPair == null){
-            logger.error("[error] you have to load the top n spam word counter pair") ;
-            return null ;
-        }
 
         // current email text word counter hash-map
         Map<String,Integer> wordCounterPair = wordsCounter.wordCounter(emailBean) ;
@@ -150,27 +135,40 @@ public class FeatureExtractor {
 
         // add feature 1
        featuresArray[0] = f1 ;
-        Calendar cal = Calendar.getInstance() ;
-        cal.setTime(emailBean.getSentDate()) ;
 
         double f2 ;
+        Calendar cal =null ;
 
-        if ( cal.get(Calendar.AM_PM) == Calendar.AM)
+        if ( emailBean.getSentDate() != null ){
+            cal = Calendar.getInstance() ;
+            cal.setTime(emailBean.getSentDate()) ;
+        }
+
+        else if ( emailBean.getRecvDate() != null){
+            cal = Calendar.getInstance() ;
+            cal.setTime( emailBean.getRecvDate());
+        }
+        else {
+            cal = null ;
+        }
+
+        if ( cal != null && cal.get(Calendar.AM_PM) == Calendar.AM)
             f2 = 0.0 ; // am sent the email
-        else if ( cal.get(Calendar.AM_PM)== Calendar.PM)
+        else if ( cal != null &&  cal.get(Calendar.AM_PM)== Calendar.PM)
             f2 = 1.0 ; // pm sent the email
         else
             f2 = 2.0 ;
 
         featuresArray[1] = f2 ;
 
-        double f3 ;
+        double f3 = 2.0;
         Date sentDate  = emailBean.getSentDate() ;
         Date recvDate  = emailBean.getRecvDate() ;
 
-        if ( sentDate.after( recvDate))
+
+        if ( (sentDate != null && recvDate != null )&&sentDate.after( recvDate))
             f3 = 0.0 ;
-        else
+        else if (  (sentDate != null && recvDate != null ) && sentDate.before( recvDate))
             f3 = 1.0 ;
         featuresArray[2] = f3 ;
 

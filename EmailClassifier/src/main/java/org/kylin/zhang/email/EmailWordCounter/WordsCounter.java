@@ -8,7 +8,7 @@ import org.apache.spark.api.java.JavaSparkContext;
 import org.apache.spark.api.java.function.FlatMapFunction;
 import org.apache.spark.api.java.function.Function2;
 import org.apache.spark.api.java.function.PairFunction;
-import org.kylin.zhang.Redis.RedisUtils;
+import org.kylin.zhang.redis.RedisUtils;
 import org.kylin.zhang.email.EmailFileReader;
 import org.kylin.zhang.email.bean.EmailBean;
 import scala.Tuple2;
@@ -27,8 +27,8 @@ import java.util.regex.Pattern;
  */
 @SuppressWarnings("serial")
 public class WordsCounter  implements Serializable {
-    transient private SparkConf sparkConf ;
-    transient private JavaSparkContext sparkContext ;
+    transient public static SparkConf sparkConf ;
+    transient public  static JavaSparkContext sparkContext ;
     transient private List<Map.Entry<String,Integer>> sortedMapList ;
     protected int topN = 1000 ;
     protected long totalWords  ;
@@ -37,11 +37,15 @@ public class WordsCounter  implements Serializable {
 
     transient private List<String> keySet = null ;
 
+    private static void setup(){
+        sparkConf = new SparkConf().setAppName("Spark hands-on").setMaster("local");
+        sparkContext = new JavaSparkContext(sparkConf);
+    }
 
     public WordsCounter(){
         logger = Logger.getLogger(this.getClass()) ;
-        sparkConf = new SparkConf().setAppName("Spark hands-on").setMaster("local");
-        sparkContext = new JavaSparkContext(sparkConf);
+        if (sparkConf == null || sparkContext == null)
+            setup();
         loadStopWordFromFile();
     }
 
@@ -325,6 +329,7 @@ public class WordsCounter  implements Serializable {
           return emailBean ;
     }
 
+
     /**
      * run method is the final execute method
      * step follows :
@@ -349,7 +354,7 @@ public class WordsCounter  implements Serializable {
     public List<Map.Entry<String,Integer>> run( List<EmailBean> emailBeanList, boolean isSpamEmailList ){
         loadStopWordFromFile();
         List<EmailBean> filteredEmailBeanList = this.filterAllEmailBeans(emailBeanList) ;
-        this.keySet = RedisUtils.insertEmailBeans(isSpamEmailList , filteredEmailBeanList) ;    // --> here we insert the readin EmailBean s into Redis
+        this.keySet = RedisUtils.insertEmailBeans( isSpamEmailList , filteredEmailBeanList) ;    // --> here we insert the readin EmailBean s into Redis
 
         if ( keySet != null && keySet.size() >= 0){
           //  System.out.println("writes in redis total records " + keySet.size()) ;
@@ -357,6 +362,10 @@ public class WordsCounter  implements Serializable {
         }
 
         return this.getTopNWordsPair( filteredEmailBeanList ).subList(0 , filteredEmailBeanList.size()<=this.topN?filteredEmailBeanList.size():topN ) ;
+    }
+
+    public List<String> getKeySet() {
+        return keySet;
     }
 
     public static void main (String [] args ) throws Exception {

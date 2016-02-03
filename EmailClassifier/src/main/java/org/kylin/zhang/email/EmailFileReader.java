@@ -18,8 +18,10 @@ import java.util.Properties;
  * Created by win-7 on 2016/2/2.
  */
 public class EmailFileReader {
-    public static String testFolderName  = "TESTING" ;
-    public static String trainFolderName = "TRAINING" ;
+    public static String testFolderName  = "TESTING/"+"spam";
+    public static String trainFolderName = "TRAINING/"+"spam" ;
+    public static String testNormalFolderName = "TESTING/"+"normal" ;
+    public static String trianNormalFolderName = "TRAINING/"+"normal" ;
     private static Logger logger = Logger.getLogger(EmailFileReader.class) ;
 
     public static List<EmailBean> getAllBeansFromFiles( String folderName ){
@@ -51,7 +53,7 @@ public class EmailFileReader {
             emailBeans = new ArrayList<EmailBean>() ; // each email-file 's attributes stored in one EmailBean object
             emailFileNameArray = (new File(url.getPath())).list(new FilenameFilter() {
                 public boolean accept(File dir, String name) {
-                    return name.endsWith(".eml") ;
+                    return true ;
                 }
             }) ;
 
@@ -175,12 +177,6 @@ public class EmailFileReader {
                 emailBean.setSentDate(msg.getSentDate()) ;
             }
 
-            // ---> extract unique id of email
-                if ( msg.getMessageID() != null){
-                    String id = msg.getMessageID().replace("<","").replace(">","").trim() ;
-                    emailBean.setHashCode( id ) ;
-                    // System.out.println(emailBean.getHashCode()) ;
-                }
 
             // ---> extract content's body
             // type1 : multipart
@@ -243,15 +239,15 @@ public class EmailFileReader {
 
         List<EmailBean> emailBeansList = null ;
 
-        emailBeansList = EmailFileReader.getAllBeansFromFiles(trainFolderName);
+        emailBeansList = EmailFileReader.getAllBeansFromFiles(testNormalFolderName);
 
         System.out.println("total " + emailBeansList.size() ) ;
 
-       /* for (EmailBean eBean : emailBeansList){
+        for (EmailBean eBean : emailBeansList){
             System.out.println("======================================================\n") ;
             System.out.println(eBean) ;
             System.out.println("======================================================\n") ;
-        }*/
+        }
 
     }
 }
