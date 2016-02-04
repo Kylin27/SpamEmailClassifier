@@ -1,0 +1,15 @@
+Delivered-To: lists-linux-xfs@bruce-guenter.dyndns.org
+Received: (qmail 19970 invoked from network); 21 Jan 2016 22:42:42 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.2]); 21 Jan 2016 22:42:42 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 21 Jan 2016 22:42:42 -0000
+Received: (qmail 21982 invoked from network); 21 Jan 2016 22:42:40 -0000
+Received: from ns228580.ovh.net ([95.130.11.155])
+  by zak.futurequest.net ([69.5.6.152])
+  with SMTP via TCP; 21 Jan 2016 22:42:40 -0000
+Received: from 104.131.32.120 by ns228580.ovh.net; Thu, 21 Jan 2016 17:39:38 -0500
+Message-ID: <H[20
+
+

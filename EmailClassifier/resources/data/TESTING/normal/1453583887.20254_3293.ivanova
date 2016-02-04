@@ -1,0 +1,1061 @@
+Delivered-To: lists-linux-kernel@bruce-guenter.dyndns.org
+Received: (qmail 17756 invoked from network); 22 Jan 2016 10:00:26 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.2]); 22 Jan 2016 10:00:26 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 22 Jan 2016 10:00:26 -0000
+Received: (qmail 8099 invoked from network); 22 Jan 2016 10:00:24 -0000
+Received: from ota240.proyag.com ([77.89.253.240])
+  by zak.futurequest.net ([69.5.6.152])
+  with ESMTP via TCP; 22 Jan 2016 10:00:24 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=DKIM1; d=proyag.com;
+ h=To:Subject:Message-ID:Date:From:Reply-To:MIME-Version:Content-Type:Content-Transfer-Encoding; i=postmaster@proyag.com;
+ bh=GKPt7kFt+rw0R3ey022ApqCn6aY=;
+ b=EGGYsJKWqfhUQADK64geJEGt3UmpjeJg+eLssSYwg5RemwtG5wFZLWGgGIuo8vAfpgsDWHBwLhBJ
+   4vZkkUFOUD5xcCADu6rheaShqQ+zDa/jZiZyu9PQiLul9wjV+0kmlXsQG28yfPX1u8hh2FDxSyIN
+   ZvrJ4u1CEUu05GGYEkg=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=DKIM1; d=proyag.com;
+ b=c8T2Xwsol1393ffhmItFeWIttQPLGwHfLwcRQmrBoL7CX/WrvT7f0lFHR0AVFuwjXzPk8CYOOT3K
+   /a0UFVDFK1KPu5bmgY/hrxHX9V5OPeHBYQE1tRSUaP2ZcpN+hPnEBMlfztqoC04QjrV9kLfb37aL
+   0DNla41OXDbxybCbKdM=;
+To: lists-linux-kernel@bruce-guenter.dyndns.org
+Subject: Votre offre 4G entreprises
+Message-ID: <a15b51bd41103a254aed533a4eeb2190@proyag.com>
+Return-Path: bounce@proyag.com
+Date: Fri, 22 Jan 2016 09:59:41 +0000
+From: "=?UTF-8?B?Qm91eWd1ZXMgVMOpbMOpY29t?=" <info@proyag.com>
+Reply-To: support@proyag.com
+MIME-Version: 1.0
+X-Mailer-LID: 66
+X-Mailer-SID: 457
+X-Mailer-Sent-By: 1
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 8bit
+Content-Length: 28483
+
+<!doctype html>
+<html xmlns="http://www.w3.org/1999/xhtml"
+xmlns:v="urn:schemas-microsoft-com:vml"
+xmlns:o="urn:schemas-microsoft-com:office:office">
+
+<head>
+    <!-- NAME: 1:3 COLUMN -->
+    <!--[if gte mso 15]>
+        <xml>
+            <o:OfficeDocumentSettings>
+            <o:AllowPNG/>
+            <o:PixelsPerInch>96</o:PixelsPerInch>
+            </o:OfficeDocumentSettings>
+        </xml>
+        <![endif]-->
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Bouygues Telecom - Le forfait Neo Entreprises 24/7 Data
+maintenant à 10 Go</title>
+
+    <style type="text/css">
+        p
+            margin: 10px 0;
+            padding: 0;
+
+
+        table
+            border-collapse: collapse;
+
+
+        h1,
+        h2,
+        h3,
+        h4,
+        h5,
+        h6
+            display: block;
+            margin: 0;
+            padding: 0;
+
+
+        img,
+        a img
+            border: 0;
+            height: auto;
+            outline: none;
+            text-decoration: none;
+
+
+        body,
+        #bodyTable,
+        #bodyCell
+            height: 100%;
+            margin: 0;
+            padding: 0;
+            width: 100%;
+
+
+        #outlook a
+            padding: 0;
+
+
+        img
+            -ms-interpolation-mode: bicubic;
+
+
+        table
+            mso-table-lspace: 0pt;
+            mso-table-rspace: 0pt;
+
+
+        .ReadMsgBody
+            width: 100%;
+
+
+        .ExternalClass
+            width: 100%;
+
+
+        p,
+        a,
+        li,
+        td,
+        blockquote
+            mso-line-height-rule: exactly;
+
+
+        a[href^=tel],
+        a[href^=sms]
+            color: inherit;
+            cursor: default;
+            text-decoration: none;
+
+
+        p,
+        a,
+        li,
+        td,
+        body,
+        table,
+        blockquote
+            -ms-text-size-adjust: 100%;
+            -webkit-text-size-adjust: 100%;
+
+
+        .ExternalClass,
+        .ExternalClass p,
+        .ExternalClass td,
+        .ExternalClass div,
+        .ExternalClass span,
+        .ExternalClass font
+            line-height: 100%;
+
+
+        a[x-apple-data-detectors]
+            color: inherit !important;
+            text-decoration: none !important;
+            font-size: inherit !important;
+            font-family: inherit !important;
+            font-weight: inherit !important;
+            line-height: inherit !important;
+
+
+        #bodyCell
+            padding: 10px;
+
+
+        .templateContainer
+            max-width: 600px !important;
+
+
+        a.mcnButton
+            display: block;
+
+
+        .mcnImage
+            vertical-align: bottom;
+
+
+        .mcnTextContent
+            word-break: break-word;
+
+
+        .mcnTextContent img
+            height: auto !important;
+
+
+        .mcnDividerBlock
+            table-layout: fixed !important;
+
+
+        body,
+        #bodyTable
+            background-color: #ffffff;
+
+
+        #bodyCell
+            border-top: 0;
+
+
+        .templateContainer
+            border: 0;
+
+
+        h1
+            color: #202020;
+            font-family: Helvetica;
+            font-size: 26px;
+            font-style: normal;
+            font-weight: bold;
+            line-height: 125%;
+            letter-spacing: normal;
+            text-align: left;
+
+
+        h2
+            color: #202020;
+            font-family: Helvetica;
+            font-size: 22px;
+            font-style: normal;
+            font-weight: bold;
+            line-height: 125%;
+            letter-spacing: normal;
+            text-align: left;
+
+
+        h3
+            color: #202020;
+            font-family: Helvetica;
+            font-size: 20px;
+            font-style: normal;
+            font-weight: bold;
+            line-height: 125%;
+            letter-spacing: normal;
+            text-align: left;
+
+
+        h4
+            color: #202020;
+            font-family: Helvetica;
+            font-size: 18px;
+            font-style: normal;
+            font-weight: bold;
+            line-height: 125%;
+            letter-spacing: normal;
+            text-align: left;
+
+
+        #templatePreheader
+            background-color: #ffffff;
+            border-top: 0;
+            border-bottom: 0;
+            padding-top: 0px;
+            padding-bottom: 9px;
+
+
+        #templatePreheader .mcnTextContent,
+        #templatePreheader .mcnTextContent p
+            color: #6e6e69;
+            font-family: Helvetica;
+            font-size: 12px;
+            line-height: 150%;
+            text-align: left;
+
+
+        #templatePreheader .mcnTextContent a,
+        #templatePreheader .mcnTextContent p a
+            color: #6e6e69;
+            font-weight: normal;
+            text-decoration: underline;
+
+
+        #templateHeader
+            background-color: #FFFFFF;
+            border-top: 0;
+            border-bottom: 0;
+            padding-top: 0px;
+            padding-bottom: 0;
+
+
+        #templateHeader .mcnTextContent,
+        #templateHeader .mcnTextContent p
+            color: #202020;
+            font-family: Helvetica;
+            font-size: 16px;
+            line-height: 150%;
+            text-align: left;
+
+
+        #templateHeader .mcnTextContent a,
+        #templateHeader .mcnTextContent p a
+            color: #2BAADF;
+            font-weight: normal;
+            text-decoration: underline;
+
+
+        #templateBody
+            background-color: #FFFFFF;
+            border-top: 0;
+            border-bottom: 0;
+            padding-top: 0;
+            padding-bottom: 0;
+
+
+        #templateBody .mcnTextContent,
+        #templateBody .mcnTextContent p
+            color: #202020;
+            font-family: Helvetica;
+            font-size: 16px;
+            line-height: 150%;
+            text-align: left;
+
+
+        #templateBody .mcnTextContent a,
+        #templateBody .mcnTextContent p a
+            color: #2BAADF;
+            font-weight: normal;
+            text-decoration: underline;
+
+
+        #templateColumns
+            background-color: #FFFFFF;
+            border-top: 0;
+            border-bottom: 0;
+            padding-top: 0;
+            padding-bottom: 0px;
+
+
+        #templateColumns .columnContainer .mcnTextContent,
+        #templateColumns .columnContainer .mcnTextContent p
+            color: #202020;
+            font-family: Helvetica;
+            font-size: 16px;
+            line-height: 150%;
+            text-align: left;
+
+
+        #templateColumns .columnContainer .mcnTextContent a,
+        #templateColumns .columnContainer .mcnTextContent p a
+            color: #2BAADF;
+            font-weight: normal;
+            text-decoration: underline;
+
+
+        #templateFooter
+            background-color: #ffffff;
+            border-top: 0;
+            border-bottom: 0;
+            padding-top: 9px;
+            padding-bottom: 9px;
+
+
+        #templateFooter .mcnTextContent,
+        #templateFooter .mcnTextContent p
+            color: #6e6e69;
+            font-family: Helvetica;
+            font-size: 12px;
+            line-height: 150%;
+            text-align: center;
+
+
+        #templateFooter .mcnTextContent a,
+        #templateFooter .mcnTextContent p a
+            color: #6e6e69;
+            font-weight: normal;
+            text-decoration: underline;
+
+
+        .mcnTextContentTitle
+            line-height: 200%!important;
+
+
+        @media only screen and (min-width:768px)
+            .templateContainer {
+                width: 600px !important;
+
+        }
+
+        @media only screen and (max-width: 480px)
+            body,
+            table,
+            td,
+            p,
+            a,
+            li,
+            blockquote {
+                -webkit-text-size-adjust: none !important;
+
+        }
+
+        @media only screen and (max-width: 480px)
+            body {
+                width: 100% !important;
+                min-width: 100% !important;
+
+        }
+
+        @media only screen and (max-width: 480px)
+            #bodyCell {
+                padding-top: 10px !important;
+
+        }
+
+        @media only screen and (max-width: 480px)
+            .columnWrapper {
+                max-width: 100% !important;
+                width: 100% !important;
+
+        }
+
+        @media only screen and (max-width: 480px)
+            .mcnImage {
+                width: 100% !important;
+
+        }
+
+        @media only screen and (max-width: 480px)
+            .mcnCaptionTopContent,
+            .mcnCaptionBottomContent,
+            .mcnTextContentContainer,
+            .mcnBoxedTextContentContainer,
+            .mcnImageGroupContentContainer,
+            .mcnCaptionLeftTextContentContainer,
+            .mcnCaptionRightTextContentContainer,
+            .mcnCaptionLeftImageContentContainer,
+            .mcnCaptionRightImageContentContainer,
+            .mcnImageCardLeftTextContentContainer,
+            .mcnImageCardRightTextContentContainer {
+                max-width: 100% !important;
+                width: 100% !important;
+
+        }
+
+        @media only screen and (max-width: 480px)
+            .mcnCaptionRightImageContentContainer {
+                text-align: center !important;
+
+        }
+
+        @media only screen and (max-width: 480px)
+            .mcnBoxedTextContentContainer {
+                min-width: 100% !important;
+
+        }
+
+        @media only screen and (max-width: 480px)
+            #logo {
+                padding-bottom: 20px !important;
+
+        }
+
+        @media only screen and (max-width: 480px)
+            .mcnImageGroupContent {
+                padding: 9px !important;
+
+        }
+
+        @media only screen and (max-width: 480px)
+            .mcnCaptionLeftContentOuter .mcnTextContent,
+            .mcnCaptionRightContentOuter .mcnTextContent {
+                padding-top: 9px !important;
+
+        }
+
+        @media only screen and (max-width: 480px)
+            .mcnImageCardTopImageContent,
+            .mcnCaptionBlockInner .mcnCaptionTopContent:last-child
+mcnTextContent {
+                padding-top: 18px !important;
+
+        }
+
+        @media only screen and (max-width: 480px)
+            .mcnImageCardBottomImageContent {
+                padding-bottom: 9px !important;
+
+        }
+
+        @media only screen and (max-width: 480px)
+            .mcnImageGroupBlockInner {
+                padding-top: 0 !important;
+                padding-bottom: 0 !important;
+
+        }
+
+        @media only screen and (max-width: 480px)
+            .mcnImageGroupBlockOuter {
+                padding-top: 9px !important;
+                padding-bottom: 9px !important;
+
+        }
+
+        @media only screen and (max-width: 480px)
+            .mcnTextContent,
+            .mcnBoxedTextContentColumn {
+                padding-right: 18px !important;
+                padding-left: 18px !important;
+
+        }
+
+        @media only screen and (max-width: 480px)
+            .mcnTextContentTitle {
+                padding-right: 0px !important;
+                padding-left: 0px !important;
+                line-height: 200%!important;
+
+        }
+
+        @media only screen and (max-width: 480px)
+            .mcnBoxedTextContentColumnHeader {
+                padding-right: 0px !important;
+                padding-left: 0px !important;
+
+        }
+
+        @media only screen and (max-width: 480px)
+            .mcnImageCardLeftImageContent,
+            .mcnImageCardRightImageContent {
+                padding-right: 18px !important;
+                padding-bottom: 0 !important;
+                padding-left: 18px !important;
+
+        }
+
+        @media only screen and (max-width: 480px)
+            .mcpreview-image-uploader {
+                display: none !important;
+                width: 100% !important;
+
+        }
+
+        @media only screen and (max-width: 480px)
+            h1 {
+                font-size: 22px !important;
+                line-height: 125% !important;
+
+        }
+
+        @media only screen and (max-width: 480px)
+            h2 {
+                font-size: 20px !important;
+                line-height: 125% !important;
+
+        }
+
+        @media only screen and (max-width: 480px)
+            h3 {
+                font-size: 18px !important;
+                line-height: 125% !important;
+
+        }
+
+        @media only screen and (max-width: 480px)
+            h4 {
+                font-size: 16px !important;
+                line-height: 150% !important;
+
+        }
+
+        @media only screen and (max-width: 480px)
+            .mcnBoxedTextContentContainer .mcnTextContent,
+            .mcnBoxedTextContentContainer .mcnTextContent p {
+                font-size: 14px !important;
+                line-height: 150% !important;
+
+        }
+
+        @media only screen and (max-width: 480px)
+            #templatePreheader {
+                display: block !important;
+
+        }
+
+        @media only screen and (max-width: 480px)
+            #templatePreheader .mcnTextContent,
+            #templatePreheader .mcnTextContent p {
+                font-size: 13px !important;
+                line-height: 150% !important;
+
+        }
+
+        @media only screen and (max-width: 480px)
+            #templateHeader .mcnTextContent,
+            #templateHeader .mcnTextContent p {
+                font-size: 16px !important;
+                line-height: 200% !important;
+
+        }
+
+        @media only screen and (max-width: 480px)
+            #templateBody .mcnTextContent,
+            #templateBody .mcnTextContent p {
+                font-size: 16px !important;
+                line-height: 150% !important;
+
+        }
+
+        @media only screen and (max-width: 480px)
+            #templateColumns .columnContainer .mcnTextContent,
+            #templateColumns .columnContainer .mcnTextContent p {
+                font-size: 16px !important;
+                line-height: 150% !important;
+
+        }
+
+        @media only screen and (max-width: 480px)
+            #templateFooter .mcnTextContent,
+            #templateFooter .mcnTextContent p {
+                font-size: 14px !important;
+                line-height: 150% !important;
+
+        }
+
+        @media only screen and (max-width: 480px)
+            .borderRight {
+                border-right: none!important;
+                padding-right: none!important;
+
+            .borderRightFirst
+                padding-top: 20px!important;
+                border-right: none!important;
+                padding-right: none!important;
+                border-bottom: none!important;
+
+            .borderRightLast
+                border-right: none!important;
+                padding-right: none!important;
+                border-bottom: none!important;
+
+        }
+
+        @media only screen and (max-width:480px)
+            .mcnTextContent {
+                border-right: none!important;
+
+
+            .mcnTextContentList
+                border-bottom: solid 1px #ccc!important;
+                height: 110px!important;
+                vertical-align: middle;
+
+
+            .mcnTextContentListLast
+                height: 110px!important;
+                vertical-align: middle;
+
+        }
+    </style>
+</head>
+
+<body>
+<center>
+<table style="width: 100%; height: 100%;" id="bodyTable" align="center"
+border="0" cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td id="bodyCell" align="center" valign="top"><!-- BEGIN TEMPLATE // -->
+<!--[if gte mso 9]>
+						<table align="center" border="0" cellspacing="0" cellpadding="0"
+width="600" style="width:600px;">
+						<tr>
+						<td align="center" valign="top" width="600" style="width:600px;">
+						<![endif]-->
+<table style="width: 100%;" class="templateContainer" border="0"
+cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td id="templatePreheader" valign="top">
+<table class="mcnTextBlock" style="min-width: 100%; width: 100%;"
+border="0" cellpadding="0" cellspacing="0">
+<tbody class="mcnTextBlockOuter">
+<tr>
+<td class="mcnTextBlockInner" valign="top">
+<table style="min-width: 100%; width: 100%;"
+class="mcnTextContentContainer" align="left" border="0" cellpadding="0"
+cellspacing="0">
+<tbody>
+<tr>
+<td class="mcnTextContent mcnBoxedTextContentColumnHeader" style="padding:
+9px 0px; color: #909196; font-size: 13px;" valign="top">
+<div style="text-align: center;"><span style="mso-table-lspace: 0pt;
+mso-table-rspace: 0pt; -ms-text-size-adjust: 100%;
+-webkit-text-size-adjust: 100%;">Si vous ne visualisez pas correctement ce
+message, <a href="http://proyag.com/link.php?M=3376299&N=457&L=38&F=H"
+target="_blank">consultez-le en ligne.</a></span></div>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td id="templateHeader" valign="top">
+<table style="width: 100%;" class="mcnCaptionBlock" border="0"
+cellpadding="0" cellspacing="0">
+<tbody class="mcnCaptionBlockOuter">
+<tr>
+<td class="mcnCaptionBlockInner" style="padding: 0px 0px 20px 0px;"
+valign="top">
+<table style="width: 100%;" class="mcnCaptionRightContentOuter" border="0"
+cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td class="mcnCaptionRightContentInner" style="padding: 0px;"
+valign="top">
+<table class="mcnCaptionRightImageContentContainer" align="left" border="0"
+cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td class="mcnCaptionRightImageContent" valign="top"><a
+href="http://proyag.com/link.php?M=3376299&N=457&L=37&F=H"
+target="_blank"><img alt=""
+src="http://hosting.effiliation.com/BouyguesTelecom/routeur4Gdecembre15/BouyguesTelecom-Logo.png"
+style="max-width: 280px;" class="mcnImage" id="logo" width="176"
+/></a></td>
+</tr>
+</tbody>
+</table>
+<table class="mcnCaptionRightTextContentContainer" style="background:
+transparent linear-gradient(to right, #00abd4 0%, #0060ae 100%) repeat
+scroll 0% 0%; border-radius: 5px; width: 404px; height: 55px;"
+align="right" border="0" cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td class="mcnTextContent" style="text-align: right; color: #ffffff;
+padding: 14px 20px;" valign="top"><strong>Le progr&egrave;s vous
+appartient</strong></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<table class="mcnTextBlock" style="min-width: 100%; width: 100%;"
+border="0" cellpadding="0" cellspacing="0">
+<tbody class="mcnTextBlockOuter">
+<tr>
+<td class="mcnTextBlockInner" valign="top">
+<table style="min-width: 100%; width: 100%;"
+class="mcnTextContentContainer" align="left" border="0" cellpadding="0"
+cellspacing="0">
+<tbody>
+<tr>
+<td class="mcnTextContent mcnTextContentTitle" style="padding: 9px 18px;
+line-height: 200%;" valign="top">
+<div style="text-align: center;"><span style="color:
+#0060ae;"><strong><span style="font-family: arial,helvetica
+neue,helvetica,sans-serif;"><span style="font-size: 35px;"><span
+style="text-transform: uppercase; word-break: normal;">D&eacute;couvrez nos
+forfaits 4G pour les entreprises</span></span> </span> </strong>
+</span></div>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td id="templateBody" valign="top">
+<table class="mcnImageBlock" style="min-width: 100%; width: 100%;"
+border="0" cellpadding="0" cellspacing="0">
+<tbody class="mcnImageBlockOuter">
+<tr>
+<td style="padding: 0px 0px 30px 0px;" class="mcnImageBlockInner"
+valign="top">
+<table class="mcnImageContentContainer" style="min-width: 100%; width:
+100%;" align="left" border="0" cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td class="mcnImageContent" style="padding-right: 9px; padding-left: 9px;
+padding-top: 0; padding-bottom: 0; text-align: center;" valign="top"><a
+href="http://proyag.com/link.php?M=3376299&N=457&L=37&F=H"
+target="_blank"><img alt=""
+src="http://hosting.effiliation.com/BouyguesTelecom/routeur4Gdecembre15/BouyguesTelecom-Button1.png"
+style="max-width: 215px; padding-bottom: 0; display: inline !important;
+vertical-align: bottom;" class="mcnImage" align="middle" width="215"
+/></a></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<table class="mcnImageBlock" style="min-width: 100%; width: 100%;"
+border="0" cellpadding="0" cellspacing="0">
+<tbody class="mcnImageBlockOuter">
+<tr>
+<td style="padding: 0px;" class="mcnImageBlockInner" valign="top">
+<table class="mcnImageContentContainer" style="min-width: 100%; width:
+100%;" align="left" border="0" cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td class="mcnImageContent" style="padding-right: 0px; padding-left: 0px;
+padding-top: 0; padding-bottom: 0; text-align: center;" valign="top"><a
+href="http://proyag.com/link.php?M=3376299&N=457&L=37&F=H"
+target="_blank"><img alt=""
+src="http://hosting.effiliation.com/BouyguesTelecom/routeur4Gdecembre15/BouyguesTelecom-Hero.jpg"
+style="max-width: 600px; padding-bottom: 0; display: inline !important;
+vertical-align: bottom; border-radius: 5px;" class="mcnImage"
+align="middle" width="600" /></a></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<table class="mcnImageBlock" style="min-width: 100%; width: 100%;"
+border="0" cellpadding="0" cellspacing="0">
+<tbody class="mcnImageBlockOuter">
+<tr>
+<td style="padding: 20px;" class="mcnImageBlockInner" valign="top">
+<table class="mcnImageContentContainer" style="min-width: 100%; width:
+100%;" align="left" border="0" cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td class="mcnImageContent" style="padding-right: 9px; padding-left: 9px;
+padding-top: 0; padding-bottom: 0; text-align: center;" valign="top"><a
+href="http://proyag.com/link.php?M=3376299&N=457&L=37&F=H"
+target="_blank"><img alt=""
+src="http://hosting.effiliation.com/BouyguesTelecom/routeur4Gdecembre15/BouyguesTelecom-Plus.png"
+style="max-width: 32px; padding-bottom: 0; display: inline !important;
+vertical-align: bottom;" class="mcnImage" align="middle" width="32"
+/></a></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td id="templateColumns" style="border-collapse: collapse; border-radius:
+5px; border-style: hidden; /* hide standard table (collapsed) border
+*/box-shadow: 0 0 0 1px #cccccc;" valign="top"><!--[if gte mso 9]>
+									<table align="center" border="0" cellspacing="0" cellpadding="0"
+width="600" style="width:600px;">
+									<tr>
+									<td align="center" valign="top" width="150" style="width:150px;">
+									<![endif]-->
+<table style="width: 150px;" class="columnWrapper" align="left" border="0"
+cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td class="columnContainer" valign="top">
+<table class="mcnTextBlock" style="min-width: 100%; width: 100%;"
+border="0" cellpadding="0" cellspacing="0">
+<tbody class="mcnTextBlockOuter">
+<tr>
+<td class="mcnTextBlockInner" valign="top">
+<table style="min-width: 100%; width: 100%;"
+class="mcnTextContentContainer" align="left" border="0" cellpadding="0"
+cellspacing="0">
+<tbody>
+<tr>
+<td class="mcnTextContent mcnTextContentList" style="padding: 10px 0px 10px
+10px; color: #909196; font-size: 13px; height: 120px; border-right: solid
+1px #cccccc;" valign="top">
+<div style="text-align: center; padding-right: 10px;"><strong><span
+style="color: #0060ae;">Appels, MMS et SMS illimit&eacute;s</span></strong>
+<br /> En France m&eacute;tropolitaine + vers l'Europe,&nbsp;USA, Canada
+et&nbsp;DOM</div>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<!--[if gte mso 9]>
+									</td>
+									<td align="center" valign="top" width="150" style="width:150px;">
+									<![endif]-->
+<table style="width: 150px; height: 134px;" class="columnWrapper"
+align="left" border="0" cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td class="columnContainer" valign="top">
+<table class="mcnTextBlock" style="min-width: 100%; width: 100%;"
+border="0" cellpadding="0" cellspacing="0">
+<tbody class="mcnTextBlockOuter">
+<tr>
+<td class="mcnTextBlockInner" valign="top">
+<table style="min-width: 100%; width: 100%;"
+class="mcnTextContentContainer" align="left" border="0" cellpadding="0"
+cellspacing="0">
+<tbody>
+<tr>
+<td class="mcnTextContent mcnTextContentList" style="padding: 10px 0px 10px
+10px; color: #909196; font-size: 13px; height: 120px; border-right: solid
+1px #cccccc;" valign="top">
+<div style="text-align: center; padding-right: 10px;"><strong
+style="text-align: center;"><span style="color: #0060ae;">Data mobile
+4G</span></strong> <br /> &nbsp;</div>
+<div style="text-align: center; padding-right: 10px;"
+class="borderRightLast"><span style="color:
+#cb4c6c;"><strong>10Go/mois</strong></span> <br /> en France
+m&eacute;tropolitaine</div>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<!--[if gte mso 9]>
+									</td>
+									<td align="center" valign="top" width="150" style="width:150px;">
+									<![endif]-->
+<table style="width: 150px; height: 134px;" class="columnWrapper"
+align="left" border="0" cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td class="columnContainer" valign="top">
+<table class="mcnTextBlock" style="min-width: 100%; width: 100%;"
+border="0" cellpadding="0" cellspacing="0">
+<tbody class="mcnTextBlockOuter">
+<tr>
+<td class="mcnTextBlockInner" valign="top">
+<table style="min-width: 100%; width: 100%;"
+class="mcnTextContentContainer" align="left" border="0" cellpadding="0"
+cellspacing="0">
+<tbody>
+<tr>
+<td class="mcnTextContent mcnTextContentList" style="padding: 10px 0px 10px
+10px; color: #909196; font-size: 13px; height: 120px; border-right: solid
+1px #cccccc;" valign="top">
+<div style="text-align: center; padding-right: 10px;"><strong
+style="text-align: center;"><span style="color:
+#0060ae;">SAV</span></strong> <br /> &nbsp;</div>
+<div style="text-align: center; padding-right: 10px;">Jusqu'&agrave; 3
+&eacute;changes sur site par an en France m&eacute;tropolitaine</div>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<!--[if gte mso 9]>
+									</td>
+									</tr>
+									</table>
+									<![endif]-->
+<table style="width: 150px; height: 134px;" class="columnWrapper"
+align="left" border="0" cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td class="columnContainer" valign="top">
+<table class="mcnTextBlock" style="min-width: 100%; width: 100%;"
+border="0" cellpadding="0" cellspacing="0">
+<tbody class="mcnTextBlockOuter">
+<tr>
+<td class="mcnTextBlockInner" valign="top">
+<table style="min-width: 100%; width: 100%;"
+class="mcnTextContentContainer" align="left" border="0" cellpadding="0"
+cellspacing="0">
+<tbody>
+<tr>
+<td class="mcnTextContent mcnTextContentListLast" style="padding: 10px 10px
+10px 10px; color: #909196; font-size: 13px; height: 120px;" valign="top">
+<div style="text-align: center;"><strong style="text-align: center;"><span
+style="color: #0060ae;">Services inclus</span></strong> <br />
+&nbsp;</div>
+<div style="text-align: center;">3 licences <strong style="color:
+#cb4c6c;">Office 365</strong>, Mode Modem, VoIP, messagerie vocale
+visuelle</div>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<!--[if gte mso 9]>
+									</td>
+									</tr>
+									</table>
+									<![endif]--></td>
+</tr>
+</tbody>
+</table>
+<!--[if gte mso 9]>
+						</td>
+						</tr>
+						</table>
+						<![endif]--> <!-- // END TEMPLATE -->
+<table class="mcnImageBlock" style="min-width: 100%; width: 100%;"
+border="0" cellpadding="0" cellspacing="0">
+<tbody class="mcnImageBlockOuter">
+<tr>
+<td style="padding: 20px 0px;" class="mcnImageBlockInner" valign="top">
+<table class="mcnImageContentContainer" style="min-width: 100%; width:
+100%;" align="left" border="0" cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td class="mcnImageContent" style="padding-right: 9px; padding-left: 9px;
+padding-top: 0; padding-bottom: 0; text-align: center;" valign="top"><a
+href="http://proyag.com/link.php?M=3376299&N=457&L=37&F=H"
+target="_blank"><img alt=""
+src="http://hosting.effiliation.com/BouyguesTelecom/routeur4Gdecembre15/BouyguesTelecom-Button2.png"
+style="max-width: 215px; padding-bottom: 0; display: inline !important;
+vertical-align: bottom;" class="mcnImage" align="middle" width="215"
+/></a></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<span class="email" style="margin: 1em 0; color: #999999; text-align:
+center; font-size: 12px; font-weight: 100; -ms-text-size-adjust: 100%;
+-webkit-text-size-adjust: 100%; font-family: Arial, sans-serif;
+line-height: 110%; text-transform: none;">Ce message vous est envoy&eacute;
+par LeadsLeader. <a
+href="http://proyag.com/link.php?M=3376299&N=457&L=1&F=H">D &eacute; s a b
+o n n e m e n t</a> de la liste</span></td>
+</tr>
+</tbody>
+</table>
+</center><img
+src="http://track13390485.effimails23.com/servlet/effi.pixel?id_compteur=13390485"
+/>
+<img src="http://proyag.com/open.php?M=3376299&L=66&N=457&F=H&image=.jpg"
+height="1" width="10"></body>
+
+</html>

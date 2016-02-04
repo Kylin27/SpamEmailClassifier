@@ -1,0 +1,66 @@
+Delivered-To: bruce@untroubled.org
+Received: (fqmail 7148 invoked from network); 17 Jan 2016 09:47:26 -0000
+Received: (qmail 14261 invoked from network); 17 Jan 2016 09:47:26 -0000
+Received: from rip.mx04.futurequest.net (rip.mx04.futurequest.net [10.2.1.175])
+  by mx04.futurequest.net ([69.5.6.175]); 17 Jan 2016 09:47:25 -0000
+Received: from hostpaid.leftyou.net ([120.25.85.96])
+  by rip.mx04.futurequest.net ([10.2.1.175])
+  with ESMTP via TCP; 17 Jan 2016 09:47:25 -0000
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed;
+	d=paid.leftyou.net; s=default; h=Date:Message-Id:Content-Transfer-Encoding:
+	Content-Type:MIME-Version:Reply-To:From:Subject:To;
+	bh=4J/oxff883jFwmPRCTbwvg8z+M0fUwP0y2lx2ai3v5Q=; b=q2IdQVPK+SSR3dpK34ytBBAn49
+	DV4uqB3lA/p4aJV0psSRAYqXEDOlWZKv2msFFA90slc++4UOIOAIH2pbwI8AyfpkAbgYv196nySQv
+	eTsZWs3SGZkc8hD8tzs6Ho2Hgu18zki8b/4Lh+QL8caPucINMTMOjPfKSKxVZpFBjbpympFmnHLoC
+	NKwqqRI9TwFoYW9vHp0KrgXn5UTgxrkTW6FhvKepyFAmlch6C1pA7ecl06jlIcwdTf4GfEg9VrQcl
+	NPUWm/WriMIsRwcEgPmlEMrOK91LsHeWvPDFHh6WS73OaQK80NFlcVBbTO8HsPeOTQ7QvX5MIITM6
+	Ss/Pe8Kw==;
+Received: from paidleft by hostpaid.leftyou.net with local (Exim 4.86)
+	(envelope-from <fred@paid.leftyou.net>)
+	id 1aKjve-00023u-99
+	for bruce@untroubled.org; Sun, 17 Jan 2016 17:47:22 +0800
+To: bruce@untroubled.org
+Subject: =?GB2312?B?v6qztdPQwLS156Osz+u9077N08PAttHAtvq7+g==?=
+From: 手机蓝牙<fred@paid.leftyou.net>
+Reply-To: fred@paid.leftyou.net
+MIME-Version: 1.0
+Content-Type: text/html; charset="gb2312"
+Content-Transfer-Encoding: 7bit
+Message-Id: <E1aKjve-00023u-99@hostpaid.leftyou.net>
+Date: Sun, 17 Jan 2016 17:47:22 +0800
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - hostpaid.leftyou.net
+X-AntiAbuse: Original Domain - untroubled.org
+X-AntiAbuse: Originator/Caller UID/GID - [500 160] / [47 12]
+X-AntiAbuse: Sender Address Domain - paid.leftyou.net
+X-Get-Message-Sender-Via: hostpaid.leftyou.net: authenticated_id: paidleft/from_h
+X-Authenticated-Sender: hostpaid.leftyou.net: fred@paid.leftyou.net
+X-Source: /usr/bin/php
+X-Source-Args: /usr/bin/php -q /home/paidleft/public_html/users/send_emails.php 
+X-Source-Dir: paid.leftyou.net:/public_html/users
+
+<HTML>
+<HEAD>
+<TITLE></TITLE>
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=gb2312">
+</HEAD>
+<BODY BGCOLOR=#FFFFFF LEFTMARGIN=0 TOPMARGIN=0 MARGINWIDTH=0 MARGINHEIGHT=0>
+<div align="center">
+
+<TABLE WIDTH=600 BORDER=0 CELLPADDING=0 CELLSPACING=0>
+  <tr> 
+    <td width="100%" height="40" valign="middle" align="right" style="font-size:12px;color:#5E5E5E;">实用蓝牙耳机，商务人士必备，详情<a
+href="http://redirect.simba.taobao.com/rd?w=unionnojs&f=http%3A%2F%2Fai.taobao.com%2Fauction%2Fedetail.htm%3Fe%3DTSPSEFkrXWbuDAZjWhpTWGm%252Bj0%252FsWzdkNyowzLFh4bVBWJVBnwmj7tnO073KpEUuesayvrQ7hvk2JZN3G%252BC%252FekWrZ7KDvYJhDgry5wdXhm2ax0qHVXeHG%252FlYGH3A75GK8ZuPw8TjdvJ3PnzjpdAOKQ%253D%253D%26ptype%3D100010%26from%3Dbasic&k=5ccfdb950740ca16&c=un&b=alimm_0&p=mm_57761252_11834336_44836833" target="_blank">请看</a>
+</td>
+  </tr>
+	<TR>
+		
+      <TD> <a href="http://redirect.simba.taobao.com/rd?w=unionnojs&f=http%3A%2F%2Fai.taobao.com%2Fauction%2Fedetail.htm%3Fe%3DTSPSEFkrXWbuDAZjWhpTWGm%252Bj0%252FsWzdkNyowzLFh4bVBWJVBnwmj7tnO073KpEUuesayvrQ7hvk2JZN3G%252BC%252FekWrZ7KDvYJhDgry5wdXhm2ax0qHVXeHG%252FlYGH3A75GK8ZuPw8TjdvJ3PnzjpdAOKQ%253D%253D%26ptype%3D100010%26from%3Dbasic&k=5ccfdb950740ca16&c=un&b=alimm_0&p=mm_57761252_11834336_44836833" target="_blank"><IMG SRC="http://203.191.150.75/~edm35saa/double/blue.jpg" WIDTH=600
+HEIGHT=758 ALT="" border="0"></a></TD>
+	</TR>
+</TABLE>
+</div>
+<img src="http://stat.wutaiit.com/x/p/?VhtVblI8UTdUOwUtBRlZRFFtADdTYVNgUz1QYQFhV3cEV1BrA24GZgpJW0VSOgJpBzcKIgZJUDxTd1AsBh5TEVZrVTNSZVFzVAoFJgUgWWVRbQBdUzVTOFNgUH4BFVc8BGVQZwNsBj8KYltzUnICOAdjCkQGcFA7U3BQKgY4UyBWNFVnUjRRMVRwBTAFIllnUXYAXVM1UyRTclA9ASJXGARAUDMDMQYk" style="width:1px;height:1px"></body>
+</HTML>
+
+

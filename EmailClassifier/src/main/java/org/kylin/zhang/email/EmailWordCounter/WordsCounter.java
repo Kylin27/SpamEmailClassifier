@@ -27,8 +27,13 @@ import java.util.regex.Pattern;
  */
 @SuppressWarnings("serial")
 public class WordsCounter  implements Serializable {
+<<<<<<< HEAD
     transient public static SparkConf sparkConf ;
     transient public  static JavaSparkContext sparkContext ;
+=======
+    transient private static SparkConf sparkConf ;
+    transient private static JavaSparkContext sparkContext ;
+>>>>>>> 827eb6fbd9625673c3d7bb780387aab199b64d6b
     transient private List<Map.Entry<String,Integer>> sortedMapList ;
     protected int topN = 1000 ;
     protected long totalWords  ;

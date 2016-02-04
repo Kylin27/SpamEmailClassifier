@@ -1,0 +1,68 @@
+Delivered-To: bruce@untroubled.org
+Received: (fqmail 22956 invoked from network); 24 Jan 2016 06:36:01 -0000
+Received: (qmail 9517 invoked from network); 24 Jan 2016 06:36:01 -0000
+Received: from rip.mx05.futurequest.net (rip.mx05.futurequest.net [10.2.1.176])
+  by mx05.futurequest.net ([69.5.6.176]); 24 Jan 2016 06:36:01 -0000
+Received: from a2nlsmtp01-05.prod.iad2.secureserver.net (a2nlsmtp01-05.prod.iad2.secureserver.net [198.71.225.49])
+  by rip.mx05.futurequest.net ([10.2.1.176])
+  with ESMTP via TCP; 24 Jan 2016 06:36:01 -0000
+Received: from a2plcpnl0005.prod.iad2.secureserver.net ([198.71.225.83])
+	by : HOSTING RELAY : with SMTP
+	id NEHJaBfASZQ09NEHJaBlCw; Sat, 23 Jan 2016 23:36:01 -0700
+Received: from baobab by a2plcpnl0005.prod.iad2.secureserver.net with local (Exim 4.85)
+	(envelope-from <baobab@a2plcpnl0005.prod.iad2.secureserver.net>)
+	id 1aNEHI-001AaB-Tt
+	for bruce@untroubled.org; Sat, 23 Jan 2016 23:36:00 -0700
+To: bruce@untroubled.org
+Subject: You have received a new fax, document 00000523333
+X-PHP-Script: baobabmobiliario.com/post.php for 216.152.138.66
+Date: Sun, 24 Jan 2016 06:36:00 +0000
+From: "Interfax" <incoming@interfax.net>
+Reply-To: "Interfax" <incoming@interfax.net>
+Message-ID: <6c5e2d63f90787b57cc648c5f07cdbe1@interfax.net>
+X-Priority: 3
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="b1_2de2ff970031bf2536896b8ed4b26b06"
+Content-Transfer-Encoding: 8bit
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - a2plcpnl0005.prod.iad2.secureserver.net
+X-AntiAbuse: Original Domain - untroubled.org
+X-AntiAbuse: Originator/Caller UID/GID - [1512273 964] / [47 12]
+X-AntiAbuse: Sender Address Domain - a2plcpnl0005.prod.iad2.secureserver.net
+X-Get-Message-Sender-Via: a2plcpnl0005.prod.iad2.secureserver.net: authenticated_id: baobab/only user confirmed/virtual account not confirmed
+X-Source: 
+X-Source-Args: /usr/sbin/proxyexec -q -d -s /var/lib/proxyexec/cagefs.sock/socket /bin/cagefs.server 
+X-Source-Dir: :/baobab/public_html
+X-CMAE-Envelope: MS4wfGxnRoBEfKiYLVIVQYq2a1CMQBtLmsyVGIJWYChtyeJbP5+dqRPiP+hIsYI5jx3odxigx+lR3pPpohIXd8Z4QF5jxoROlZLXDF7GUvvSDAdyYBii6YzP
+ CvWcD7aIv4CsgFCD2MjFJQcvXeB5het3x3vSsq6ziWZ2/L206tJf1OYKM3wCIIRGmtg0RAStHHAh2Hpu+G5ysreIpFZ6pr8OMqMTZPZgUiMhb/SfQ0nSsNIM
+ pjN67kl4oSqLzZhmrC80bQ==
+Content-Length: 758
+
+--b1_2de2ff970031bf2536896b8ed4b26b06
+Content-Type: text/plain; charset=us-ascii
+
+New incoming fax document.
+
+Scanned fax document is attached to this email.
+
+Sender:                Timothy Murphy
+Date of scan:          Sat, 23 Jan 2016 20:09:48 +0300
+Scanned in:            53 seconds
+Fax name:              scan-00000523333.doc
+Scan quality:          200 DPI
+Pages number:          4
+Filesize:              219 Kb
+
+Thank you for using Interfax!
+
+
+--b1_2de2ff970031bf2536896b8ed4b26b06
+Content-Type: message/external-body; access-type=x-deleted; length=1951
+
+
+Content-Type: application/zip; name="scan-00000523333.zip"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename=scan-00000523333.zip
+
+--b1_2de2ff970031bf2536896b8ed4b26b06--

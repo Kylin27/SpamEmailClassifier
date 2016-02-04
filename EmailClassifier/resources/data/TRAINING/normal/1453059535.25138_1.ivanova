@@ -1,0 +1,58 @@
+Delivered-To: bait@untroubled.org
+Received: (fqmail 22417 invoked from network); 16 Jan 2016 21:26:46 -0000
+Received: (qmail 17456 invoked from network); 16 Jan 2016 21:26:46 -0000
+Received: from rip.mx02.futurequest.net (rip.mx02.futurequest.net [10.2.1.172])
+  by mx02.futurequest.net ([69.5.6.172]); 16 Jan 2016 21:26:46 -0000
+Received: from p3plsmtpout001.prod.phx3.secureserver.net (p3plsmtpout001.prod.phx3.secureserver.net [208.109.80.47])
+  by rip.mx02.futurequest.net ([10.2.1.172])
+  with ESMTP via TCP; 16 Jan 2016 21:26:46 -0000
+Received: from s198-12-154-79.secureserver.net ([198.12.154.79])
+	by : HOSTING RELAY : with SMTP
+	id KYMwaCv8XLF21KYMwalV6q; Sat, 16 Jan 2016 14:26:46 -0700
+x-originating-ip: 198.12.154.79
+Received: from printingxpress by s198-12-154-79.secureserver.net with local (Exim 4.86)
+	(envelope-from <printingxpress@s198-12-154-79.secureserver.net>)
+	id 1aKYMv-0008Jw-Vi
+	for bait@untroubled.org; Sat, 16 Jan 2016 14:26:46 -0700
+To: bait@untroubled.org
+Subject: You have 1 new fax, document 00554154
+Date: Sat, 16 Jan 2016 21:26:45 +0000
+From: "Interfax" <incoming@interfax.net>
+Reply-To: "Interfax" <incoming@interfax.net>
+Message-ID: <b5dc9688a8cd15290f369810d69f4f7d@interfax.net>
+X-Priority: 3
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="b1_3490fa6713cd290b6ed8e55023b67cc9"
+Content-Transfer-Encoding: 8bit
+X-CMAE-Envelope: MS4wfHK5HS6r+iCzzC8OprGdk/hpjqk6i+y8m46yvIZFbO4aJ4Ef2OJy1zEvaJLuXYksrcWCmD6Bf3XrUb/ocqW681euQMovBrMgkFpA5+81b7S6+PlpEWqY
+ e2HT69etfG7wah0Oll33MgWsDq88Pqi/TClYpA2E9PcXveIB6+6eeg8NPE8bKe4sVgklqmy485Q7oH8/BFkd2hUDY7hKqbxW+x8oD4TDjJfxTYsXWomAq527
+Content-Length: 731
+
+--b1_3490fa6713cd290b6ed8e55023b67cc9
+Content-Type: text/plain; charset=us-ascii
+
+New incoming fax document.
+
+Scanned fax document is attached to this email.
+
+File name:          fax_00554154.doc
+Scan duration:      45 seconds
+Scan date:          Sat, 16 Jan 2016 05:10:27 +0300
+From:               Franklin Crosby
+Pages:              6
+File size:          121 Kb
+Resolution:         200 DPI
+
+Thanks for using Interfax service!
+
+
+--b1_3490fa6713cd290b6ed8e55023b67cc9
+Content-Type: message/external-body; access-type=x-deleted; length=1995
+
+
+Content-Type: application/zip; name="fax_00554154.zip"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename=fax_00554154.zip
+
+--b1_3490fa6713cd290b6ed8e55023b67cc9--

@@ -1,0 +1,310 @@
+Delivered-To: lists-bikini@bruce-guenter.dyndns.org
+Received: (qmail 17101 invoked from network); 22 Jan 2016 09:41:49 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.2]); 22 Jan 2016 09:41:49 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 22 Jan 2016 09:41:49 -0000
+Received: (qmail 2999 invoked from network); 22 Jan 2016 09:41:48 -0000
+Received: from pta152.proyag.com ([77.89.252.152])
+  by zak.futurequest.net ([69.5.6.152])
+  with ESMTP via TCP; 22 Jan 2016 09:41:48 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=DKIM1; d=proyag.com;
+ h=To:Subject:Message-ID:Date:From:Reply-To:MIME-Version:Content-Type:Content-Transfer-Encoding; i=postmaster@proyag.com;
+ bh=64U5/ecqnNjh87XnZaJEoZOS7dA=;
+ b=p1EbIVshfzT9KJi9mMH1Oa6PMIcSAU2d+tsB5HF3HKicBEexYqA5fjfCcZGp4oqHgXAX1ubokeI2
+   n7QTdgfoUrCJn+uqmX5cLalpm2LPh6RJNIZ71/TR6uQfoFA67MQcmXvcOgXJhrHBaVrXRV2wlVRD
+   /jQ9ebXFL4u9UR7HH+A=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=DKIM1; d=proyag.com;
+ b=WogFpaoX6rbWGqyOLgq5e7u0RV8pH+/mM1yUm15rt65OYRwUWa7wRnXHb2Jq8454E91yowTn5NTc
+   s/NjEBp6gYUSLA8aizSK9auOvbzVy1VqcfDHLSgRrHnLrxCzMy9mr/Q5/x+fB94574MWrJiVk9Zm
+   lGAYQ6rd0LaBBLXi0qk=;
+To: lists-bikini@bruce-guenter.dyndns.org
+Subject: =?UTF-8?B?Q3LDqWVyIHNvbiBlbnRyZXByaXNlIG4nYSBqYW1haXMgw6l0w6kgYXVzc2kgZmFjaWxlICE=?=
+Message-ID: <e237e301b4ec1b1de73087c11b30cfcd@proyag.com>
+Return-Path: bounce@proyag.com
+Date: Fri, 22 Jan 2016 09:41:27 +0000
+From: "Auvergnelife" <info@proyag.com>
+Reply-To: support@proyag.com
+MIME-Version: 1.0
+X-Mailer-LID: 67
+X-Mailer-SID: 458
+X-Mailer-Sent-By: 1
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 8bit
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+    <meta name="viewport" content="width=device-width,
+initial-scale=1.0"/>
+    <title>Courriel responsive Periscope</title>
+    <style type="text/css">
+        #outlook a padding:0;
+        bodywidth:100%
+!important;-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%;margin:0;padding:0;
+        .ReadMsgBody width:100%;
+        .ExternalClass width:100%;
+        .backgroundTable margin:0 auto;padding:0;width:100%!important;
+        table td border-collapse:collapse;
+        .ExternalClass * line-height:115%;
+        imgheight:auto;max-width:100%;
+        ppadding:0;margin:0;
+        @media only screen and (min-width: 1170px)
+            .grid-fluid {max-width:1170px;width: 1170px;
+        }
+        @media only screen and (max-width: 669px)
+            td[class="grid-block"] .section {
+                display: block;
+                float: left;
+                height: auto;
+                padding: 0;
+                margin-bottom: 12px;
+                -moz-box-sizing: border-box;
+                -webkit-box-sizing: border-box;
+                box-sizing: border-box;
+
+            td[class="grid-block"] table width:100%;
+            td[class="grid-block"] > table padding: 0 5%;
+            td[class="grid-block"] .spacer display:none;
+            td[class="grid-block"] .row padding: 0!important;
+            td[class="grid-block"] .section.sixth width:32%;
+            td[class="grid-block"] .section.twosixth,
+td[class="grid-block"] .section.third,
+            td[class="grid-block"] .section.threesixth,
+td[class="grid-block"] .section.half,
+            td[class="grid-block"] .section.foursixth,
+td[class="grid-block"] .section.twothird,
+            td[class="grid-block"] .section.full width:100%;
+            td[class="grid-block"] .section.sixth margin-right:2%;
+            td[class="grid-block"] .section.sixth:first-child + .spacer +
+section.sixth + .spacer + .section.sixth,
+            td[class="grid-block"] .section.sixth + .spacer +
+section.sixth + .spacer + .section.sixth + .spacer + .section.sixth +
+spacer + .section.sixth + .spacer + .section.sixth,
+            td[class="grid-block"] .section:last-child margin-right: 0;
+            td[class="mobile-none"] display:none !important;
+        }
+        @media only screen and (max-width: 420px)
+            td[class="grid-block"] .section.half,
+            td[class="grid-block"] .section.sixth,
+            td[class="grid-block"] .section.third,
+            td[class="grid-block"] .section.twothird,
+            td[class="grid-block"] .section.threethird,
+            td[class="grid-block"] .section.fourthird,
+            td[class="grid-block"] .section.fivethird ,
+            td[class="grid-block"] .section.sixthird{width: 100%;
+            td[class="grid-block"] .section.half:first-child margin-right:
+0;
+            td[class="grid-block"] .mobile-none display:none !important;
+            td[class="grid-block"] .mobile-center text-align:center
+!important;
+        }
+    </style>
+</head>
+<body style="padding:0; margin:0">
+<table style="margin: 0px; padding: 0px; width: 100%;" border="0"
+cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td align="center" valign="top">Si vous ne visualisez pas correctement ce
+message, <a
+href="http://proyag.com/link.php?M=3591349&N=458&L=40&F=H">consultez-le en
+ligne.</a>
+<table cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td class="grid-block" style="padding-bottom: 8px;" width="600">
+<table cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td class="row">
+<table cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td class="section full" style="font-family: arial,sans-serif; font-size:
+11px; color: #808080; padding: 20px 0;" align="center" valign="middle"
+width="600">La r&eacute;gion Auvergne vous accompagne dans votre
+projet</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td class="row">
+<table cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td class="section full" align="center" height="128" valign="middle"
+width="600"><a href="http://proyag.com/link.php?M=3591349&N=458&L=39&F=H"
+title="Auvergnelife" target="_blank"><img
+src="http://www.auvergnelife.tv/mail_formulaire/images/auvergnelife.gif"
+alt="Auvergnelife" style="display: block; width: 168px !important; height:
+81px !important;" class="pictos" border="0" height="81" width="168"
+/></a></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td class="row">
+<table cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td class="section full" align="center" valign="middle" width="600"><a
+href="http://proyag.com/link.php?M=3591349&N=458&L=39&F=H" title="En
+recherche d'emploi, faites le choix du Cantal" style="text-decoration:
+none;" target="_blank"><img
+src="http://www.auvergnelife.tv/mail_formulaire/images/bandeau.jpg"
+style="display: block;" alt="86% des fran&ccedil;ais voient la
+cr&eacute;ation ou la reprise d'entreprise comme une opportunit&eacute; de
+s'&eacute;panouir et vous ?" border="0" /></a></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td class="row">
+<table cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td class="section full" align="center" valign="middle" width="600"><a
+href="http://proyag.com/link.php?M=3591349&N=458&L=39&F=H" title="En
+recherche d'emploi, faites le choix du Cantal" style="text-decoration:
+none;" target="_blank"><img
+src="http://www.auvergnelife.tv/mail_formulaire/images/texte.jpg"
+style="display: block;" alt="La r&eacute;gion Auvergne vous accompagne dans
+votre projet" border="0" height="126" width="600" /></a></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td class="row">
+<table style="width: 500px;" align="center" cellpadding="0"
+cellspacing="0">
+<tbody>
+<tr>
+<td class="section full" style="font-family: Arial, Helvetica, sans-serif;
+font-size: 18px; line-height: 1.2; color: #667578;" align="left"
+height="34" valign="middle" width="600"><img
+src="http://www.auvergnelife.tv/mail_formulaire/images/bullet.jpg" alt=""
+style="display: inline-block;" height="11" width="11" /> Pour le montage de
+votre projet.</td>
+</tr>
+<tr>
+<td class="section full" style="font-family: Arial, Helvetica, sans-serif;
+font-size: 18px; line-height: 1.2; color: #667578;" align="left"
+height="34" valign="middle" width="600"><img
+src="http://www.auvergnelife.tv/mail_formulaire/images/bullet.jpg" alt=""
+style="display: inline-block;" height="11" width="11" /> En participant au
+financement via des aides.</td>
+</tr>
+<tr>
+<td class="section full" style="font-family: Arial, Helvetica, sans-serif;
+font-size: 18px; line-height: 1.2; color: #667578;" align="left"
+height="34" valign="middle" width="600"><img
+src="http://www.auvergnelife.tv/mail_formulaire/images/bullet.jpg" alt=""
+style="display: inline-block;" height="11" width="11" /> Tout au long du
+d&eacute;marrage de votre activit&eacute;.</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td class="row">
+<table cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td class="section full" style="font-family: Arial, Helvetica, sans-serif;
+font-size: 18px; line-height: 1.2; color: #667578; font-weight: bold;"
+align="center" height="100" valign="middle" width="600">Rencontrons-nous
+pour mieux nous conna&icirc;tre et construire votre avenir ensemble !</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td class="row">
+<table cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td class="section full" align="center" height="100" valign="middle"
+width="600"><a href="http://proyag.com/link.php?M=3591349&N=458&L=39&F=H"
+title="Rencontrons-nous !"><img
+src="http://www.auvergnelife.tv/mail_formulaire/images/bouton.jpg"
+alt="Rencontrons-nous !" style="display: block;" border="0" height="35"
+width="227" /></a></td>
+</tr>
+<tr>
+<td height="30"></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="margin: 0px; padding: 0px; width: 100%;" bgcolor="#de1c20"
+border="0" cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td align="center" valign="top">
+<table bgcolor="#de1c20" cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td class="grid-block" style="padding-bottom: 8px;" width="600">
+<table bgcolor="#de1c20" cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td class="row">
+<table bgcolor="#de1c20" cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td class="section full" align="center" valign="middle" width="600"><a
+href="http://proyag.com/link.php?M=3591349&N=458&L=39&F=H"><img
+src="http://www.auvergnelife.tv/mail_formulaire/images/banniere.jpg"
+alt="66,5% des entreprises cr&eacute;&eacute;es en Auvergne survivent
+apr&egrave;s 3 ans d'activit&eacute; - 391 offres de
+cr&eacute;ation/reprise et g&eacute;rance sur www.auvergnelife.tv"
+style="display: block;" border="0" height="166" width="600" /></a></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+Ce message vous est envoy&eacute; par LeadsLeader. <a
+href="http://proyag.com/link.php?M=3591349&N=458&L=1&F=H">D &eacute; s a b
+o n n e m e n t</a> de la liste</td>
+</tr>
+</tbody>
+</table>
+<img
+src="http://track13309244.effimails8.com/servlet/effi.pixel?id_compteur=13309244"
+/>
+<img src="http://proyag.com/open.php?M=3591349&L=67&N=458&F=H&image=.jpg"
+height="1" width="10"></body>
+</html>
+

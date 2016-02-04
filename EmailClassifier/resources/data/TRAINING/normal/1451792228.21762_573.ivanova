@@ -1,0 +1,36 @@
+Delivered-To: lists-djb-ezmlm@bruce-guenter.dyndns.org
+Received: (qmail 21149 invoked from network); 2 Jan 2016 00:13:16 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.2]); 02 Jan 2016 00:13:16 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 02 Jan 2016 00:13:16 -0000
+Received: (qmail 29495 invoked from network); 2 Jan 2016 00:13:15 -0000
+Received: from vlp712185287.1.2 ([180.214.53.184])
+  by zak.futurequest.net ([69.5.6.152])
+  with ESMTP via TCP; 02 Jan 2016 00:13:15 -0000
+Return-Path: <mail002100000213931@leNmiS4B.com>
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/simple; d=leNmiS4B.com; s=sel; q=dns/txt; l=1; bh=VP0XESCfscB4EJI3QTLGbnniJBs=; h=From; b=W+kLqHju/126B4I/JOynFRb6LtNYaUdwHqpGh37LWTznjM+b7PloNSXuXyL7HiZyHkpxM3itRNMFVHRyfolJ5+ACjHjrHsMr2IuyusqpdRM5CYqE6Tav8aiIzXSNmriUOkjWwroxJ+lQYQGs4kSnqtwxGvoxo4G0xj29eMOUMpc=
+Date: Sat, 02 Jan 2016 09:13:14 +0900
+MIME-Version: 1.0
+From: mail@leNmiS4B.com
+To: lists-djb-ezmlm@bruce-guenter.dyndns.org
+Message-Id: 298306187_93955095626d37ccc7d5@leNmiS4B.com
+Content-Type: text/plain; charset="Shift_JIS"
+Content-Transfer-Encoding: base64
+Subject: =?ISO-2022-JP?B?GyRCIVobKEJjaHJvbWUbJEIhWyQrJGkkTiQ0MEZGYhsoQg==?=
+
+gZqJ5pGcgqCC6IGaCgqItpDmgXlWSVCDUYNYg2eBeoKzgvGC1oH0DQqNt49vkGyBeZeclnuQtJT8
+gXqCs4LxgqmC5w0KkFaShYOBgVuDi4Kqk82Cq4LcgrWCvSEhDQoNCoF5jI+WvIF6DQqXvJBlgsyT
+y5FSjoANCg0KgXmWe5W2gXoNCmh0dHA6Ly9sZU5taVM0Qi5jb20vJTdlY3MvbWVzc2FnZV9kZXRh
+aWwvUEM6NjIwMzEyNjU2MjZkMzdjY2IwODUvTUM6NTM3ZDkyNTQzNDg0NjI2ODM2MDJhMzdkMmU3
+ODA5ZjYvP2d1aWQ9T04NCg0KLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0NCoGlg32DQ4N5gVuDV4LW
+g42DT4NDg5MNCmh0dHA6Ly9sZU5taVM0Qi5jb20vJTdlY3MvbXlwYWdlL1BDOjYyMDMxMjY1NjI2
+ZDM3Y2NiMDg1L01DOjUzN2Q5MjU0MzQ4NDYyNjgzNjAyYTM3ZDJlNzgwOWY2Lz9ndWlkPU9ODQoN
+CoGlgqiW4oKijYeC7YK5gXmDVIN8gVuDZ4Nag5ODXoFbgXoNCmh0dHA6Ly9sZU5taVM0Qi5jb20v
+JTdlY3MvaW5xdWlyeS9QQzo2MjAzMTI2NTYyNmQzN2NjYjA4NS9NQzo1MzdkOTI1NDM0ODQ2MjY4
+MzYwMmEzN2QyZTc4MDlmNi8/Z3VpZD1PTg0KLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0NCoF5Y2hy
+b21lgXqOlpaxi8cNCoGmMTiNzpailp6CzJX7gs2CspeYl3CC8IvWjn6SdoK1gsSCqILogtyCtw==
+
+
+

@@ -1,0 +1,110 @@
+Delivered-To: bruce@untroubled.org
+Received: (fqmail 10246 invoked from network); 15 Jan 2016 22:37:10 -0000
+Received: (qmail 32371 invoked from network); 15 Jan 2016 22:37:10 -0000
+Received: from rip.mx02.futurequest.net (rip.mx02.futurequest.net [10.2.1.172])
+  by mx02.futurequest.net ([69.5.6.172]); 15 Jan 2016 22:37:10 -0000
+Received: from vger.kernel.org (vger.kernel.org [209.132.180.67])
+  by rip.mx02.futurequest.net ([10.2.1.172])
+  with ESMTP via TCP; 15 Jan 2016 22:37:10 -0000
+Received: (majordomo@vger.kernel.org) by vger.kernel.org via listexpand
+	id S1754122AbcAOWhD (ORCPT <rfc822;bruce@untroubled.org>);
+	Fri, 15 Jan 2016 17:37:03 -0500
+Received: from mail-am1hn0245.outbound.protection.outlook.com ([157.56.112.245]:6464
+	"EHLO emea01-am1-obe.outbound.protection.outlook.com"
+	rhost-flags-OK-OK-OK-FAIL) by vger.kernel.org with ESMTP
+	id S1750922AbcAOWg7 convert rfc822-to-8bit (ORCPT
+	<rfc822;linux-kernel@vger.kernel.org>);
+	Fri, 15 Jan 2016 17:36:59 -0500
+X-Greylist: delayed 1812 seconds by postgrey-1.27 at vger.kernel.org; Fri, 15 Jan 2016 17:36:59 EST
+DKIM-Signature:	v=1; a=rsa-sha256; c=relaxed/relaxed;
+ d=NETORGFT1188685.onmicrosoft.com; s=selector1-deptdiplo-info01b;
+ h=From:To:Date:Subject:Message-ID:Content-Type:MIME-Version;
+ bh=nYk9CY3TBsbZvXkjrM6Ee9dkF3GTV5PWnmpKcSJiH8o=;
+ b=VuKVUU4dyKANNzLlVdx7eDy1xlK2lydY5dq6+EKKGJzpBv2mr/OAIV4j8bQYDmroPEPZjIO4C0XezKr4qE9aQ/921Xp+SVhe+nvbKNun4raTsWGGXV79hqn17mVLdJEca7YItLlOeSHDv7jVYmSQmUMMZWiDhqFU3UxNJ6gTWLI=
+Authentication-Results:	spf=none (sender IP is )
+ smtp.mailfrom=bob@dept-diplo.info; 
+Received: from [10.200.6.43] (5.62.4.213) by
+ AM2PR09MB0178.eurprd09.prod.outlook.com (10.161.236.15) with Microsoft SMTP
+ Server (TLS) id 15.1.361.13; Fri, 15 Jan 2016 22:06:26 +0000
+Content-Type:	text/plain; charset=US-ASCII
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7BIT
+Content-Description: Mail message body
+Subject: CONFIDENTIAL LEGAL REQUEST
+To:	<bob@dept-diplo.info>
+From:	<bob@dept-diplo.info>
+Date:	Fri, 15 Jan 2016 17:05:53 -0500
+Reply-To: <barrfranklyn.morgan@europe.com>
+X-Originating-IP: [5.62.4.213]
+X-ClientProxiedBy: DB4PR06CA0040.eurprd06.prod.outlook.com (25.160.40.168) To
+ AM2PR09MB0178.eurprd09.prod.outlook.com (25.161.236.15)
+Message-ID: <AM2PR09MB017812F960B252276D592C38E3CD0@AM2PR09MB0178.eurprd09.prod.outlook.com>
+X-Microsoft-Exchange-Diagnostics: 1;AM2PR09MB0178;2:sHNTPGP7wIRo/ecvtzrNjwv0hb4QJ0TzjOyZcSQWSQ9HL9VuCtjf6QA+J/z/e9S6jd3XWF/+fhYuFWB7n3fHSK4rMDttxHnD/Xg7hCIE34oqSvgc29RdLr+eUfgse2JQGOprlwOnVLA2MaCmOEbIHQ==;3:f4NMg7SQH1ikXJ4x7s9Q2QOBvse8ma4E62apf1G90IK2kxvWkQrzQKGmVBRzaYXac0Ju6ucv3AAY8itn2MdytooFzNcV0WH/5iU2RG17auw27CbSVH+9it17xJTw1gRO;25:FICZ752aOf+CELAPpFc3lHTYPw7B57H2QzBgI80tJIPLtixAo3Mp90SXuEXtnPwiY7rdPF/Olv7d7ZuRZrtOgVZMlkBdGwwDwIiSPY0nvEx3YRBOqSNj+JNUF3BLclQWSSoe5cDVN5OeWK847l6LSAXBJJPOsDVng4wFwHWEqueLaw03er9tDz626twJKdXTh8b+xtR9DflwgsDhk5OUMQ+54Uo/MW5doUSab2oJ05kVNxFfZ1WQxW0hdqOXzvxA;4:iTKryF2CX/GcnacqzmoPUBTOUSbBq4Lg4vm5hhrG0ZWBm3pl3VY0C1XbFBEdAP6fk/qNRkIpPj2kPD+6yL95bdeNgVj7dCRjfSZ9PPjs94FRlBSByH0XJroJlaFYOU1PxckF1uVuNpD/9W4TruuweR0JrlxLm9VkE9R6dsd7u618pX0WzQ+FFFW2NdSY+chmZI+rCvbYf0ymqJVjuWMrqPPWc/Tqf1nclRfOEqWgjwLAB6kLCDVbCtpbDZfOJZRxIfyokX+7yhtqLLvoO2V7QAZXKWC5iBCwoROwU71tYYBEoDxvGwnobKDufb5adT28W1cgHWp7cyHFfh6kmWBaMHKoBi2gbeqQEBQSBtmKFGrFIo5mRZdYYxPgZcmVv4FjffPg8X6+0zXSmJvBF9H7kQ==
+X-Microsoft-Antispam: UriScan:;BCL:0;PCL:0;RULEID:;SRVR:AM2PR09MB0178;
+X-MS-Office365-Filtering-Correlation-Id: 77065da0-a0af-4999-dc37-08d31df826d8
+X-Microsoft-Antispam-PRVS: <AM2PR09MB017824E261E14C1AA35F2C84E3CD0@AM2PR09MB0178.eurprd09.prod.outlook.com>
+X-Exchange-Antispam-Report-Test: UriScan:;
+X-Exchange-Antispam-Report-CFA-Test: BCL:0;PCL:0;RULEID:(601004)(2401047)(8121501046)(520078)(5005006)(10201501046)(3002001)(6030026);SRVR:AM2PR09MB0178;BCL:0;PCL:0;RULEID:;SRVR:AM2PR09MB0178;
+X-Forefront-PRVS: 08220FA8D6
+X-Forefront-Antispam-Report: SFV:SPM;SFS:(10019020)(6009001)(6049001)(189002)(199003)(111735001)(74316001)(77096005)(189998001)(19580395003)(6200100001)(97736004)(569274001)(101416001)(33656002)(106356001)(42186005)(15975445007)(81156007)(54356999)(87976001)(110136002)(107886002)(105586002)(1720100001)(551984002)(5001960100002)(53806999)(86152002)(2906002)(86362001)(23756003)(50466002)(43066003)(2876002)(586003)(71446004)(561924002)(76576001)(53256004)(66066001)(122386002)(40100003)(229853001)(5008740100001)(5004730100002)(4001450100002)(47776003)(1096002)(2351001)(6116002)(3846002)(551944002)(50986999)(2370700003);DIR:OUT;SFP:1501;SCL:5;SRVR:AM2PR09MB0178;H:[10.200.6.43];FPR:;SPF:None;PTR:InfoNoRecords;MX:1;A:1;LANG:en;
+Received-SPF: None (protection.outlook.com: dept-diplo.info does not designate
+ permitted sender hosts)
+X-Microsoft-Exchange-Diagnostics: =?iso-8859-1?Q?1;AM2PR09MB0178;23:rFl97aEWTjuqcAtM7kFzmzEL44WhB0L/Q4rsKyR?=
+ =?iso-8859-1?Q?0ptdsMd00ShX6Kn1fzloCdl6JR7vqh/FhmBSwYaKaLQv6NbKFjzILt10+R?=
+ =?iso-8859-1?Q?TRND2C+taSSn/po/dIsiT5fovtNN+SyaA8B8oEZMdHaVqcJvg//OulK1gq?=
+ =?iso-8859-1?Q?6UdxOZOw/AQLDb0++BU7Q+zCtvnDY3N29hodnnWDQ3Yw/RTt5Ix7ENAf2t?=
+ =?iso-8859-1?Q?a5erR174crdzgNu6Wq2Ej5QwILOTeks4LVkFdAGeaAuKquzc2ArlzgQxKV?=
+ =?iso-8859-1?Q?rzubOUS/2OzK4Rjf4S6ZTN+cpaa+o77LFbsinzNSugPlNnmoU9pWyXwagd?=
+ =?iso-8859-1?Q?t1yQGMheDeHWg5vw869J9wiXnu7d5HQq42ec5MmnfPK+nFaJhgGWWZIJb0?=
+ =?iso-8859-1?Q?v3zbH012lI2oXynN7IHYmtVLTG9IeFRfAeSrL7vvvceo3/bP/KKQX/ZmOr?=
+ =?iso-8859-1?Q?SngE8IV+GqpCWzH02r3C4mA2em0vkPig/7wLXxHjhBmnWGLKLUcVVX7/9/?=
+ =?iso-8859-1?Q?XUrFnetgrtFMVQNofBlClk2a+4N4w9uM+pS5wunYEbqei6ao4SEq0urkDa?=
+ =?iso-8859-1?Q?89yW6cDGDRBw4oC8E0XvPmYxEQAocVULHnPnrk1GzQn5+RH8H/qDDU2WJ7?=
+ =?iso-8859-1?Q?Hl9hU/gYIP6yGerVeqbzSbPAo4J4TPpF5++/l9/cpY2lqVh+Ggm0KTLet0?=
+ =?iso-8859-1?Q?dOmV5iLjOjXrL1UbE87PEKXjUv+azrydLBCLxbjJoTW1xMxx5Lt+4lnnYX?=
+ =?iso-8859-1?Q?UcBaZ1/06duPfipxWWsViY6osPUCsXd3Ng2Gu/kKKDvUIvT8w8RvWTn7H5?=
+ =?iso-8859-1?Q?uVKuZ0AIT0JtDH+7MtUj1r583MIodIHtvaMBOegYt6Ydsq2dlCuxaoUqx9?=
+ =?iso-8859-1?Q?VDc0egJdcMiMb2V6PrBOUO9SkBG5fg1Xn7vuMteXnzs3l6GQX52wz2Gy/q?=
+ =?iso-8859-1?Q?2adUaRP9dbMh3B6yC3VxJqKvMHLSmMZnU3Deh4lqZCRvTd30ZNvHZmLDdu?=
+ =?iso-8859-1?Q?TJ1dkWJKxxSFAecF0Nb5r8wz3CLqYtiuKQkE0/eF/e5YGRjb2n78DYznnq?=
+ =?iso-8859-1?Q?sKzx5XeJmhZwXtjkSAqSvOWgRiuJu0X9ipIJ3nGePy3W4jbTqZkj8Y3bOe?=
+ =?iso-8859-1?Q?SH9M2hc5GbVAGH3n2yX61WU6UBdY+dJZHrB0bbGR/emYNyQZGoLow2L5td?=
+ =?iso-8859-1?Q?uUNN6V1pifw2FBmU8phl2AlFyWQ+KI72bWjx93w1YVZEkxqqMl+84DI5s0?=
+ =?iso-8859-1?Q?HQlQbih48vDMVIBD+mwg2J306hsHCbnKf7GayIIXL9f3otbtl/EXiiIKPd?=
+ =?iso-8859-1?Q?QH9DAKrtmszjyjKAzFApYLNZ31VivGSKJ/D785gtbK3RInciLKAyZ3TG+2?=
+ =?iso-8859-1?Q?g2jswL5SqbAEtk2YQ1+si6Y91DfdvevzzDupJSoGy0VlIF4/8fCjmfLVUB?=
+ =?iso-8859-1?Q?feaD4J5Ho4IVlgSvcsaR6b4mBvew7nl0Piu1nXnvhA5xahCDb2mpxayRw?=
+ =?iso-8859-1?Q?=3D=3D?=
+X-Microsoft-Exchange-Diagnostics: 1;AM2PR09MB0178;5:REHyaZUOYdPrFM+BgPWHmeR7kXMH2d3LCwQF8R7FZ12wBTnUOuvnOuHjR60o8qCPkH0S2WYCkYASyx4Bo7iTcJx55VjWn2YCfyoL9zeA339Az/vsC2JrHgqcuRTLorOmeWa7y1KAAhraA0RJjgzJ9g==;24:bqRUt9wh1pVEoXF4vqex6CuwQlV6zVF7F6ewkoQeUQrKUdJMRhQ/ECTiNHb2Af6hW6+fBO1rfQmi27b8S/4k4g==
+SpamDiagnosticOutput: 1:22
+SpamDiagnosticMetadata:	00000000%2D0000%2D0000%2D0000%2D000000000000
+X-OriginatorOrg: dept-diplo.info
+X-MS-Exchange-CrossTenant-OriginalArrivalTime: 15 Jan 2016 22:06:26.9585
+ (UTC)
+X-MS-Exchange-CrossTenant-FromEntityHeader: Hosted
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: AM2PR09MB0178
+Sender:	linux-kernel-owner@vger.kernel.org
+Precedence: bulk
+List-ID: <linux-kernel.vger.kernel.org>
+X-Mailing-List:	linux-kernel@vger.kernel.org
+
+Dear Friend,
+
+This Letter serves as a Confidential Legal Request from Mrs.Diezani  Alison-Madueke.
+
+I am Franklyn Morgan, attorney to Mrs.Diezani Alison-Madueke the embattled former oil minister of the Nigerian government.
+
+My client Mrs.Diezani Alison-Madueke is dying of Cancer, she is soliciting your urgent assistance to secure and invest the sum of $87,400.000.00
+USD in your country.
+
+http://www.ibtimes.co.uk/sick-nigerian-ex-minister-alison-madueke-flies-home-spiritual-help-televangelist-1530244
+
+
+http://www.mail.com/int/news/uk/3877736-embattled-oil-minister-asks-nigerians-prayers
+
+For Confidential reason i have withheld details until i get a confirmation of your interest by sending your personal mobile number for oral discussions.
+
+Thank you,
+
+Yours Faithfully,
+Barr. Franklyn Morgan (Esq)

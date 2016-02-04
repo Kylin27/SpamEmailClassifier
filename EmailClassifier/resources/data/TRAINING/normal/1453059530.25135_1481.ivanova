@@ -1,0 +1,69 @@
+Delivered-To: lists-djb-ezmlm@bruce-guenter.dyndns.org
+Received: (qmail 32340 invoked from network); 15 Jan 2016 23:21:12 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.2]); 15 Jan 2016 23:21:12 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 15 Jan 2016 23:21:12 -0000
+Received: (qmail 8604 invoked from network); 15 Jan 2016 23:21:10 -0000
+Received: from tcl002.6e9hnyftx2 ([103.228.199.89])
+  by zak.futurequest.net ([69.5.6.152])
+  with ESMTP via TCP; 15 Jan 2016 23:21:10 -0000
+Received: by tcl002.6e9hnyftx2 (Postfix, from userid 1002)
+	id 14BCAB911C; Sat, 16 Jan 2016 08:21:10 +0900 (JST)
+Received: from localhost (unknown [10.159.86.70])
+	by localhost (Postfix) with ESMTP id 0846EB9104
+	for <lists-djb-ezmlm@bruce-guenter.dyndns.org>; Sat, 16 Jan 2016 08:21:10 +0900 (JST)
+Content-Transfer-Encoding: 7bit
+Content-Type: multipart/alternative; boundary="=_322999a83b6c70d96bbe3ede631547fc"
+Date: Sat, 16 Jan 2016 08:21:08 +0900
+From: =?Shift_JIS?B?g32DYoNgg5ODTw==?=  <info@r96ktq81ni.u5ybaxcn-28h.biz>
+MIME-Version: 1.0
+Subject: =?Shift_JIS?B?kFYgkoWBQIOMg3iDYoNKIJdsIIKpIILn?=
+To: <lists-djb-ezmlm@bruce-guenter.dyndns.org>
+Message-Id: <20160115232110.14BCAB911C@tcl002.6e9hnyftx2>
+
+--=_322999a83b6c70d96bbe3ede631547fc
+Content-Transfer-Encoding: base64
+Content-Type: text/plain; charset=Shift_JIS
+
+IIF3ICCIpIKzguqCxCCRU42RTk8uMSAggXgKRnJvbYFGg4yDeINig0qDjIN4g2KDSpdsgs2W
+s5e/g2CDUINig2eC8IKyl5iXcIKzguqCxIKoguiC3IK3gUKDgYNig1qBW4NXkZeO85BNgs2W
+s5e/gsmCxI1zgqaC3IK3gUINCoGlg4GDYiCDWoFbg1eBpQ0KDQqBd4OMg3iDYoNKgsWCt/nG
++Z+OhIKqkk6CqYLgjZCCsIK4gsmCqJdVgqKCtYLEgreC3YLcgrmC8YLFgrWCvfmrguCCpJCz
+kryCyYy+gqKC3IK3+dCBeA0KDQqBeSCRsYKrgvCTx4LegUWV1I6WgreC6SCBeg0KDQoNCoF1
+II7zLZBNLYquLZFTLZazLZe/IIF2DQoNCoGmgrGCzIOBgVuDi4LJgs2J5pGcgqqTWZV0grOC
+6oLEgqKC3IK3gUINCg0KDQqBmY+JifEujMCS6C6DVIFbg3KDWC6KSo3DkoaBmQ0KDQoNCg0K
+DQoNCg0KDQoNCg0KgZ6Nd5SDj0mXuQ0KDQo9PT09PT09PT09PT09PT09PQ0KgZ4xOIGejc6B
+npaigZ6WnoGeDQqBnpeYgZ6XcIGei9aBno5+gZ4NCj09PT09PT09PT09PT09PT09DQoNCpGX
+gZ6QTYGejLOBRoN9g2KDYIOTg08KIIGZLYGaLYGZLYGaLYGZLYGaLYGZLYGa
+--=_322999a83b6c70d96bbe3ede631547fc
+Content-Transfer-Encoding: base64
+Content-Type: text/html; charset=Shift_JIS
+
+IIF3ICCIpIKzguqCxCCRU42RTk8uMSAggXg8YnI+PGhyPkZyb22BRoOMg3iDYoNKPGhyPoOM
+g3iDYoNKl2yCzZazl7+DYINQg2KDZ4LwgrKXmJdwgrOC6oLEgqiC6ILcgreBQoOBg2KDWoFb
+g1eRl47zkE2CzZazl7+CyYLEjXOCpoLcgreBQjxiciAvPg0KPGhyPoGlg4GDYiCDWoFbg1eB
+pTwvc3Bhbj48YnIgLz4NCjxiciAvPg0KgXeDjIN4g2KDSoLFgrf5xvmfjoSCqpJOgqmC4I2Q
+grCCuILJgqiXVYKigrWCxIK3gt2C3IK5gvGCxYK1gr35q4LggqSQs5K8gsmMvoKigtyCt/nQ
+gXg8YnIgLz4NCjxiciAvPg0KPGEgaHJlZj0iaHR0cDovL3ZiZGd1NW1nbzMudTV5YmF4Y24t
+MjhoLmJpei9yZWNlcHRpb24vaW5kaXZpZHVhbC5waHA/a2V5PTdjZWZiMmY4ZjE4MTcxNDM4
+NDQ0MDg2OTcyMzA0NDIzJnJtPTQxNTEzJm1rZXk9MzZhNzBmZGYyNWQ1NThjYWY4NTU5ZmI3
+OGNhZDg1NWIiPoF5IJGxgquC8JPHgt6BRZXUjpaCt4LpIIF6PC9hPjxiciAvPg0KPGJyIC8+
+DQo8YnIgLz4NCoF1II7zLZBNLYquLZFTLZazLZe/IIF2PGJyIC8+DQo8YnIgLz4NCjxhIGhy
+ZWY9Imh0dHA6Ly92YmRndTVtZ28zLnU1eWJheGNuLTI4aC5iaXovcmVjZXB0aW9uL2luZGl2
+aWR1YWwucGhwP2tleT03Y2VmYjJmOGYxODE3MTQzODQ0NDA4Njk3MjMwNDQyMyZybT00MTUx
+MyZta2V5PTM2YTcwZmRmMjVkNTU4Y2FmODU1OWZiNzhjYWQ4NTViIj6BpoKxgsyDgYFbg4uC
+yYLNieaRnIKqk1mVdIKzguqCxIKigtyCt4FCPC9hPjxiciAvPg0KPGJyIC8+DQo8aHI+PGJy
+IC8+DQo8YSBocmVmPSJodHRwOi8vdmJkZ3U1bWdvMy51NXliYXhjbi0yOGguYml6L2hvbWUv
+aW5kZXgucGhwP2tleT03Y2VmYjJmOGYxODE3MTQzODQ0NDA4Njk3MjMwNDQyMyZybT00MTUx
+MyI+gZmPiYnxLozAkugug1SBW4Nyg1guikqNw5KGgZk8L2E+PGJyIC8+DQo8YnIgLz4NCjxo
+cj48YnIgLz4NCjxiciAvPg0KPGJyIC8+DQo8YnIgLz4NCjxiciAvPg0KPGJyIC8+DQo8YnIg
+Lz4NCjxiciAvPg0KPGEgaHJlZj0iaHR0cDovL3ZiZGd1NW1nbzMudTV5YmF4Y24tMjhoLmJp
+ei9ob21lL2luZGV4LnBocD9rZXk9N2NlZmIyZjhmMTgxNzE0Mzg0NDQwODY5NzIzMDQ0MjMm
+cm09NDE1MTMiPoGejXeUg49Jl7k8L2E+PGJyIC8+DQo8YnIgLz4NCj09PT09PT09PT09PT09
+PT09PGJyIC8+DQqBnjE4gZ6NzoGelqKBnpaegZ48YnIgLz4NCoGel5iBnpdwgZ6L1oGejn6B
+njxiciAvPg0KPT09PT09PT09PT09PT09PT08YnIgLz4NCjxiciAvPg0KkZeBnpBNgZ6Ms4FG
+g32DYoNgg5ODTzxicj4ggZktgZotgZktgZotgZktgZotgZktgZo=
+--=_322999a83b6c70d96bbe3ede631547fc--
+

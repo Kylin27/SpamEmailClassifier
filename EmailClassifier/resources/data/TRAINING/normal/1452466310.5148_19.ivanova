@@ -1,0 +1,120 @@
+Delivered-To: bruce@untroubled.org
+Received: (fqmail 28443 invoked from network); 10 Jan 2016 16:01:30 -0000
+Received: (qmail 12912 invoked from network); 10 Jan 2016 16:01:30 -0000
+Received: from rip.mx07.futurequest.net (rip.mx07.futurequest.net [10.2.1.178])
+  by mx07.futurequest.net ([69.5.6.178]); 10 Jan 2016 16:01:30 -0000
+Received: from server.essessoverseas.net (essessoverseas.net [192.210.214.32])
+  by rip.mx07.futurequest.net ([10.2.1.178])
+  with ESMTP via TCP; 10 Jan 2016 16:01:30 -0000
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed; d=essessoverseas.net; s=mail;
+	h=Content-Transfer-Encoding:Content-Type:List-Unsubscribe:MIME-Version:Reply-To:From:Date:Message-ID:Subject:To; bh=jDqJr9i4k+JH31qEy6CSiJplt10WMifh4DE+/OFV/P4=;
+	b=nwRXAv/V1HSh8PyiU4vhqaxqcfKXCO0ct1O+/VB33Fo7FH1BoMrMY6mfoBqzy3R6bWAnhU7Ve5zK0fsh/lX0aaUa5RKyTM4wOJbciPmuO8r3q78ypdnS0Yy9L1K3MfvyJ/jX3HMUdhpCzkb2fNawg9DXc5wmK2X8oM+ecYiKkA8=;
+Received: from admin by server.essessoverseas.net with local (Exim 4.80)
+	(envelope-from <hello@essessoverseas.net>)
+	id 1aIIQs-0006kz-0z
+	for bruce@untroubled.org; Sun, 10 Jan 2016 11:01:30 -0500
+To: bruce@untroubled.org
+Subject: hello
+X-PHP-Originating-Script: 0:email.php
+Message-ID: <ad57d2a48f292edf101ab6c921393478@mailer.essessoverseas.net>
+Date: Sun, 10 Jan 2016 16:00:03 +0000
+From: "Mrinalini Singh" <hello@essessoverseas.net>
+Reply-To: hello@uboxapp.com
+MIME-Version: 1.0
+X-Mailer-LID: 43
+List-Unsubscribe: <http://mailer.essessoverseas.net/unsubscribe.php?M=6973380&C=f7321350c0d414a5bec8e0ff38107ac4&L=43&N=44>
+X-Mailer-RecptId: 6973380
+X-Mailer-SID: 44
+X-Mailer-Sent-By: 1
+Content-Type: multipart/alternative; charset="UTF-8"; boundary="b1_385ca97e004e01a6d7ee431a5973c556"
+Content-Transfer-Encoding: 8bit
+
+--b1_385ca97e004e01a6d7ee431a5973c556
+Content-Type: text/plain; format=flowed; charset="UTF-8"
+Content-Transfer-Encoding: 8bit
+
+Your email client cannot read this email.
+To view it online, please go here:
+http://mailer.essessoverseas.net/display.php?M=6973380&C=f7321350c0d414a5bec8e0ff38107ac4&S=44&L=43&N=11
+
+
+To stop receiving these
+emails:http://mailer.essessoverseas.net/unsubscribe.php?M=6973380&C=f7321350c0d414a5bec8e0ff38107ac4&L=43&N=44
+UBoxApp
+
+--b1_385ca97e004e01a6d7ee431a5973c556
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 8bit
+
+<html>
+<head>
+</head>
+<body>
+<p><span style="font-size: medium;">Hello,</span></p>
+<p><span style="font-size: medium;"> My name is <strong>Mrinalini
+Singh</strong>. We are an Indian Designing Studio with over 8 years
+experience. We are an ISO 9001: 2008 Designing Studio with 45 professionals
+with skills in website designing, web development, I-Phone App development,
+Android App development, SEO and Content Writing. We are very different
+from standard IT companies, we not just work on your web-presence and
+creatives, but gives it a brand value and market proposition beyond the
+standards.</span></p>
+<p><span style="font-size: medium;">We have full in-house team of
+Designers, project managers, visualizors, content writers</span></p>
+<p><span style="font-size: medium;"> We offer following
+Services:</span></p>
+<p><span style="font-size: medium;"> (1) Web Designing/Development
+Services.</span></p>
+<p><span style="font-size: medium;"> (2) Website Re-Designing
+Services.</span></p>
+<p><span style="font-size: medium;"> (3) IPhone App Development
+Services.</span></p>
+<p><span style="font-size: medium;"> (4) SEO/SMO/PPC/ Services.</span></p>
+<p><span style="font-size: medium;"> (5) Android App Development
+Services.</span></p>
+<p><span style="font-size: medium;"> (6) IPad App Development
+Services.</span></p>
+<p><span style="font-size: medium;"> (7) Website Customization in CMS
+(Joomla/Word press/Drupal/Magento/Zen cart etc.) Services.</span></p>
+<p><span style="font-size: medium;"> (8) Content Writing
+Services.</span></p>
+<p><span style="font-size: medium;"> (9) Facebook Customized Page
+Development.</span></p>
+<p><span style="font-size: medium;"> (10) Facebook App Development
+Services.</span></p>
+<p><span style="font-size: medium;"> (11) Logo/Graphics/Catalogue/Broachers
+Services.</span></p>
+<p><span style="font-size: medium;"> (12) Newsletter/E-Flyer
+Services.</span></p>
+<p><span style="font-size: medium;"> (13) Flash/Animation
+Services.</span></p>
+<p><span style="font-size: medium;"> (14) Unity 3D Game Development
+Services.</span></p>
+<p><span style="font-size: medium;"> Please let me know if you are
+interested in any of these services.</span></p>
+<p><span style="font-size: medium;"> If you are interested, then I can send
+you our past work details, company information and the best, most
+affordable quote for our services. </span></p>
+<p><span style="font-size: medium;"> Contact me for more
+information.</span></p>
+<p><span style="font-size: medium;"> Thanks &amp; Regards,</span></p>
+<p><span style="font-size: medium;">Mrinalini Singh</span></p>
+<p><span style="font-size: medium;">Founder UBoxApp</span></p>
+<p><span style="font-size: medium;">+91-9599007617</span></p>
+<p><span style="font-size: medium;"><strong>skype :
+uboxapp</strong></span></p>
+<p><span style="font-size: medium;"> Disclaimer: "Note: - We are not
+spammer. We found your email through manually efforts. We are sorry if you
+get email 2 or 3 times. You can simply reply with &ldquo;remove&rdquo; so
+we will delete your email from our list. Thanks again." The CAN-SPAM Act of
+2003.</span></p>
+<a
+href="http://mailer.essessoverseas.net/unsubscribe.php?M=6973380&C=f7321350c0d414a5bec8e0ff38107ac4&L=43&N=44">Unsubscribe
+me from this list</a>
+<br/>UBoxApp<img
+src="http://mailer.essessoverseas.net/open.php?M=6973380&L=43&N=44&F=H&image=.jpg"
+height="1" width="10"></body>
+</html>
+
+--b1_385ca97e004e01a6d7ee431a5973c556--
+

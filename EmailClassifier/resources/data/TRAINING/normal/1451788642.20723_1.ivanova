@@ -1,0 +1,52 @@
+Delivered-To: bruce@untroubled.org
+Received: (fqmail 1693 invoked from network); 28 Dec 2015 20:55:54 -0000
+Received: (qmail 2230 invoked from network); 28 Dec 2015 20:55:53 -0000
+Received: from rip.mx02.futurequest.net (rip.mx02.futurequest.net [10.2.1.172])
+  by mx02.futurequest.net ([69.5.6.172]); 28 Dec 2015 20:55:53 -0000
+Received: from vger.kernel.org (vger.kernel.org [209.132.180.67])
+  by rip.mx02.futurequest.net ([10.2.1.172])
+  with ESMTP via TCP; 28 Dec 2015 20:55:53 -0000
+Received: (majordomo@vger.kernel.org) by vger.kernel.org via listexpand
+	id S1752654AbbL1Uzt (ORCPT <rfc822;bruce@untroubled.org>);
+	Mon, 28 Dec 2015 15:55:49 -0500
+Received: from mx3.its.uni-kassel.de ([141.51.12.64]:50131 "EHLO
+	mx3.its.uni-kassel.de" rhost-flags-OK-OK-OK-OK) by vger.kernel.org
+	with ESMTP id S1752500AbbL1Uzt convert rfc822-to-8bit (ORCPT
+	<rfc822;linux-btrfs@vger.kernel.org>);
+	Mon, 28 Dec 2015 15:55:49 -0500
+X-Greylist: delayed 1801 seconds by postgrey-1.27 at vger.kernel.org; Mon, 28 Dec 2015 15:55:48 EST
+X-IPAS-Result: A2DNYwDCmYFW/5CqM41egg4DAYFKMBxCAQEOgzeFIasdizkYDoVmARaBVwEBAQEBAQKBCYIygixDKCACJgJJFi2IGQqbAIddiBKEDIJJixeBAY56EQGDAQwuE4E2BYJwhnKDV3eIVgGBNYNPiRSBFIcLPAQjhTETijSDc2SBVQEBAYJQIINvgUIBAQE
+X-IronPort-AV: E=Sophos;i="5.20,492,1444687200"; 
+   d="scan'208";a="23351704"
+X-UKS-Mail: fzgewiuhfgadjshfgeijrgzaiwefghieuwfgehjfgiw54567456757fguhklghfrg57gtftjhjtd
+X-CGP-ClamAV-Result: CLEAN
+X-VirusScanner:	Niversoft's CGPClamav Helper v1.18.7a (ClamAV engine v0.98.7)
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8BIT
+Content-Description: Mail message body
+Subject: Charity Donation
+To:	Me <verna.viajar@icdd.uni-kassel.de>
+From:	"Jeff Skoll" <verna.viajar@icdd.uni-kassel.de>
+Date:	Mon, 28 Dec 2015 14:51:43 -0500
+Reply-To: jeff.skoll@skollcharity.org
+X-Priority: 1 (High)
+Sensitivity: Company-Confidential
+Message-ID: <auto-000005121267@mailadmin.uni-kassel.de>
+Sender:	linux-btrfs-owner@vger.kernel.org
+Precedence: bulk
+List-ID: <linux-btrfs.vger.kernel.org>
+X-Mailing-List:	linux-btrfs@vger.kernel.org
+Content-Length: 939
+
+Hi,
+My name is Jeffrey Skoll, a philanthropist and the founder of one of the largest private foundations in the world. I believe strongly in ‘giving while living.’ I had one idea that never changed in my mind — that you should use your wealth to help people and I have decided to secretly give USD2.498 Million to a randomly selected individual. On receipt of this email, you should count yourself as the individual. Kindly get back to me at your earliest convenience, so I know your email address is valid.
+
+Visit the web page to know more about me: http://www.theglobeandmail.com/news/national/meet-the-canadian-billionaire-whos-giving-it-all-away/article4209888/ or you can read an article of me on Wikipedia.
+
+Regards,
+Jeffrey Skoll.
+--
+To unsubscribe from this list: send the line "unsubscribe linux-btrfs" in
+the body of a message to majordomo@vger.kernel.org
+More majordomo info at  http://vger.kernel.org/majordomo-info.html

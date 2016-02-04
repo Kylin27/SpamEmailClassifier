@@ -1,0 +1,305 @@
+Delivered-To: lists-linux-xfs@bruce-guenter.dyndns.org
+Received: (qmail 19352 invoked from network); 22 Jan 2016 10:45:11 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.2]); 22 Jan 2016 10:45:11 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 22 Jan 2016 10:45:11 -0000
+Received: (qmail 6306 invoked from network); 22 Jan 2016 10:45:10 -0000
+Received: from p26.topyag.com ([217.12.123.26])
+  by zak.futurequest.net ([69.5.6.152])
+  with ESMTP via TCP; 22 Jan 2016 10:45:10 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=DKIM1; d=topyag.com;
+ h=To:Subject:Message-ID:Date:From:Reply-To:MIME-Version:Content-Type:Content-Transfer-Encoding; i=postmaster@topyag.com;
+ bh=yH8M5NGd6IxnJj5UCTW+6xOJMcY=;
+ b=cvQ0jUUysjjYxSaCgUjJyDBuUyuP6bmbYwhpCq8KitygKphH1efmcs8mMrvwGhqp97aF4mBLtq8Y
+   FL/MpXEfn/30BDhG6L0e+5oT1AO9ncM1Bf6G71IWl41g8GsqcNJ8UhvQ9hQt0IvBLtNYIOOK7nZw
+   ScXNZRHCdu2s0vNc+K8=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=DKIM1; d=topyag.com;
+ b=v7pzFHX3juAfX1oC2Bg7Ud9uVESZ4mQJlVxdGsyTFmbeGjH0ib8YQPESdI8HFHYmPmEcVoq7fd4o
+   C9aHgpwCioMiCzqxz8G+bYIrndeNDSofwARW6aMPmqP5nyFFOqT1sDTYZFHHPVdsI0prOQYS0Os4
+   6Q8OiiFKqBcle84plIk=;
+To: lists-linux-xfs@bruce-guenter.dyndns.org
+Subject: =?UTF-8?B?Q29udHLDtGxlIGluc3RhbGxhdGlvbiDDqWxlY3RyaXF1ZQ==?=
+Message-ID: <3d871dc9f485e707d4908dc0fcaae2fb@topyag.com>
+Return-Path: bounce@topyag.com
+Date: Fri, 22 Jan 2016 10:45:48 +0000
+From: "Bureau Veritas" <info@topyag.com>
+Reply-To: support@topyag.com
+MIME-Version: 1.0
+X-Mailer-LID: 5
+X-Mailer-SID: 42
+X-Mailer-Sent-By: 1
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 8bit
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01
+Transitional//EN"><html><head><meta http-equiv="Content-Type"
+content="text/html; charset=utf-8"></head><body>
+<div>
+<table style="width: 100%;" border="0" cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td align="center" bgcolor="#FFFFFF">Si vous ne visualisez pas correctement
+ce message, <a
+href="http://topyag.com/link.php?M=113970&N=42&L=43&F=H">consultez-le en
+ligne.</a>
+<table style="margin: 0px 10px; width: 600px;" border="0" cellpadding="0"
+cellspacing="0">
+<tbody>
+<tr>
+<td style="text-align: center; padding-bottom: 5px; padding-top: 5px;
+font-family: 'Trebuchet MS',Arial; color: #ffffff; font-size: 11px;"
+valign="top"><a>si cet email ne s'affiche pas correctement veuillez cliquer
+ici</a></td>
+</tr>
+<tr>
+<td width="600">
+<table style="width: 600px;" bgcolor="#d40030" border="0" cellpadding="0"
+cellspacing="0">
+<tbody>
+<tr>
+<td align="center" bgcolor="#d40030" width="600">
+<table style="width: 600px;" border="0" cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td width="600">
+<div align="center"><a
+href="http://topyag.com/link.php?M=113970&N=42&L=42&F=H" title="VERITAS"
+style="border: none;" target="_blank"> <img
+src="http://hosting.effiliation.com/bureauveritas/sept2014/bv_01.jpg"
+style="max-width: 600px; display: block; border: none;" alt="BUREAU VERITAS
+PRO La conformit&eacute; de vos installations en quelques clics" />
+</a></div>
+</td>
+</tr>
+<tr>
+<td bgcolor="#ffffff" width="600">
+<div style="font-weight: bold; color: #717063; font-size: 15px;
+line-height: 20px; margin-top: 15px; margin-bottom: 15px; text-align:
+center;"><a href="http://topyag.com/link.php?M=113970&N=42&L=42&F=H"
+title="VERITAS" style="border: none; text-decoration: none;"
+target="_blank"> <font style="color: #717063; font-family: arial;">
+ARTISANS, COMMER&Ccedil;ANTS, PROFESSIONS LIB&Eacute;RALES, TPE ET PME:
+</font> </a></div>
+</td>
+</tr>
+<tr>
+<td bgcolor="#d40030" width="600">
+<div style="text-align: center;"><a
+href="http://topyag.com/link.php?M=113970&N=42&L=42&F=H" title="VERITAS"
+style="border: none; text-decoration: none;" target="_blank"> <font
+style="color: #ffffff; font-size: 23px; line-height: 29px; font-weight:
+normal; font-family: arial;"> VOTRE INSTALLATION &Eacute;LECTRIQUE<br />
+DOIT &Ecirc;TRE CONTR&Ocirc;L&Eacute;E TOUS LES ANS ! </font> </a></div>
+</td>
+</tr>
+<tr>
+<td style="background-color: #efedeb;" width="600">
+<table style="text-align: center; width: 600px;" border="0" cellpadding="0"
+cellspacing="0">
+<tbody>
+<tr>
+<td>
+<table style="width: 389px;" align="left" border="0" cellpadding="0"
+cellspacing="0">
+<tbody>
+<tr>
+<td><img
+src="http://hosting.effiliation.com/bureauveritas/sept2014/bv_04.jpg"
+style="width: 389px; display: block;" /></td>
+</tr>
+<tr>
+<td style="color: #4c4d3d; font-size: 14px; line-height: 20px; text-align:
+left; margin-bottom: 28px;">
+<ul>
+<li style="color: #d40030;"><a
+href="http://topyag.com/link.php?M=113970&N=42&L=42&F=H" title="VERITAS"
+style="border: none; text-decoration: none;" target="_blank"> <font
+style="color: #d40030; font-weight: bold; font-family: arial;">Etre
+conforme &agrave; la r&eacute;glementation </font><font style="color:
+#4c4d3d; font-weight: normal; font-family: arial;"> : c'est une obligation
+l&eacute;gale (code du Travail)</font> </a> <br /><br /></li>
+<li style="color: #d40030;"><a
+href="http://topyag.com/link.php?M=113970&N=42&L=42&F=H" title="VERITAS"
+style="border: none; text-decoration: none;" target="_blank"> <font
+style="color: #d40030; display: inline; font-weight: bold; font-family:
+arial;">Pr&eacute;venir les risques</font><font style="color: #4c4d3d;
+font-weight: normal; font-family: arial;"> d'incendie et d'accidents
+li&eacute;s<br /> &agrave; des surtensions ou d&eacute;charges
+&eacute;lectriques</font> </a> <br /><br /></li>
+<li style="color: #d40030;"><a
+href="http://topyag.com/link.php?M=113970&N=42&L=42&F=H" title="VERITAS"
+style="border: none; text-decoration: none;" target="_blank"> <font
+style="color: #d40030; display: inline; font-weight: bold; font-family:
+arial;">Evitez les interruptions</font><font style="color: #4c4d3d;
+font-weight: normal; font-family: arial;"> d'activit&eacute;</font>
+</a></li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="text-align: center; width: 211px;" align="right" border="0"
+cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td style="background-color: #d40030; text-align: center;"><a
+href="http://topyag.com/link.php?M=113970&N=42&L=42&F=H" title="VERITAS"
+style="border: none;" target="_blank"> <img
+src="http://hosting.effiliation.com/bureauveritas/sept2014/decoupe_05.jpg"
+style="display: block;" width="211" /> </a></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td bgcolor="#ffffff" width="600">
+<div align="center"><a
+href="http://topyag.com/link.php?M=113970&N=42&L=42&F=H" title="VERITAS"
+style="border: none;" target="_blank"> <img
+src="http://hosting.effiliation.com/bureauveritas/sept2014/bv_09.jpg"
+style="display: block;" alt="Je fais controler mon installation electrique"
+/> </a></div>
+</td>
+</tr>
+<tr>
+<td bgcolor="#ffffff" width="600">
+<div style="font-weight: bold; color: #717063; font-size: 29px;
+line-height: 29px; text-align: center;"><a
+href="http://topyag.com/link.php?M=113970&N=42&L=42&F=H" title="VERITAS"
+style="border: none; text-decoration: none;" target="_blank"> <font
+style="color: #717063; font-family: arial;"> LES + DE BUREAU VERITAS:
+</font> </a></div>
+</td>
+</tr>
+<tr>
+<td width="600">
+<div align="center"><a
+href="http://topyag.com/link.php?M=113970&N=42&L=42&F=H" title="VERITAS"
+style="border: none;" target="_blank"> <img
+src="http://hosting.effiliation.com/bureauveritas/sept2014/bv_12.jpg"
+style="max-width: 600px; display: block;" /> </a></div>
+</td>
+</tr>
+<tr>
+<td bgcolor="#ffffff" width="600">
+<table style="width: 600px;" align="left" border="0" cellpadding="0"
+cellspacing="0">
+<tbody>
+<tr>
+<td width="600">
+<table style="text-align: center; width: 600px;" border="0" cellpadding="0"
+cellspacing="0">
+<tbody>
+<tr>
+<td>
+<table style="width: 200px;" align="left" border="0" cellpadding="0"
+cellspacing="0">
+<tbody>
+<tr>
+<td style="background-color: #ffffff; text-align: center;"><a
+href="http://topyag.com/link.php?M=113970&N=42&L=42&F=H" title="VERITAS"
+style="border: none;" target="_blank"> <img
+src="http://hosting.effiliation.com/bureauveritas/sept2014/decoupe_12.jpg"
+style="display: block; width: 198px;" alt="SERIEUX Leader mondial des
+services d'&eacute;valuation de conformit&eacute;" width="198" />
+</a></td>
+</tr>
+</tbody>
+</table>
+<table style="text-align: center; width: 200px;" align="right" border="0"
+cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td style="background-color: #ffffff; text-align: center;"><a
+href="http://topyag.com/link.php?M=113970&N=42&L=42&F=H" title="VERITAS"
+style="border: none;" target="_blank"> <img
+src="http://hosting.effiliation.com/bureauveritas/sept2014/decoupe_14.jpg"
+style="display: block; width: 198px;" alt="PROXIMITE 7600 collaborateurs
+partout en France" width="198" /> </a></td>
+</tr>
+</tbody>
+</table>
+<table style="text-align: center; width: 200px;" align="right" border="0"
+cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td style="background-color: #ffffff; text-align: center;"><a
+href="http://topyag.com/link.php?M=113970&N=42&L=42&F=H" title="VERITAS"
+style="border: none;" target="_blank"> <img
+src="http://hosting.effiliation.com/bureauveritas/sept2014/decoupe_13.jpg"
+style="display: block; width: 198px;" alt="SIMPLICITE Une offre et un
+service d&eacute;di&eacute; &agrave; votre activit&eacute; pour vous
+simplifier la vie" width="198" /> </a></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td width="600">
+<div align="center"><img
+src="http://hosting.effiliation.com/bureauveritas/sept2014/bv_16.jpg"
+style="max-width: 600px; display: block;" alt="Move Forward with
+Confidence" /></div>
+</td>
+</tr>
+<tr>
+<td style="text-align: center; padding-bottom: 5px; padding-top: 5px;
+font-family: 'Trebuchet MS',Arial; color: #002f64; font-size: 11px;"
+valign="top">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+<table style="width: 100%;" id="background-table" border="0"
+cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td align="center" bgcolor="#FFFFFF">
+<table style="width: 600px;" border="0" cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td valign="top">
+<div align="center">Ce message vous est envoy&eacute; par LeadsLeader. <a
+href="http://topyag.com/link.php?M=113970&N=42&L=1&F=H">D &eacute; s a b o
+n n e m e n t</a> de la liste</div>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<img
+src="http://track13150732.effimails14.com/servlet/effi.pixel?id_compteur=13150732"
+/></td>
+</tr>
+</tbody>
+</table>
+</div>
+<img src="http://topyag.com/open.php?M=113970&L=5&N=42&F=H&image=.jpg"
+height="1" width="10"></body></html>
+

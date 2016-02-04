@@ -1,0 +1,53 @@
+Delivered-To: lists-linux-kernel@bruce-guenter.dyndns.org
+Received: (qmail 3614 invoked from network); 22 Jan 2016 08:56:19 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.2]); 22 Jan 2016 08:56:19 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 22 Jan 2016 08:56:19 -0000
+Received: (qmail 1977 invoked from network); 22 Jan 2016 08:56:17 -0000
+Received: from 6wms4n.isp ([103.228.198.205])
+  by zak.futurequest.net ([69.5.6.152])
+  with ESMTP via TCP; 22 Jan 2016 08:56:17 -0000
+Received: by 5bd1g3.jqg (Postfix, from userid 1002)
+	id 0645114EC953; Fri, 22 Jan 2016 17:55:16 +0900 (JST)
+Received: from qmlposqi.loxmlmg (unknown [10.157.242.201])
+	by localhost (Postfix) with ESMTP id 57B351049351
+	for <lists-linux-kernel@bruce-guenter.dyndns.org>; Fri, 22 Jan 2016 17:54:28 +0900 (JST)
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="=_014aa1391cfa9fe5e4ebca9f2cfb6ceb"
+To: lists-linux-kernel@bruce-guenter.dyndns.org
+From: ttejouet@tbo.h33kgesplg.click
+Subject: =?Shift_JIS?B?gsmCwYKrguOCpIKygtyC8YKmgvE=?=
+Message-Id: <20160122175428@acvqojrre.hxumfzk>
+Date: Fri, 22 Jan 2016 17:54:28 +0900 (JST)
+
+--=_014aa1391cfa9fe5e4ebca9f2cfb6ceb
+Content-Transfer-Encoding: 7bit
+Content-Type: text/plain; charset=Shift_JIS
+
+
+--=_014aa1391cfa9fe5e4ebca9f2cfb6ceb
+Content-Transfer-Encoding: base64
+Content-Type: text/html; charset=Shift_JIS
+
+PGh0bWw+DQo8Ym9keT4NColSgs2CwoKrgtyCuYLxgUI8YnI+DQoNCo2hk/qCqYLnNZacgsyO+5P8
+gqqTvoLnguqC3IK3gUI8YnI+DQqQ4pHOgsmTloK9gumV84KtgraCzJdsgsiC4ILMgr6Cxo52gsGC
+xIKtgr6Cs4KigUI8YnI+PGJyPg0KDQqQTYK2gueC6oLIgqKCxo52gqKC3IK3gqqBQTxhIGhyZWY9
+Imh0dHA6Ly90Ym8udXRqdmF1YXRxbmMuY2xpY2svZ3NoL2g5MHVnLnBocD8waz1MbTh1ek15NTcw
+OEc3UXpwelFMNXowMjM4aFJSOE1MYzhpYmIiPoKxgr+C5zwvYT6C8IKyl5eCrYK+grOCooFCPGJy
+Pjxicj4NCg0KDQqBmTxhIGhyZWY9Imh0dHA6Ly90Ym8udXRqdmF1YXRxbmMuY2xpY2svZ3NoL2g5
+MHVnLnBocD8waz1MbTh1ek15NTcwOEc3UXpwelFMNXowMjM4aFJSOE1MYzhpYmIiPo/ajdeCzYKx
+gr+C5zwvYT48YnI+DQoNCg0KPGJyPjxicj48YnI+DQoNCjxicj48YnI+DQo8YnI+PGJyPjxicj48
+YnI+DQo8YnI+PGJyPjxicj48YnI+PGJyPg0KPGJyPjxocj48YnI+DQoNCg0KDQqBnDxhIGhyZWY9
+Imh0dHA6Ly90Ym8udXRqdmF1YXRxbmMuY2xpY2svZ3NoL2g5MHVnLnBocD8waz10MHl1ek1pdUww
+ek16bXljOG1wRTdRa0dKUXlFejBQNSI+g3uBW4Npg1iOeIuLgrWC3IK3PC9hPjxicj48YnI+DQo8
+YnI+DQoNCoGcPGEgaHJlZj0iaHR0cDovL3Riby51dGp2YXVhdHFuYy5jbGljay9nc2gvaDkwdWcu
+cGhwPzBrPUxtOG04TWttek1QNXpRSDN6aHlSek1QNXpoUlI4TUxjOGliYiI+g1aDh4Nig3ODk4NP
+mGc5NiWMu4vgibs8L2E+PGJyPjxicj4NCjxicj4NCjxicj48YnI+PGJyPjxicj4NCg0KDQqUepBN
+kuKOfoLNPGJyPjxhIGhyZWY9Imh0dHA6Ly90Ym8udXRqdmF1YXRxbmMuY2xpY2svZ3NoLzFlNy5w
+aHA/MGs9SlF5RXowUDVMbWt1NzBvUnptUGd6MDJOelFGRTdRRmIiPoKxgrGC8DwvYT642K+4DQoN
+CjwvYm9keT4NCjwvaHRtbD4=
+--=_014aa1391cfa9fe5e4ebca9f2cfb6ceb--
+

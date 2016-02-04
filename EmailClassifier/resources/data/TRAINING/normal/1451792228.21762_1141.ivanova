@@ -1,0 +1,33 @@
+Delivered-To: lists-djb-ezmlm@bruce-guenter.dyndns.org
+Received: (qmail 15409 invoked from network); 1 Jan 2016 18:23:20 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.2]); 01 Jan 2016 18:23:20 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 01 Jan 2016 18:23:20 -0000
+Received: (qmail 24925 invoked from network); 1 Jan 2016 18:23:19 -0000
+Received: from vtz188724369.7.8 ([180.214.53.185])
+  by zak.futurequest.net ([69.5.6.152])
+  with ESMTP via TCP; 01 Jan 2016 18:23:19 -0000
+Return-Path: <mail002100000213711@leNmiS4B.com>
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/simple; d=leNmiS4B.com; s=sel; q=dns/txt; l=1; bh=VP0XESCfscB4EJI3QTLGbnniJBs=; h=From; b=W+kLqHju/126B4I/JOynFRb6LtNYaUdwHqpGh37LWTznjM+b7PloNSXuXyL7HiZyHkpxM3itRNMFVHRyfolJ5+ACjHjrHsMr2IuyusqpdRM5CYqE6Tav8aiIzXSNmriUOkjWwroxJ+lQYQGs4kSnqtwxGvoxo4G0xj29eMOUMpc=
+Date: Sat, 02 Jan 2016 03:23:18 +0900
+MIME-Version: 1.0
+From: mail@leNmiS4B.com
+To: lists-djb-ezmlm@bruce-guenter.dyndns.org
+Message-Id: 296340860_93955095626d37ccc7d5@leNmiS4B.com
+Content-Type: text/plain; charset="Shift_JIS"
+Content-Transfer-Encoding: base64
+Subject: =?ISO-2022-JP?B?GyRCPHU/LiVcJUMlLyU5JEtMJEZJJE4lYSE8JWskLDhmOkIkJCReJDkbKEI=?=
+
+gqKCrYLCgqmCzJaik8eDgYNig1qBW4NXgqqM5I3AgqKC3IK3gUINCor6jMCC8InfgqyCxIK1gtyC
+ooLcgreCxo3tj5yCs4LqgsSCtYLcgqKMqYLqgsiCrYLIgsGCxIK1gtyCpI6WgqqCsoK0gqKC3IK3
+gsyCxYFBlUuCuIptlEaC8IK1gsSCrYK+grOCooLcgrmBQg0KgasNCmh0dHA6Ly9sZU5taVM0Qi5j
+b20vJTdlY3MvbWFpbGJveC9QQzo2MjAzMTI2NTYyNmQzN2NjYjA4NS9JQzpWTjZNbG9LUjFVMG41
+OG1xRFpIOS8/Z3VpZD1PTg0KDQoNCg0KDQoNCg0KDQoNCg0KDQoNCg0KDQoNCg0KDQoNCg0KDQoN
+Cg0KgaWR3onvgs2CsYK/gucNCmh0dHA6Ly9sZU5taVM0Qi5jb20vJTdlY3MvcmVzaWduL1BDOjYy
+MDMxMjY1NjI2ZDM3Y2NiMDg1L0lDOlZONk1sb0tSMVUwbjU4bXFEWkg5Lz9ndWlkPU9ODQoNCoGl
+lHqQTYyzDQpDaHJvbWUgV2lkZSBMaW1pdGVk
+
+
+

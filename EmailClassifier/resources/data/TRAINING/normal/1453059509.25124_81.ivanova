@@ -1,0 +1,66 @@
+Delivered-To: bruce@untroubled.org
+Received: (fqmail 7029 invoked from network); 17 Jan 2016 09:46:25 -0000
+Received: (qmail 11344 invoked from network); 17 Jan 2016 09:46:25 -0000
+Received: from rip.mx11.futurequest.net (rip.mx11.futurequest.net [10.2.1.184])
+  by mx11.futurequest.net ([69.5.6.184]); 17 Jan 2016 09:46:24 -0000
+Received: from hostpaia.ishuang.net ([120.25.84.73])
+  by rip.mx11.futurequest.net ([10.2.1.184])
+  with ESMTP via TCP; 17 Jan 2016 09:46:24 -0000
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed;
+	d=paia.ishuang.net; s=default; h=Date:Message-Id:Content-Transfer-Encoding:
+	Content-Type:MIME-Version:Reply-To:From:Subject:To;
+	bh=UIyllheH9xk8BjuumgSchTNueeBBds9cqe59xnFqJWE=; b=l0N2f0FWE6IMWNplkoA6FQD0zX
+	CPsAEjl18lM8S30rVMlzJwJqeTQSd2GKAFJUkzMd+LsTxiVDKkvbrQ94BL1we5ldzExgzlAAJL1mi
+	Q3R2xJ3856jPDkSeojGP7rNd5XSSoU/GlyYJ3uy6Bh5ebx6yui69hqNFMNCgRqo7FqqFwKjF3WFBd
+	GTFkeiox9BHSndYt/u3ySRfqAI5PqhD77KrBTzCfdMJq3A8Qva9TwrG2/6+kfZYaqVQk/zjIt3TDZ
+	uWobR5J/q+FwI1C7y/SFo94u63WEsH8heBCNSztz7oNwLzZMdcjd1wDD3wqQYqa/hLzEfMnqSWTQL
+	FwfXKK5Q==;
+Received: from paiaishu by hostpaia.ishuang.net with local (Exim 4.86)
+	(envelope-from <fred@paia.ishuang.net>)
+	id 1aKjue-0005hW-N0
+	for bruce@untroubled.org; Sun, 17 Jan 2016 17:46:20 +0800
+To: bruce@untroubled.org
+Subject: =?GB2312?B?v6qztb3Ttee7sLK7sLLIq6Osv8m/vMLHwLbRwLb6u/o=?=
+From: 深潜蓝牙<fred@paia.ishuang.net>
+Reply-To: fred@paia.ishuang.net
+MIME-Version: 1.0
+Content-Type: text/html; charset="gb2312"
+Content-Transfer-Encoding: 7bit
+Message-Id: <E1aKjue-0005hW-N0@hostpaia.ishuang.net>
+Date: Sun, 17 Jan 2016 17:46:20 +0800
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - hostpaia.ishuang.net
+X-AntiAbuse: Original Domain - untroubled.org
+X-AntiAbuse: Originator/Caller UID/GID - [500 160] / [47 12]
+X-AntiAbuse: Sender Address Domain - paia.ishuang.net
+X-Get-Message-Sender-Via: hostpaia.ishuang.net: authenticated_id: paiaishu/from_h
+X-Authenticated-Sender: hostpaia.ishuang.net: fred@paia.ishuang.net
+X-Source: /usr/bin/php
+X-Source-Args: /usr/bin/php -q /home/paiaishu/public_html/users/send_emails.php 
+X-Source-Dir: paia.ishuang.net:/public_html/users
+
+<HTML>
+<HEAD>
+<TITLE></TITLE>
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=gb2312">
+</HEAD>
+<BODY BGCOLOR=#FFFFFF LEFTMARGIN=0 TOPMARGIN=0 MARGINWIDTH=0 MARGINHEIGHT=0>
+<div align="center">
+
+<TABLE WIDTH=600 BORDER=0 CELLPADDING=0 CELLSPACING=0>
+  <tr> 
+    <td width="100%" height="40" valign="middle" align="right" style="font-size:12px;color:#5E5E5E;">实用蓝牙耳机，商务人士必备，详情<a
+href="http://redirect.simba.taobao.com/rd?w=unionnojs&f=http%3A%2F%2Fai.taobao.com%2Fauction%2Fedetail.htm%3Fe%3DTSPSEFkrXWbuDAZjWhpTWGm%252Bj0%252FsWzdkNyowzLFh4bVBWJVBnwmj7tnO073KpEUuesayvrQ7hvk2JZN3G%252BC%252FekWrZ7KDvYJhDgry5wdXhm2ax0qHVXeHG%252FlYGH3A75GK8ZuPw8TjdvJ3PnzjpdAOKQ%253D%253D%26ptype%3D100010%26from%3Dbasic&k=5ccfdb950740ca16&c=un&b=alimm_0&p=mm_57761252_11834336_44836833" target="_blank">请看</a>
+</td>
+  </tr>
+	<TR>
+		
+      <TD> <a href="http://redirect.simba.taobao.com/rd?w=unionnojs&f=http%3A%2F%2Fai.taobao.com%2Fauction%2Fedetail.htm%3Fe%3DTSPSEFkrXWbuDAZjWhpTWGm%252Bj0%252FsWzdkNyowzLFh4bVBWJVBnwmj7tnO073KpEUuesayvrQ7hvk2JZN3G%252BC%252FekWrZ7KDvYJhDgry5wdXhm2ax0qHVXeHG%252FlYGH3A75GK8ZuPw8TjdvJ3PnzjpdAOKQ%253D%253D%26ptype%3D100010%26from%3Dbasic&k=5ccfdb950740ca16&c=un&b=alimm_0&p=mm_57761252_11834336_44836833" target="_blank"><IMG SRC="http://91104804.k237.opensrs.cn/bluetooth/blue.jpg" WIDTH=600
+HEIGHT=758 ALT="" border="0"></a></TD>
+	</TR>
+</TABLE>
+</div>
+<img src="http://stat.wutaiit.com/x/p/?VhsHPFU7UTcCbQUtUExVSFNvDzgCMFFiAW9XZg1tBCQAU15lAm8GZgtIBhgEbFM4VWUKIlMcB2sAJAd7V08ISlZrB2FVZ1FzAlwFJlB1VWlTbw9SAmRROgEyV3kNGQRvAGFeaQJtBj8LYwYuBCRTaVUxCkRTJQdsACMHfVdpCHtWNAc1VTNRMQImBTBQd1VrU3QPUgJkUSYBIFc6DS4ESwBEXj0CMAYk" style="width:1px;height:1px"></body>
+</HTML>
+
+

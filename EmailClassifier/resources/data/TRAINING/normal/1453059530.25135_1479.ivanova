@@ -1,0 +1,69 @@
+Delivered-To: lists-linux-xfs@bruce-guenter.dyndns.org
+Received: (qmail 32327 invoked from network); 15 Jan 2016 23:21:06 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.2]); 15 Jan 2016 23:21:06 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 15 Jan 2016 23:21:06 -0000
+Received: (qmail 8600 invoked from network); 15 Jan 2016 23:21:05 -0000
+Received: from tcl002.6e9hnyftx2 ([103.228.199.89])
+  by zak.futurequest.net ([69.5.6.152])
+  with ESMTP via TCP; 15 Jan 2016 23:21:05 -0000
+Received: by tcl002.6e9hnyftx2 (Postfix, from userid 1002)
+	id BB617B8F90; Sat, 16 Jan 2016 08:21:04 +0900 (JST)
+Received: from localhost (unknown [10.124.141.151])
+	by localhost (Postfix) with ESMTP id AD772B8F2C
+	for <lists-linux-xfs@bruce-guenter.dyndns.org>; Sat, 16 Jan 2016 08:21:04 +0900 (JST)
+Content-Transfer-Encoding: 7bit
+Content-Type: multipart/alternative; boundary="=_a3900589aff3b561ec1399d905f4043f"
+Date: Sat, 16 Jan 2016 08:21:03 +0900
+From: =?Shift_JIS?B?g32DYoNgg5ODTw==?=  <info@oc4rpjfo9u.u5ybaxcn-28h.biz>
+MIME-Version: 1.0
+Subject: =?Shift_JIS?B?kFYgkoWBQIOMg3iDYoNKIJdsIIKpIILn?=
+To: <lists-linux-xfs@bruce-guenter.dyndns.org>
+Message-Id: <20160115232104.BB617B8F90@tcl002.6e9hnyftx2>
+
+--=_a3900589aff3b561ec1399d905f4043f
+Content-Transfer-Encoding: base64
+Content-Type: text/plain; charset=Shift_JIS
+
+IIF3ICCQTZeKgUWOwJDRIJFTjZEgTk8uMSAggXgKRnJvbYFGg4yDeINig0qDjIN4g2KDSpds
+gs2Ws5e/g2CDUINig2eC8IKyl5iXcIKzguqCxIKoguiC3IK3gUKDgYNig1qBW4NXkZeO85BN
+gs2Ws5e/gsmCxI1zgqaC3IK3gUINCoGlg4GDYiCDWoFbg1eBpQ0KDQqBd4OMg3iDYoNKgsWC
+t/nG+Z+OhIKqkk6CqYLgjZCCsIK4gsmCqJdVgqKCtYLEgreC3YLcgrmC8YLFgrWCvfmrguCC
+pJCzkryCyYy+gqKC3IK3+dCBeA0KDQqBeSCRsYKrgvCTx4LegUWV1I6WgreC6SCBeg0KDQoN
+CoF1II7zLZBNLYquLZFTLZazLZe/IIF2DQoNCoGmgrGCzIOBgVuDi4LJgs2J5pGcgqqTWZV0
+grOC6oLEgqKC3IK3gUINCg0KDQqBmY+JifEujMCS6C6DVIFbg3KDWC6KSo3DkoaBmQ0KDQoN
+Cg0KDQoNCg0KDQoNCg0KgZ6Nd5SDj0mXuQ0KDQo9PT09PT09PT09PT09PT09PQ0KgZ4xOIGe
+jc6BnpaigZ6WnoGeDQqBnpeYgZ6XcIGei9aBno5+gZ4NCj09PT09PT09PT09PT09PT09DQoN
+CpGXgZ6QTYGejLOBRoN9g2KDYIOTg08KIIGZLYGZLYGZLYGZLYGZLYGZLYGZLYGZ
+--=_a3900589aff3b561ec1399d905f4043f
+Content-Transfer-Encoding: base64
+Content-Type: text/html; charset=Shift_JIS
+
+IIF3ICCQTZeKgUWOwJDRIJFTjZEgTk8uMSAggXg8YnI+PGhyPkZyb22BRoOMg3iDYoNKPGhy
+PoOMg3iDYoNKl2yCzZazl7+DYINQg2KDZ4LwgrKXmJdwgrOC6oLEgqiC6ILcgreBQoOBg2KD
+WoFbg1eRl47zkE2CzZazl7+CyYLEjXOCpoLcgreBQjxiciAvPg0KPGhyPoGlg4GDYiCDWoFb
+g1eBpTwvc3Bhbj48YnIgLz4NCjxiciAvPg0KgXeDjIN4g2KDSoLFgrf5xvmfjoSCqpJOgqmC
+4I2QgrCCuILJgqiXVYKigrWCxIK3gt2C3IK5gvGCxYK1gr35q4LggqSQs5K8gsmMvoKigtyC
+t/nQgXg8YnIgLz4NCjxiciAvPg0KPGEgaHJlZj0iaHR0cDovL29yd2h3bDN1ZXAudTV5YmF4
+Y24tMjhoLmJpei9yZWNlcHRpb24vaW5kaXZpZHVhbC5waHA/a2V5PWRjZTg1NTYxODY4NzNi
+YmI2ZDkyMDM3YzdmMTUxZWNkJnJtPTQxNTEzJm1rZXk9ZDI0NGIzZjY5ZWRmYWZiYmU2NmY4
+YWM5MDQwYTFkNTgiPoF5IJGxgquC8JPHgt6BRZXUjpaCt4LpIIF6PC9hPjxiciAvPg0KPGJy
+IC8+DQo8YnIgLz4NCoF1II7zLZBNLYquLZFTLZazLZe/IIF2PGJyIC8+DQo8YnIgLz4NCjxh
+IGhyZWY9Imh0dHA6Ly9vcndod2wzdWVwLnU1eWJheGNuLTI4aC5iaXovcmVjZXB0aW9uL2lu
+ZGl2aWR1YWwucGhwP2tleT1kY2U4NTU2MTg2ODczYmJiNmQ5MjAzN2M3ZjE1MWVjZCZybT00
+MTUxMyZta2V5PWQyNDRiM2Y2OWVkZmFmYmJlNjZmOGFjOTA0MGExZDU4Ij6BpoKxgsyDgYFb
+g4uCyYLNieaRnIKqk1mVdIKzguqCxIKigtyCt4FCPC9hPjxiciAvPg0KPGJyIC8+DQo8aHI+
+PGJyIC8+DQo8YSBocmVmPSJodHRwOi8vb3J3aHdsM3VlcC51NXliYXhjbi0yOGguYml6L2hv
+bWUvaW5kZXgucGhwP2tleT1kY2U4NTU2MTg2ODczYmJiNmQ5MjAzN2M3ZjE1MWVjZCZybT00
+MTUxMyI+gZmPiYnxLozAkugug1SBW4Nyg1guikqNw5KGgZk8L2E+PGJyIC8+DQo8YnIgLz4N
+Cjxocj48YnIgLz4NCjxiciAvPg0KPGJyIC8+DQo8YnIgLz4NCjxiciAvPg0KPGJyIC8+DQo8
+YnIgLz4NCjxiciAvPg0KPGEgaHJlZj0iaHR0cDovL29yd2h3bDN1ZXAudTV5YmF4Y24tMjho
+LmJpei9ob21lL2luZGV4LnBocD9rZXk9ZGNlODU1NjE4Njg3M2JiYjZkOTIwMzdjN2YxNTFl
+Y2Qmcm09NDE1MTMiPoGejXeUg49Jl7k8L2E+PGJyIC8+DQo8YnIgLz4NCj09PT09PT09PT09
+PT09PT09PGJyIC8+DQqBnjE4gZ6NzoGelqKBnpaegZ48YnIgLz4NCoGel5iBnpdwgZ6L1oGe
+jn6BnjxiciAvPg0KPT09PT09PT09PT09PT09PT08YnIgLz4NCjxiciAvPg0KkZeBnpBNgZ6M
+s4FGg32DYoNgg5ODTzxicj4ggZktgZktgZktgZktgZktgZktgZktgZk=
+--=_a3900589aff3b561ec1399d905f4043f--
+

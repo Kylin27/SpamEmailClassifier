@@ -1,0 +1,15 @@
+Delivered-To: lists-bikini@bruce-guenter.dyndns.org
+Received: (qmail 28197 invoked from network); 22 Jan 2016 03:33:58 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.2]); 22 Jan 2016 03:33:58 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 22 Jan 2016 03:33:58 -0000
+Received: (qmail 27839 invoked from network); 22 Jan 2016 03:33:53 -0000
+Received: from 69.5.6.152 ([59.38.32.35])
+  by zak.futurequest.net ([69.5.6.152])
+  with SMTP via TCP; 22 Jan 2016 03:33:53 -0000
+Received: from 221.127.117.187 by 59.38.32.35; Fri, 22 Jan 2016 02:27:25 -0100
+Message-ID: <A[20
+
+

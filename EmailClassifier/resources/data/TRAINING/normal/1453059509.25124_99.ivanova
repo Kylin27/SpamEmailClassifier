@@ -1,0 +1,31 @@
+Delivered-To: bruce@bruce-guenter.dyndns.org
+Received: (qmail 13437 invoked from network); 17 Jan 2016 09:11:37 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.2]); 17 Jan 2016 09:11:37 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 17 Jan 2016 09:11:37 -0000
+Received: (qmail 6731 invoked from network); 17 Jan 2016 09:11:36 -0000
+Received: from lplzt58s.localdomain ([45.124.218.152])
+  by zak.futurequest.net ([69.5.6.152])
+  with ESMTP via TCP; 17 Jan 2016 09:11:36 -0000
+Received: by lplzt58s.localdomain (Postfix, from userid 1002)
+	id 93EA9148DCC6; Sun, 17 Jan 2016 18:10:18 +0900 (JST)
+Received: from scbsicpbi.fcqujoxb (unknown [10.253.122.226])
+	by localhost (Postfix) with ESMTP id 4566C148DD97
+	for <bruce@bruce-guenter.dyndns.org>; Sun, 17 Jan 2016 18:10:18 +0900 (JST)
+To: =?iso-2022-jp?B?GyRCJTIlOSVITU0bKEI=?= <bruce@bruce-guenter.dyndns.org>
+Subject: =?iso-2022-jp?B?GyRCJDMkbCRPQVBKfSQsIVobKEJXSU4bJEIhdRsoQldJThskQiFbGyhC?=
+	=?iso-2022-jp?B?GyRCJE40WDc4JE4kYiRIJCpPQyQ3JDckRiRrJDMkSCRHJDkhIxsoQg==?=
+From: =?iso-2022-jp?B?GyRCaWJMPiEhNX47UhsoQg==?= <mail@4andrm.top>
+Message-Id: <Qdmail.1.2.6b_557ed306872f9783c8e239f711f9424863413e14@hal456.net>
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: base64
+MIME-Version: 1.0
+X-PHP-Qdmail: version-1.2.6b The_MIT_License http://hal456.net/qdmail PHPver 5.3.3
+	send-by SMTP
+Date: Sun, 17 Jan 2016 18:10:18 +0900 (JST)
+
+Cgrnorroqo3jga/jgZPjgaHjgonimarimaoKaHR0cDovL3E0YmRybS50b3AvcGMvbWVtYmVyL3Nl
+bmRNYWlsLnBocD9kaXJlY3RfdXNlcl9jZD0xMDgzNjkmZGlyZWN0X3Bhc3N3b3JkPTE2NjkmTV9N
+QUlMX1NFUT03MjU4NDU=

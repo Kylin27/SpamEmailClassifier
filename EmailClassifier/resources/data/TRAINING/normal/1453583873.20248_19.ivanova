@@ -1,0 +1,124 @@
+Delivered-To: cvs@bruce-guenter.dyndns.org
+Received: (qmail 21462 invoked from network); 22 Jan 2016 11:41:10 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.2]); 22 Jan 2016 11:41:10 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 22 Jan 2016 11:41:10 -0000
+Received: (qmail 7581 invoked from network); 22 Jan 2016 11:41:09 -0000
+Received: from cupo7.cupo.cuponspremiados.com.br ([192.255.164.146])
+  by zak.futurequest.net ([69.5.6.152])
+  with ESMTP via TCP; 22 Jan 2016 11:41:09 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=app; d=cupo.cuponspremiados.com.br;
+ h=From:Subject:To:Date:Message-ID:MIME-Version:Content-Type; i=alexandre@cupo.cuponspremiados.com.br;
+ bh=3LQjNZHIHPEvH9Ti+ZcA/qp9YAs=;
+ b=Ab8L48aQpLZUqs+Fsop9eP7qsSaj7VpHTr5v0QQPem/t2NTzFcn9bf7xUGm8sAUzdREsW5B1nj+n
+   vb9dol1xHkON8wTqUVLU5JI2JbolsC4agfkPS2PDBnXEdOWlfQhY8zExxu24bfRfRW8Xj3GozJW0
+   oFTRJEaxzfpa0V/IoWc=
+From: =?UTF-8?Q?Par=20Perfeito?= <alexandre@cupo.cuponspremiados.com.br>
+Subject: =?UTF-8?Q?Quer=20namorar=20em=2020?==?UTF-8?Q?16=3F=20Ca?=
+ =?UTF-8?Q?dastre-se=20Gr=C3=A1tis=20Ag?==?UTF-8?Q?ora.?=
+To: cvs@bruce-guenter.dyndns.org
+Date: Fri, 22 Jan 2016 09:37:03 -0200
+Message-ID: <3c70271b84a5a01f2989995b461dfc52@cupo.cuponspremiados.com.br>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="content"
+
+
+--content
+Content-Type: text/plain; charset = "UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+ =0A=0ACaso n=E3o esteja visualizando, acesse aqui=0A[http://sis.cupo.cupon=
+spremiados.com.br/v.php?86127.639.1192.38]. =0A=0A> =0A=0AVoc=EA sabia que =
+1 em cada 3 relacionamentos come=E7a online? =0A=0A =09=09 [http://sis.cupo=
+.cuponspremiados.com.br/l.php?86127.639.1192.38.0]=0A=0A =09=09Veja Fotos d=
+e Solteiros e Solteiras Perto de Voc=EA=0A=0A =09=09 [http://sis.cupo.cupon=
+spremiados.com.br/l.php?86127.639.1192.38.0]=0A=0A =09=09Caso n=E3o queira =
+mais receber nossos e-mails, Descadastre-se=0A[/{s.php}]=0A=0ACaso voc=EA n=
+=E3o queira mais receber, acesse aqui para sair da lista=0A[http://sis.cupo=
+.cuponspremiados.com.br/s.php?86127.639.1192.38]. 
+--content
+Content-Type: text/html; charset = "UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+<style type=3D"text/css">
+
+.Bottom_text {
+=09font-family: Calibri;
+=09font-size: 30px;
+=09color: #FFF;
+=09font-weight: bold;
+}
+.Top_Text {
+=09font-family: Calibri;
+=09color: #FFF;
+=09font-weight: bold;
+=09font-size: 36px;
+=09text-align: center;
+}
+.Top_Text p {
+=09font-size: 40px;
+=09font-family: Calibri;
+}
+</style>
+</head>
+<body><center><p>Caso n&atilde;o esteja visualizando, <a href=3D"http://sis=
+.cupo.cuponspremiados.com.br/v.php?86127.639.1192.38" target=3D"_blank">ace=
+sse aqui</a>.</p></center>
+<blockquote></blockquote>
+<table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" wi=
+dth=3D"649">
+<tbody>
+<tr>
+<td class=3D"Top_Text" align=3D"center" bgcolor=3D"#1674bc" height=3D"151" =
+valign=3D"middle" width=3D"649">
+<p>Voc&ecirc; sabia que 1 em cada 3 relacionamentos come&ccedil;a online?</=
+p>
+</td>
+</tr>
+<tr>
+<td bgcolor=3D"#1674BC" height=3D"569"><a href=3D"http://sis.cupo.cuponspre=
+miados.com.br/l.php?86127.639.1192.38.0"><img src=3D"http://static.matchlat=
+am.com/mkt/2015/12-advs/email-marketing-grid-1.jpg" alt=3D"Solteiros e Solt=
+eiras Perto de Voc&ecirc;!" height=3D"567" width=3D"650" /></a></td>
+</tr>
+<tr>
+<td bgcolor=3D"#1674bc" height=3D"195" valign=3D"bottom">
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%">
+<tbody>
+<tr>
+<td class=3D"Bottom_text" align=3D"center" height=3D"72" valign=3D"middle">=
+Veja Fotos de Solteiros e Solteiras Perto de Voc&ecirc;</td>
+</tr>
+</tbody>
+</table>
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%">
+<tbody>
+<tr>
+<td align=3D"center" height=3D"100" valign=3D"middle"><a href=3D"http://sis=
+.cupo.cuponspremiados.com.br/l.php?86127.639.1192.38.0"><img src=3D"http://=
+static.matchlatam.com/mkt/2015/12-advs/button.png" alt=3D"Veja Fotos" heigh=
+t=3D"87" width=3D"302" /></a></td>
+</tr>
+<tr>
+<td style=3D"font-family: Arial, Helvetica, Sans-Serif; font-size: 13px; co=
+lor: #666666;" align=3D"center" bgcolor=3D"#FFFFFF" height=3D"25">Caso n&at=
+ilde;o queira mais receber nossos e-mails, <a href=3D"{s.php}" style=3D"fon=
+t-family: Arial, Helvetica, Sans-Serif; font-size: 13px; text-decoration: u=
+nderline; color: #666666;" target=3D"_blank">Descadastre-se</a></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<img src=3D"http://sis.cupo.cuponspremiados.com.br/a.php?86127.639.1192.38"=
+><center><p>Caso voc&ecirc; n&atilde;o queira mais receber, <a href=3D"http=
+://sis.cupo.cuponspremiados.com.br/s.php?86127.639.1192.38" target=3D"_blan=
+k">acesse aqui para sair da lista</a>.</p></center></body>
+</html>
+--content--

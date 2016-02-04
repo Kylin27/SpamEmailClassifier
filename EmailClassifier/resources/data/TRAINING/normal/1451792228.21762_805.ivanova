@@ -1,0 +1,32 @@
+Delivered-To: lists-djb-ezmlm@bruce-guenter.dyndns.org
+Received: (qmail 737 invoked from network); 1 Jan 2016 05:01:14 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.2]); 01 Jan 2016 05:01:14 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 01 Jan 2016 05:01:14 -0000
+Received: (qmail 14397 invoked from network); 1 Jan 2016 05:01:13 -0000
+Received: from yay871951231.8.7 ([180.214.53.190])
+  by zak.futurequest.net ([69.5.6.152])
+  with ESMTP via TCP; 01 Jan 2016 05:01:13 -0000
+Return-Path: <mail002100000210431@E2zNBzeT.com>
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/simple; d=E2zNBzeT.com; s=sel; q=dns/txt; l=1; bh=PDY4Ns9OFmZmaaJdooChhlwtKHQ=; h=From; b=WOsbblNrV71hwrYhQHJdIlZyJ8u3FB0dyyrzowJAlPzQ+qNnw0jblCYYUxFj2srj25afguR8+j7hygENp9w9QIbzAEaR7tumMcEqZwFFs89kHKfOuHivHPANvmDUar0E9rhIStZ+7eOPyEqQb3ruV4gSJA+e9E72V+WtygNGVJk=
+Date: Fri, 01 Jan 2016 14:01:11 +0900
+MIME-Version: 1.0
+From: mail@E2zNBzeT.com
+To: lists-djb-ezmlm@bruce-guenter.dyndns.org
+Message-Id: 489413240_93955095626d37ccc7d5@E2zNBzeT.com
+Content-Type: text/plain; charset="Shift_JIS"
+Content-Transfer-Encoding: base64
+Subject: =?ISO-2022-JP?B?bGlzdHMtZGpiLWV6bWxtQGJydWNlLWd1ZW50ZXIuZHluZG5zLm9yZxskQiEnJCpNJ0MjPz1AQSQsJDQkNiQkJF4kORsoQg==?=
+
+dG8gbGlzdHMtZGpiLWV6bWxtQGJydWNlLWd1ZW50ZXIuZHluZG5zLm9yZw0KDQqCoILIgr2XbILW
+gqiXRoK+gr+QXJC/gqqM5I3AgqKC3IK3gUkNCpK8gq6CyYNgg0aDYoNOgrWCxILdgsSJuoKzgqKC
+y4FJDQoNCoGrDQpodHRwOi8vRTJ6TkJ6ZVQuY29tLyU3ZWNzL215cGFnZS9QQzo2MjAzMTI2NTYy
+NmQzN2NjYjA4NS9JQzpBM016RkRJNXNLTFJseWttT3dmMi8/Z3VpZD1PTg0KDQoNCg0KDQoNCg0K
+DQoNCg0KDQoNCg0KDQoNCg0KDQoNCg0KgaWR3onvgs2CsYK/gucNCmh0dHA6Ly9FMnpOQnplVC5j
+b20vJTdlY3MvcmVzaWduL1BDOjYyMDMxMjY1NjI2ZDM3Y2NiMDg1L0lDOkEzTXpGREk1c0tMUmx5
+a21Pd2YyLz9ndWlkPU9ODQoNCoGllHqQTYyzDQpDaHJvbWUgV2lkZSBMaW1pdGVk
+
+
+

@@ -1,0 +1,58 @@
+Delivered-To: bruce@bruce-guenter.dyndns.org
+Received: (qmail 26284 invoked from network); 22 Jan 2016 14:06:10 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.2]); 22 Jan 2016 14:06:10 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 22 Jan 2016 14:06:10 -0000
+Received: (qmail 10992 invoked from network); 22 Jan 2016 14:06:09 -0000
+Received: from emailnotificationapple.com ([212.67.214.110])
+  by zak.futurequest.net ([69.5.6.152])
+  with ESMTP via TCP; 22 Jan 2016 14:06:09 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=default; d=emailnotificationapple.com;
+ h=To:Subject:Date:From:Reply-To:MIME-Version:Content-Type:Content-Transfer-Encoding:Message-ID; i=secure@emailnotificationapple.com;
+ bh=Vny0VulkJcObYi/tP8jgnsEHzWk=;
+ b=y9wf08FSX7/DpNqg5OlwCRiklxoYNlGCzm0O/jNdcRObh8NwYn+r6QUN+bhplHyEiTpSkJF/6doC
+   ihsWRhow7aXTPFUH3R8RJfpcu1+2/JAr3WJCFAuxz9k8x7jW2pXh1SMho5g28Vb/ljKPkuXle1Ls
+   3fSKlaoyB+7UqKvIYrM=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=default; d=emailnotificationapple.com;
+ b=yzQlrjZ1XFrx38zeRI56UPm0Gf+lyqz+ENbkqL4Wce7tJ4ErDWaMIpuCCkiJ6Sjy1ckLJ/whTVSi
+   9jJ59V+8lV4wkXSzl/oNgjGultdLdE1o03rON/tbLvUqq968RiqGDldeMcrj7q5apzitYPd5PAzg
+   FhAw8U3uMBMQFN4WOuA=;
+To: bruce@bruce-guenter.dyndns.org
+Subject: Apple Services Deletion
+Return-Path: bounce@emailnotificationapple.com
+Date: Fri, 22 Jan 2016 14:05:59 +0000
+From: "Apple iCloud" <secure@emailnotificationapple.com>
+Reply-To: secure@emailnotificationapple.com
+MIME-Version: 1.0
+Content-Type: text/plain; format=flowed; charset="UTF-8"
+Content-Transfer-Encoding: 8bit
+Message-ID: <0.0.8B.F92.1D1551E057A4978.0@emailnotificationapple.com>
+
+Your Apple ID bruce@bruce-guenter.dyndns.org is about to be removed from
+iCloud and all Apple services.
+
+
+Apple Account: bruce@bruce-guenter.dyndns.org
+Support ID: 29994847632793
+
+To comply with mandatory European Union (EU) legislation and to confirm
+your identity, we need to fully verify your Apple ID. In most cases we can
+do this electronically without you having to visit an Apple Store as long
+as all the information you have provided is correct. To complete this
+online please continue to login below.
+
+
+http://iaccountcheck.net/profile/?email=bruce@bruce-guenter.dyndns.org
+
+
+--
+
+Regards,
+Apple ID
+
+Customer ID: 1818974
+
+
+

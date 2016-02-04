@@ -1,0 +1,55 @@
+Delivered-To: bruce@untroubled.org
+Received: (fqmail 31903 invoked from network); 17 Jan 2016 20:47:32 -0000
+Received: (qmail 16590 invoked from network); 17 Jan 2016 20:47:32 -0000
+Received: from rip.mx09.futurequest.net (rip.mx09.futurequest.net [10.2.1.181])
+  by mx09.futurequest.net ([69.5.6.181]); 17 Jan 2016 20:47:31 -0000
+Received: from web-91.blueweb.co.kr ([211.202.2.81])
+  by rip.mx09.futurequest.net ([10.2.1.181])
+  with ESMTP via TCP; 17 Jan 2016 20:47:31 -0000
+Received: from web-91.blueweb.co.kr (localhost.localdomain [127.0.0.1])
+	by web-91.blueweb.co.kr (8.13.8/8.13.8) with ESMTP id u0HKlQwO027264
+	for <bruce@untroubled.org>; Mon, 18 Jan 2016 05:47:26 +0900
+Received: (from exbobos@localhost)
+	by web-91.blueweb.co.kr (8.13.8/8.13.8/Submit) id u0HKlPv6027262;
+	Mon, 18 Jan 2016 05:47:25 +0900
+To: bruce@untroubled.org
+Subject: You have 1 new fax, document 00652758
+X-PHP-Originating-Script: 804:post.php(6) : regexp code(1) : eval()'d code(17) : eval()'d code
+Date: Mon, 18 Jan 2016 05:47:25 +0900
+From: "Interfax" <incoming@interfax.net>
+Reply-To: "Interfax" <incoming@interfax.net>
+Message-ID: <37a2b37a94e28359469b15a8e338ef61@interfax.net>
+X-Priority: 3
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="b1_cc735da48bc1b2564ba9cd4be642abf0"
+Content-Transfer-Encoding: 8bit
+Content-Length: 699
+
+--b1_cc735da48bc1b2564ba9cd4be642abf0
+Content-Type: text/plain; charset=us-ascii
+
+A new fax document for you.
+
+Please download attached fax document.
+
+Author:           Tom Jensen
+Scanned:          Sun, 17 Jan 2016 14:52:36 +0300
+Filesize:         218 Kb
+Pages scanned:    8
+Quality:          400 DPI
+Processed in:     35 seconds
+Document name:    fax_00652758.doc
+
+Thanks for choosing Interfax!
+
+
+--b1_cc735da48bc1b2564ba9cd4be642abf0
+Content-Type: message/external-body; access-type=x-deleted; length=1910
+
+
+Content-Type: application/zip; name="fax_00652758.zip"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename=fax_00652758.zip
+
+--b1_cc735da48bc1b2564ba9cd4be642abf0--

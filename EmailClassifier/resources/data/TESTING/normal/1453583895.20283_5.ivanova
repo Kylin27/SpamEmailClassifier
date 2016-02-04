@@ -1,0 +1,39 @@
+Delivered-To: bruce@untroubled.org
+Received: (fqmail 2794 invoked from network); 21 Jan 2016 14:51:55 -0000
+Received: (qmail 11009 invoked from network); 21 Jan 2016 14:51:55 -0000
+Received: from rip.mx03.futurequest.net (rip.mx03.futurequest.net [10.2.1.174])
+  by mx03.futurequest.net ([69.5.6.174]); 21 Jan 2016 14:51:51 -0000
+Received: from dsl-189-153-149-20-dyn.prod-infinitum.com.mx (dsl-189-153-149-20-dyn.prod-infinitum.com.mx [189.153.149.20])
+  by rip.mx03.futurequest.net ([10.2.1.174])
+  with ESMTP via TCP; 21 Jan 2016 14:51:51 -0000
+Message-ID: <20160112.093049.0460-HYGVWR04BZI@VOSTRO220X3.swift.local>
+Date: Thu, 21 Jan 2016 08:51:50 -0500
+From: "Gompels Healthcare ltd" <salesledger@gompels.co.uk>
+To: <bruce@untroubled.org>
+Subject: Gompels Healthcare Ltd Invoice
+X-Mailer: ActiveFax 6.10
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="------58MCI7AKH44GM0QEU6898HGLMI"
+X-Virus-Checked: Checked by ClamAV on gompels.co.uk
+
+This is a multipart message in MIME format.
+
+--------58MCI7AKH44GM0QEU6898HGLMI
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+
+Hello
+Please see attached pdf file for your invoice
+Thank you for your business
+
+
+--------58MCI7AKH44GM0QEU6898HGLMI
+Content-Type: message/external-body; access-type=x-deleted; length=65064
+
+
+Content-Type: application/msword; name="fax00375039.DOC"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="fax00375039.DOC"
+
+--------58MCI7AKH44GM0QEU6898HGLMI--

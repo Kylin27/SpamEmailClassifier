@@ -1,0 +1,69 @@
+Delivered-To: cvs@bruce-guenter.dyndns.org
+Received: (qmail 31824 invoked from network); 10 Jan 2016 19:10:45 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.2]); 10 Jan 2016 19:10:45 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 10 Jan 2016 19:10:45 -0000
+Received: (qmail 30747 invoked from network); 10 Jan 2016 19:10:44 -0000
+Received: from mdzz13.brclima.net.br ([131.255.140.179])
+  by zak.futurequest.net ([69.5.6.152])
+  with ESMTP via TCP; 10 Jan 2016 19:10:44 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=default; d=brclima.net.br;
+ h=To:Subject:Message-ID:Date:From:Reply-To:MIME-Version:List-Unsubscribe:Content-Type:Content-Transfer-Encoding; i=abuse@brclima.net.br;
+ bh=HE+WFX2MLUWIOcYiJEIK/5hYH78=;
+ b=wvbiF/URS36xylDhcaG0ellmKVrmKg1UQce8ip2yKMq/w3C1NYtFgH8SMk0LMp9FuDKhnMdwWq5S
+   p46+OGE3kxTFgQESc5rXqG8w5se0pOuQ6cbc7jy+exgld3Cw8jEom01UxZ5w4hp7S68HvU3wIlE1
+   Ev90I/iJcVqFcaQbAls=
+To: cvs@bruce-guenter.dyndns.org
+Subject: Oferta de Ar Condicionado!
+Message-ID: <31619d0ad07d179fafe28dbd1d91ff28@brclima.net.br>
+Return-Path: return@brclima.net.br
+Date: Sun, 10 Jan 2016 16:42:55 -0200
+From: "Oferta de Ar Condicionado!" <contato@brclima.net.br>
+Reply-To: comercial@brclima.com.br
+MIME-Version: 1.0
+X-Mailer-LID: 351,352
+List-Unsubscribe: <http://brclima.net.br/mdz/unsubscribe.php?M=38389785&C=5e35d493cd3da5059a83373d7ed2f6ca&L=351&N=338>
+X-Mailer-RecptId: 38389785
+X-Mailer-SID: 338
+X-Mailer-Sent-By: 1
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 8bit
+
+<html>
+<head>
+<title>FOLDER</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+</head>
+<body bgcolor="#FFFFFF" leftmargin="0" topmargin="0" marginwidth="0"
+marginheight="0">
+<!-- Save for Web Slices (FOLDER.jpg) -->
+<table style="width: 743px; height: 150px;" id="Tabela_01" border="0"
+cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td width="100">
+<p align="center"><span style="font-family: arial black,avant garde;
+font-size: x-large; color: #008000;">AR CONDICIONADO &Eacute; NA BR
+CLIMA.</span></p>
+<p align="center"><span style="font-family: arial black,avant garde;
+font-size: x-large; color: #008000;">TODAS AS MARCAS E MODELOS
+</span></p>
+<p align="center"><span style="font-family: arial black,avant garde;
+font-size: x-large; color: #008000;">MELHORES CUSTOS .</span></p>
+</td>
+</tr>
+</tbody>
+</table>
+<a href="http://brclima.net.br/mdz/link.php?M=38389785&N=338&L=2&F=H"><img
+src="http://ps-mkt.com.br/Campanhas/br/IMA.jpg" longdesc="IMA.jpg"
+align="top" border="3" height="2162" width="743" /></a><br /><a
+href="http://brclima.net.br/mdz/unsubscribe.php?M=38389785&C=5e35d493cd3da5059a83373d7ed2f6ca&L=351&N=338">Clique
+aqui para deixar de receber estes e-mails</a><br /><!-- End Save for Web
+Slices -->
+<img
+src="http://brclima.net.br/mdz/open.php?M=38389785&L=351&N=338&F=H&image=.jpg"
+height="1" width="10"></body>
+</html>
+

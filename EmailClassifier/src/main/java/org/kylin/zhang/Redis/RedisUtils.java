@@ -45,11 +45,15 @@ public class RedisUtils {
 
             key += "-"+bean.hashCode() ;
             keySet.add(key);
+<<<<<<< HEAD
 
             if ( !jedis.exists(key.getBytes()))
                 jedis.set( key.getBytes(), RedisPacker.packer(bean, EmailBean.class)) ;
             else
                 System.out.println("ReidsUtils line 52") ;
+=======
+            jedis.set( key.getBytes(), RedisPacker.packer(bean, EmailBean.class)) ;
+>>>>>>> 827eb6fbd9625673c3d7bb780387aab199b64d6b
         }
         return keySet ;
     }
@@ -70,6 +74,7 @@ public class RedisUtils {
 
             if ( jedisHandler.exists(key.getBytes())){
                 bytes = jedisHandler.get(key.getBytes()) ;
+<<<<<<< HEAD
 
                 if ( key.startsWith(spam) || key.startsWith(normal))
                     jedisHandler.del(key.getBytes()) ;
@@ -79,6 +84,19 @@ public class RedisUtils {
                 continue ;
             }
             Object obj = RedisPacker.unpacker(bytes, EmailBean.class) ;
+=======
+            }
+            else {
+                System.out.println("could not find value with key " + key);
+                continue ;
+            }
+            Object obj = RedisPacker.unpacker(bytes, EmailBean.class) ;
+
+           /* if ( obj instanceof  EmailBean)*/
+                emBean =(EmailBean)obj ;
+         /*   else
+                System.out.println("what the fuck ?") ;*/
+>>>>>>> 827eb6fbd9625673c3d7bb780387aab199b64d6b
 
            /* if ( obj instanceof  EmailBean)*/
                 emBean =(EmailBean)obj ;

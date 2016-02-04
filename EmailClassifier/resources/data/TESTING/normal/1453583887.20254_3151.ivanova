@@ -1,0 +1,15 @@
+Delivered-To: lists-reiserfs-list@bruce-guenter.dyndns.org
+Received: (qmail 23608 invoked from network); 22 Jan 2016 00:27:33 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.2]); 22 Jan 2016 00:27:33 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 22 Jan 2016 00:27:33 -0000
+Received: (qmail 24230 invoked from network); 22 Jan 2016 00:27:32 -0000
+Received: from mail2.ajlb.co.id ([101.255.17.34])
+  by zak.futurequest.net ([69.5.6.152])
+  with SMTP via TCP; 22 Jan 2016 00:27:32 -0000
+Received: from 240.160.48.117 by 101.255.17.245; Fri, 22 Jan 2016 02:21:30 +0200
+Message-ID: <L[20
+
+

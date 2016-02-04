@@ -1,0 +1,1727 @@
+Delivered-To: lists-linux-xfs@bruce-guenter.dyndns.org
+Received: (qmail 2264 invoked from network); 2 Jan 2016 11:08:06 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.2]); 02 Jan 2016 11:08:06 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 02 Jan 2016 11:08:06 -0000
+Received: (qmail 5246 invoked from network); 2 Jan 2016 11:08:05 -0000
+Received: from hyftrg131.muziklidavetiye.com ([185.86.165.185])
+  by zak.futurequest.net ([69.5.6.152])
+  with ESMTP via TCP; 02 Jan 2016 11:08:05 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=muziklidavetiye.com;
+ h=To:Subject:Message-ID:Date:From:Reply-To:MIME-Version:List-Unsubscribe:Content-Type:Content-Transfer-Encoding; i=support@muziklidavetiye.com;
+ bh=H0d8OHEsGey8m28MUrbGh5M/y3U=;
+ b=gmi/NE8tW67sohVnHr5BziozZcXH22mMla+hHvg2nhx9A+JYhjPi/7tMMrgsoZ4dwAUyRXlWaa6v
+   Ep7CvxklQYM2H4L0rwzZ2hR0jCGWD5lBHmOdOzesmcVvbqWYWEUp2grIgM4fZdpS9B8IIna0rGJS
+   UX6nt9M6oSq3hKJaFE4=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=muziklidavetiye.com;
+ b=PgmuB+1OQGWLwNbHluIENqLHDgqDXW2NEJMrmdVrqj11y0J9U6SgHbbAtcb+OsxRHbTyZ4xzy9/4
+   I5F1SP8+6HK+5sXk8ARcgOlYLlQ9hztNdda6UpIU87yPtYPOMaJAcQa4ZMSqa+wLLEdK/tkZjnDI
+   WepbrRFuP55ETGeTfVE=;
+To: lists-linux-xfs@bruce-guenter.dyndns.org
+Subject: =?UTF-8?B?MjAxNiBZRU7EsCBERVZMRVQgVEXFnlbEsEtMRVLEsCB2ZSBBQiBIxLBCRUxFUsSwIEXEn2l0aW1pIChCaXLDp29rIEjEsEJFIFPDnFJFTMSwIHZlIMSwVkVExLAnZGlyIC0gxZ5haHPEsW7EsXogdmUgRmlybWFuxLF6IGnDp2luIEzDvHRmZW4gT2t1eXVudXop?=
+Message-ID: <1d25715cd1f9bb7be3458f5464e929f0@muziklidavetiye.com>
+Return-Path: bounce@muziklidavetiye.com
+Date: Fri, 01 Jan 2016 09:35:45 -0500
+From: "=?UTF-8?B?MjAxNiBERVZMRVQgVEXFnlbEsEtMRVLEsA==?=" <support@muziklidavetiye.com>
+Reply-To: support@muziklidavetiye.com
+MIME-Version: 1.0
+X-Mailer-LID: 2
+List-Unsubscribe: <http://muziklidavetiye.com/iem2/unsubscribe.php?M=1331777&C=6d3a077d318144af5573e335252f01f0&L=2&N=4>
+X-Mailer-RecptId: 1331777
+X-Mailer-SID: 4
+X-Mailer-Sent-By: 1
+Content-Type: multipart/alternative; charset="UTF-8"; boundary="b1_127e77c8c3022087056c0991cba5d80e"
+Content-Transfer-Encoding: 8bit
+
+--b1_127e77c8c3022087056c0991cba5d80e
+Content-Type: text/plain; format=flowed; charset="UTF-8"
+Content-Transfer-Encoding: 8bit
+
+Your email client cannot read this email.
+To view it online, please go here:
+http://muziklidavetiye.com/iem2/display.php?M=1331777&C=6d3a077d318144af5573e335252f01f0&S=4&L=2&N=1
+
+
+To stop receiving these
+emails:http://muziklidavetiye.com/iem2/unsubscribe.php?M=1331777&C=6d3a077d318144af5573e335252f01f0&L=2&N=4
+
+--b1_127e77c8c3022087056c0991cba5d80e
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 8bit
+
+<html xmlns:v="urn:schemas-microsoft-com:vml"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:w="urn:schemas-microsoft-com:office:word"
+xmlns:m="http://schemas.microsoft.com/office/2004/12/omml"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=Windows-1254">
+<meta name=ProgId content=Word.Document>
+<meta name=Generator content="Microsoft Word 12">
+<meta name=Originator content="Microsoft Word 12">
+<link rel=File-List href="tesvik_dosyalar/filelist.xml">
+<!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:Author>LOGIN</o:Author>
+  <o:Template>Normal</o:Template>
+  <o:LastAuthor>LOGIN</o:LastAuthor>
+  <o:Revision>1</o:Revision>
+  <o:TotalTime>4</o:TotalTime>
+  <o:Created>2015-12-22T06:18:00Z</o:Created>
+  <o:LastSaved>2015-12-22T06:22:00Z</o:LastSaved>
+  <o:Pages>7</o:Pages>
+  <o:Words>3281</o:Words>
+  <o:Characters>18706</o:Characters>
+  <o:Lines>155</o:Lines>
+  <o:Paragraphs>43</o:Paragraphs>
+  <o:CharactersWithSpaces>21944</o:CharactersWithSpaces>
+  <o:Version>12.00</o:Version>
+ </o:DocumentProperties>
+</xml><![endif]-->
+<link rel=themeData href="tesvik_dosyalar/themedata.thmx">
+<link rel=colorSchemeMapping
+href="tesvik_dosyalar/colorschememapping.xml">
+<!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:SpellingState>Clean</w:SpellingState>
+  <w:TrackMoves>false</w:TrackMoves>
+  <w:TrackFormatting/>
+  <w:HyphenationZone>21</w:HyphenationZone>
+  <w:PunctuationKerning/>
+  <w:ValidateAgainstSchemas/>
+  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
+  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>
+  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
+  <w:DoNotPromoteQF/>
+  <w:LidThemeOther>TR</w:LidThemeOther>
+  <w:LidThemeAsian>X-NONE</w:LidThemeAsian>
+  <w:LidThemeComplexScript>X-NONE</w:LidThemeComplexScript>
+  <w:Compatibility>
+   <w:BreakWrappedTables/>
+   <w:SnapToGridInCell/>
+   <w:WrapTextWithPunct/>
+   <w:UseAsianBreakRules/>
+   <w:DontGrowAutofit/>
+   <w:SplitPgBreakAndParaMark/>
+   <w:DontVertAlignCellWithSp/>
+   <w:DontBreakConstrainedForcedTables/>
+   <w:DontVertAlignInTxbx/>
+   <w:Word11KerningPairs/>
+   <w:CachedColBalance/>
+  </w:Compatibility>
+  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel>
+  <m:mathPr>
+   <m:mathFont m:val="Cambria Math"/>
+   <m:brkBin m:val="before"/>
+   <m:brkBinSub m:val="--"/>
+   <m:smallFrac m:val="off"/>
+   <m:dispDef/>
+   <m:lMargin m:val="0"/>
+   <m:rMargin m:val="0"/>
+   <m:defJc m:val="centerGroup"/>
+   <m:wrapIndent m:val="1440"/>
+   <m:intLim m:val="subSup"/>
+   <m:naryLim m:val="undOvr"/>
+  </m:mathPr></w:WordDocument>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="true"
+  DefSemiHidden="true" DefQFormat="false" DefPriority="99"
+  LatentStyleCount="267">
+  <w:LsdException Locked="false" Priority="0" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Normal"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="heading 1"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading
+2"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading
+3"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading
+4"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading
+5"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading
+6"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading
+7"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading
+8"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading
+9"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 1"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 2"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 3"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 4"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 5"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 6"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 7"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 8"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 9"/>
+  <w:LsdException Locked="false" Priority="35" QFormat="true"
+Name="caption"/>
+  <w:LsdException Locked="false" Priority="10" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Title"/>
+  <w:LsdException Locked="false" Priority="1" Name="Default Paragraph
+Font"/>
+  <w:LsdException Locked="false" Priority="11" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Subtitle"/>
+  <w:LsdException Locked="false" Priority="22" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Strong"/>
+  <w:LsdException Locked="false" Priority="20" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Emphasis"/>
+  <w:LsdException Locked="false" Priority="59" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Table Grid"/>
+  <w:LsdException Locked="false" UnhideWhenUsed="false" Name="Placeholder
+Text"/>
+  <w:LsdException Locked="false" Priority="1" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="No Spacing"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 1"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 1"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 1"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 1"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 1"/>
+  <w:LsdException Locked="false" UnhideWhenUsed="false" Name="Revision"/>
+  <w:LsdException Locked="false" Priority="34" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="List Paragraph"/>
+  <w:LsdException Locked="false" Priority="29" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Quote"/>
+  <w:LsdException Locked="false" Priority="30" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Intense Quote"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 1"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 1"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 1"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 1"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 1"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 1"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 2"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 2"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 2"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 2"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 2"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 2"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 2"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 2"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 3"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 3"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 3"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 3"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 3"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 3"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 3"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 3"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 4"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 4"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 4"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 4"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 4"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 4"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 4"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 4"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 5"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 5"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 5"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 5"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 5"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 5"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 5"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 5"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 6"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 6"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 6"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 6"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 6"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 6"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 6"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 6"/>
+  <w:LsdException Locked="false" Priority="19" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Subtle Emphasis"/>
+  <w:LsdException Locked="false" Priority="21" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Intense Emphasis"/>
+  <w:LsdException Locked="false" Priority="31" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Subtle Reference"/>
+  <w:LsdException Locked="false" Priority="32" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Intense Reference"/>
+  <w:LsdException Locked="false" Priority="33" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Book Title"/>
+  <w:LsdException Locked="false" Priority="37" Name="Bibliography"/>
+  <w:LsdException Locked="false" Priority="39" QFormat="true" Name="TOC
+Heading"/>
+ </w:LatentStyles>
+</xml><![endif]-->
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;
+	mso-font-charset:1;
+	mso-generic-font-family:roman;
+	mso-font-format:other;
+	mso-font-pitch:variable;
+	mso-font-signature:0 0 0 0 0 0;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;
+	mso-font-charset:162;
+	mso-generic-font-family:swiss;
+	mso-font-pitch:variable;
+	mso-font-signature:-520092929 1073786111 9 0 415 0;}
+@font-face
+	{font-family:Tahoma;
+	panose-1:2 11 6 4 3 5 4 4 2 4;
+	mso-font-charset:162;
+	mso-generic-font-family:swiss;
+	mso-font-pitch:variable;
+	mso-font-signature:-520081665 -1073717157 41 0 66047 0;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-parent:"";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";
+	mso-fareast-font-family:Calibri;
+	mso-fareast-theme-font:minor-latin;}
+a:link, span.MsoHyperlink
+	{mso-style-noshow:yes;
+	mso-style-priority:99;
+	color:blue;
+	text-decoration:underline;
+	text-underline:single;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-noshow:yes;
+	mso-style-priority:99;
+	color:purple;
+	mso-themecolor:followedhyperlink;
+	text-decoration:underline;
+	text-underline:single;}
+p
+	{mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-margin-top-alt:auto;
+	margin-right:0cm;
+	mso-margin-bottom-alt:auto;
+	margin-left:0cm;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";
+	mso-fareast-font-family:Calibri;
+	mso-fareast-theme-font:minor-latin;}
+p.MsoAcetate, li.MsoAcetate, div.MsoAcetate
+	{mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-style-link:"Balon Metni Char";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:8.0pt;
+	font-family:"Tahoma","sans-serif";
+	mso-fareast-font-family:Calibri;
+	mso-fareast-theme-font:minor-latin;}
+span.BalonMetniChar
+	{mso-style-name:"Balon Metni Char";
+	mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-style-unhide:no;
+	mso-style-locked:yes;
+	mso-style-link:"Balon Metni";
+	mso-ansi-font-size:8.0pt;
+	mso-bidi-font-size:8.0pt;
+	font-family:"Tahoma","sans-serif";
+	mso-ascii-font-family:Tahoma;
+	mso-hansi-font-family:Tahoma;
+	mso-bidi-font-family:Tahoma;
+	mso-fareast-language:TR;}
+span.SpellE
+	{mso-style-name:"";
+	mso-spl-e:yes;}
+ .MsoChpDefault
+	{mso-style-type:export-only;
+	mso-default-props:yes;
+	mso-ascii-font-family:Calibri;
+	mso-ascii-theme-font:minor-latin;
+	mso-fareast-font-family:Calibri;
+	mso-fareast-theme-font:minor-latin;
+	mso-hansi-font-family:Calibri;
+	mso-hansi-theme-font:minor-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:minor-bidi;
+	mso-fareast-language:EN-US;}
+ .MsoPapDefault
+	{mso-style-type:export-only;
+	margin-bottom:10.0pt;
+	line-height:115%;}
+@page Section1
+	{size:595.3pt 841.9pt;
+	margin:70.85pt 70.85pt 70.85pt 70.85pt;
+	mso-header-margin:35.4pt;
+	mso-footer-margin:35.4pt;
+	mso-paper-source:0;}
+div.Section1
+	{page:Section1;}
+-->
+</style>
+<!--[if gte mso 10]>
+<style>
+ /* Style Definitions */
+ table.MsoNormalTable
+	{mso-style-name:"Normal Tablo";
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-style-qformat:yes;
+	mso-style-parent:"";
+	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;
+	mso-para-margin-top:0cm;
+	mso-para-margin-right:0cm;
+	mso-para-margin-bottom:10.0pt;
+	mso-para-margin-left:0cm;
+	line-height:115%;
+	mso-pagination:widow-orphan;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";
+	mso-ascii-font-family:Calibri;
+	mso-ascii-theme-font:minor-latin;
+	mso-hansi-font-family:Calibri;
+	mso-hansi-theme-font:minor-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:minor-bidi;
+	mso-fareast-language:EN-US;}
+</style>
+<![endif]--><!--[if gte mso 9]><xml>
+ <o:shapedefaults v:ext="edit" spidmax="2050"/>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <o:shapelayout v:ext="edit">
+  <o:idmap v:ext="edit" data="1"/>
+ </o:shapelayout></xml><![endif]-->
+</head>
+
+<body lang=TR link=blue vlink=purple style='tab-interval:35.4pt'>
+<div class="Section1">
+<p><strong><span style="font-size: 18.0pt; font-family:
+'Arial','sans-serif'; color: black; background: yellow;">A&Ccedil;IKLANAN
+YENİ ve B&Uuml;T&Uuml;N DEVLET TEŞVİKLERİ VE&nbsp; AB HİBELERİ
+EĞİTİMİ</span></strong><span style="font-family:
+'Calibri','sans-serif'; color: black;"><o:p></o:p></span></p>
+<p><strong><span style="font-size: 13.5pt; font-family:
+'Arial','sans-serif'; color: black;">Eğitim %100 G&uuml;ncel ve Son
+Uygulamalı G&uuml;ncel Hibeler ve Teşvikleri
+i&ccedil;erir.</span></strong><span style="font-family:
+'Calibri','sans-serif'; color: black;"><o:p></o:p></span></p>
+<p><strong><span style="font-size: 13.5pt; font-family:
+'Arial','sans-serif'; color: black; background: lime;">15-16 Ocak 2016 Cuma
+ve Cumartesi// Teşvik Kanunu ve B&uuml;t&uuml;n Devlet Teşvikleri ile AB
+Hibeleri Eğitimi</span></strong><span style="font-size: 13.5pt;
+font-family: 'Arial','sans-serif'; color: black; background: lime;">
+</span><span style="font-size: 13.5pt; font-family: 'Arial','sans-serif';
+color: black;">ve <strong><span style="font-family: 'Arial','sans-serif';
+background: lime;">17 Ocak 2016</span></strong></span><strong><span
+style="font-size: 18.0pt; font-family: 'Arial','sans-serif'; color: black;
+background: lime;"> </span></strong><strong><span style="font-size: 13.5pt;
+font-family: 'Arial','sans-serif'; color: black; background: lime;">Aralık
+2015 Pazar// YATIRIM TEŞVİK BELGESİ Devlet Arazisine Bedelsiz Kiralama,
+Teşvik Belgesi &Ccedil;ıkarma, Revize, Kapama ve Yatırım Fizibilitesi
+Hazırlama Eği</span></strong><strong><span style="font-size: 13.5pt;
+font-family: 'Arial','sans-serif'; color: black; background:
+white;">timi</span></strong><span style="font-size: 13.5pt; font-family:
+'Arial','sans-serif'; color: black; background: white;">, </span><span
+style="font-size: 13.5pt; font-family: 'Arial','sans-serif'; color: black;
+background: yellow;">İstanbul Taksim G&ouml;nen Otelde&nbsp; </span><span
+style="font-family: 'Calibri','sans-serif'; color:
+black;"><o:p></o:p></span></p>
+<p><span style="font-family: 'Arial','sans-serif'; color: black;">Kayıt
+İ&ccedil;in: Tel: 0212 586 50 67- 0532 332 32 99</span><span
+style="font-family: 'Calibri','sans-serif'; color:
+black;"><o:p></o:p></span></p>
+<p><strong><span style="font-size: 18.0pt; font-family:
+'Arial','sans-serif'; color: black;">Yeni Konular;<span style="background:
+white;"> </span></span></strong><strong><span style="font-family:
+'Arial','sans-serif'; color: black; background: white;">( Diğer
+B&uuml;t&uuml;n teşvikler alt B&ouml;l&uuml;mdedir. L&uuml;tfen Okuyunuz
+)</span></strong><span style="font-family: 'Calibri','sans-serif'; color:
+black;"><o:p></o:p></span></p>
+<p><span style="font-family: 'Arial','sans-serif'; color: black;">- <span
+style="background: #4BACC6;">2015 Aralık</span> <strong><span
+style="font-family: 'Arial','sans-serif'; background: yellow;">Yeni - <span
+style="widows: 1; -webkit-text-stroke-width: 0px; float: none;
+word-spacing: 0px;">SAĞLIK HİZMETLERİ </span></span></strong><span
+style="background: yellow;">ALANINDA <strong><span style="font-family:
+'Arial','sans-serif';">SANAYİ İŞBİRLİĞİ PROGRAMI %50
+Hibe</span></strong></span></span><span style="font-family:
+'Calibri','sans-serif'; color: black;"><o:p></o:p></span></p>
+<p><strong><span style="color: black; background: #4BACC6;"><span
+style="widows: 1; -webkit-text-stroke-width: 0px; float: none;
+word-spacing: 0px;">- 2016&nbsp; Yılı</span></span><span style="color:
+black; background: yellow;">&nbsp;&nbsp;&nbsp; Yeni KOSGEB Teşvikleri ve
+Hibeleri</span></strong><span style="font-family: 'Calibri','sans-serif';
+color: black;"><o:p></o:p></span></p>
+<p><strong><span style="color: black; background: #4BACC6;"><span
+style="widows: 1; -webkit-text-stroke-width: 0px; float: none;
+word-spacing: 0px;">2016 Yılı&nbsp; </span></span><span style="color:
+black; background: yellow;">Sanayi ve Turizm
+Yatırımları</span></strong><span style="font-family:
+'Calibri','sans-serif'; color: black;"><o:p></o:p></span></p>
+<p><span style="color: black; background: #4BACC6;"><span style="widows: 1;
+-webkit-text-stroke-width: 0px; float: none; word-spacing: 0px;">- 2016
+Yılı- Yeni&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span style="color:
+black; background: yellow;">&nbsp;<strong>100.000 TL ve 30.000 TL 0
+FAİZLİ KREDİ </strong>Başladı.</span><span style="font-family:
+'Calibri','sans-serif'; color: black;"><o:p></o:p></span></p>
+<p><span style="color: black; background: #4BACC6;"><span style="widows: 1;
+-webkit-text-stroke-width: 0px; float: none; word-spacing: 0px;">- 2015
+Aralık</span></span><strong><span style="color: black; background:
+yellow;">&nbsp; Yeni- </span><span style="color: black; background:
+#4BACC6;">FINDIK &Uuml;RETİCİL</span></strong><span style="color: black;
+background: yellow;">ERİNE ALAN BAZLI GELİR DESTEĞİ</span><span
+style="font-family: 'Calibri','sans-serif'; color:
+black;"><o:p></o:p></span></p>
+<p><span style="font-family: 'Arial','sans-serif'; color: black;
+background: #4BACC6;">- 2015 Aralık</span><span style="font-family:
+'Arial','sans-serif'; color: black; background: white;">
+</span><strong><span style="font-family: 'Arial','sans-serif'; color:
+black; background: yellow;">Bitkisel &Uuml;retim</span></strong><span
+style="font-family: 'Arial','sans-serif'; color: black; background:
+yellow;"> Yapan <strong><span style="font-family:
+'Arial','sans-serif';">K&uuml;&ccedil;&uuml;k Aile İşletmelerinin
+Desteklenmesine</span></strong></span><span style="font-family:
+'Arial','sans-serif'; color: black; background: white;"> Dair
+Karar</span><span style="font-family: 'Calibri','sans-serif'; color:
+black;"><o:p></o:p></span></p>
+<p><span style="font-family: 'Arial','sans-serif'; color: black;
+background: #4BACC6;">- 2016 Yılında</span><span style="font-family:
+'Arial','sans-serif'; color: black;">&nbsp; &Ccedil;evre Teknolojileri
+Desteği <strong><span style="font-family: 'Arial','sans-serif';
+background: yellow;">%50 Faiz Hibesi</span></strong></span><span
+style="font-family: 'Calibri','sans-serif'; color:
+black;"><o:p></o:p></span></p>
+<p><span style="font-family: 'Arial','sans-serif'; color: black;
+background: #4BACC6;">- 2016 Yılı</span><span style="font-family:
+'Arial','sans-serif'; color: black; background: yellow;">&nbsp; Yeni
+<strong><span style="font-family: 'Arial','sans-serif';">SIFIR veya
+İNDİRİMLİ Faizli Hayvancılık, Tarım, Sera, Sulama Hibesi
+A&ccedil;ıklandı.</span></strong></span><span style="font-family:
+'Calibri','sans-serif'; color: black;"><o:p></o:p></span></p>
+<p class="MsoNormal"><strong><span style="font-family:
+'Calibri','sans-serif'; mso-fareast-font-family: 'Times New Roman'; color:
+black; background: lime;"><d iv="">YENI HIBE &Ccedil;AĞRISI
+SURELIDIR;</d></span></strong><span style="font-family:
+'Calibri','sans-serif'; mso-fareast-font-family: 'Times New Roman'; color:
+black;"><o:p></o:p></span></p>
+<p class="MsoNormal"><strong><span style="mso-fareast-font-family: 'Times
+New Roman';"><d iv="">-&nbsp; Tarımsal İşletmelerin Fiziki
+Varlıklarına Y&ouml;nelik Yatırımlar <span style="background:
+lime;">%50-65 Hibe Son Başvuru Proje &ccedil;eşidine g&ouml;re; 25 Ocak
+2016-22 Nisan&nbsp; 2016</span></d></span></strong><span
+style="mso-fareast-font-family: 'Times New Roman';"><o:p></o:p></span></p>
+<p class="MsoNormal"><strong><span style="mso-fareast-font-family: 'Times
+New Roman'; background: yellow;"><d iv="">- S&uuml;t &Uuml;reten Tarımsal
+İşletmeler</d></span></strong><strong><span
+style="mso-fareast-font-family: 'Times New Roman';"> <span
+style="background: lime;">%50-65 Hibe Son Başvuru Proje &ccedil;eşidine
+g&ouml;re; 25 Ocak 2016-22 Nisan&nbsp; 2016</span></span></strong><span
+style="mso-fareast-font-family: 'Times New Roman';">
+<o:p></o:p></span></p>
+<p class="MsoNormal"><strong><span style="mso-fareast-font-family: 'Times
+New Roman'; background: yellow;"><d iv="">- Kırmızı Et &Uuml;reten
+Tarımsal İşletmeler </d></span></strong><strong><span
+style="mso-fareast-font-family: 'Times New Roman'; background:
+lime;">%50-65 Hibe Son Başvuru Proje &ccedil;eşidine g&ouml;re; 25 Ocak
+2016-22 Nisan&nbsp; 2016</span></strong><span
+style="mso-fareast-font-family: 'Times New Roman';">
+<o:p></o:p></span></p>
+<p class="MsoNormal"><strong><span style="mso-fareast-font-family: 'Times
+New Roman'; background: yellow;"><d iv="">- Kanatlı Eti &Uuml;reten
+Tarımsal İşletmeler </d></span></strong><strong><span
+style="mso-fareast-font-family: 'Times New Roman'; background:
+lime;">%50-65 Hibe Son Başvuru Proje &ccedil;eşidine g&ouml;re; 25 Ocak
+2016-22 Nisan&nbsp; 2016</span></strong><span
+style="mso-fareast-font-family: 'Times New Roman';">
+<o:p></o:p></span></p>
+<p class="MsoNormal"><strong><span style="mso-fareast-font-family: 'Times
+New Roman'; background: yellow;"><d iv="">- Yumurta &Uuml;reten Tarımsal
+İşletmeler </d></span></strong><strong><span
+style="mso-fareast-font-family: 'Times New Roman'; background:
+lime;">%50-65 Hibe Son Başvuru Proje &ccedil;eşidine g&ouml;re; 25 Ocak
+2016-22 Nisan&nbsp; 2016</span></strong><span
+style="mso-fareast-font-family: 'Times New Roman';">
+<o:p></o:p></span></p>
+<p class="MsoNormal"><strong><span style="mso-fareast-font-family: 'Times
+New Roman'; background: yellow;"><d iv="">- Tarım ve Balık&ccedil;ılık
+&Uuml;r&uuml;nlerinin İşlenmesi ve Pazarlanması ile İlgili Fiziki
+Varlıklara Y&ouml;nelik Yatırımlar </d></span></strong><strong><span
+style="mso-fareast-font-family: 'Times New Roman'; background:
+lime;">%50-65 Hibe Son Başvuru Proje &ccedil;eşidine g&ouml;re; 25 Ocak
+2016-22 Nisan&nbsp; 2016</span></strong><span
+style="mso-fareast-font-family: 'Times New Roman';">
+<o:p></o:p></span></p>
+<p class="MsoNormal"><strong><span style="mso-fareast-font-family: 'Times
+New Roman'; background: yellow;"><d iv="">- S&uuml;t ve S&uuml;t
+&Uuml;r&uuml;nlerinin İşlenmesi ve Pazarlanması
+</d></span></strong><strong><span style="mso-fareast-font-family: 'Times
+New Roman'; background: lime;">%50-65 Hibe Son Başvuru Proje
+&ccedil;eşidine g&ouml;re; 25 Ocak 2016-22 Nisan&nbsp;
+2016</span></strong><span style="mso-fareast-font-family: 'Times New
+Roman';"> <o:p></o:p></span></p>
+<p class="MsoNormal"><strong><span style="mso-fareast-font-family: 'Times
+New Roman'; background: yellow;"><d iv="">- Kırmızı Et ve Et
+&Uuml;r&uuml;nlerinin İşlenmesi ve Pazarlanması</d></span></strong><span
+style="mso-fareast-font-family: 'Times New Roman'; background:
+lime;">%50-65 Hibe Son Başvuru Proje &ccedil;eşidine g&ouml;re; 25 Ocak
+2016-22 Nisan&nbsp; 2016</span><span style="mso-fareast-font-family: 'Times
+New Roman';"> <o:p></o:p></span></p>
+<p class="MsoNormal"><strong><span style="mso-fareast-font-family: 'Times
+New Roman'; background: yellow;"><d iv="">- Kanatlı Eti ve Et
+&Uuml;r&uuml;nlerinin İşlenmesi ve
+Pazarlanması</d></span></strong><strong><span
+style="mso-fareast-font-family: 'Times New Roman'; background:
+lime;">%50-65 Hibe Son Başvuru Proje &ccedil;eşidine g&ouml;re; 25 Ocak
+2016-22 Nisan&nbsp; 2016</span></strong><span
+style="mso-fareast-font-family: 'Times New Roman';">
+<o:p></o:p></span></p>
+<p class="MsoNormal"><strong><span style="mso-fareast-font-family: 'Times
+New Roman'; background: yellow;"><d iv="">- Su &Uuml;r&uuml;nlerinin
+İşlenmesi ve Pazarlanması </d></span></strong><strong><span
+style="mso-fareast-font-family: 'Times New Roman'; background:
+lime;">%50-65 Hibe Son Başvuru Proje &ccedil;eşidine g&ouml;re; 25 Ocak
+2016-22 Nisan&nbsp; 2016</span></strong><span
+style="mso-fareast-font-family: 'Times New Roman';">
+<o:p></o:p></span></p>
+<p class="MsoNormal"><strong><span style="mso-fareast-font-family: 'Times
+New Roman'; background: yellow;"><d iv="">- Meyve ve Sebze
+&Uuml;r&uuml;nlerinin İşlenmesi ve Pazarlanması
+</d></span></strong><span style="mso-fareast-font-family: 'Times New
+Roman'; background: lime;">%50-65 Hibe Son Başvuru Proje &ccedil;eşidine
+g&ouml;re; 25 Ocak 2016-22 Nisan&nbsp; 2016</span><span
+style="mso-fareast-font-family: 'Times New Roman';">
+<o:p></o:p></span></p>
+<p class="MsoNormal"><strong><span style="mso-fareast-font-family: 'Times
+New Roman'; background: yellow;"><d iv="">- &Ccedil;iftlik Faaliyetlerinin
+&Ccedil;eşitlendirilmesi ve İş Geliştirme </d></span></strong><span
+style="mso-fareast-font-family: 'Times New Roman'; background:
+lime;">%50-65 Hibe Son Başvuru Proje &ccedil;eşidine g&ouml;re; 25 Ocak
+2016-22 Nisan&nbsp; 2016</span><span style="mso-fareast-font-family: 'Times
+New Roman';"> <o:p></o:p></span></p>
+<p class="MsoNormal"><strong><span style="mso-fareast-font-family: 'Times
+New Roman'; background: yellow;"><d iv="">- Bitkisel &uuml;retimin
+&ccedil;eşitlendirilmesi ve bitkisel &uuml;r&uuml;nlerin işlenmesi ve
+pazarlanması </d></span></strong><strong><span
+style="mso-fareast-font-family: 'Times New Roman'; background:
+lime;">%50-65 Hibe Son Başvuru Proje &ccedil;eşidine g&ouml;re; 25 Ocak
+2016-22 Nisan&nbsp; 2016</span></strong><span
+style="mso-fareast-font-family: 'Times New Roman';">
+<o:p></o:p></span></p>
+<p class="MsoNormal"><strong><span style="mso-fareast-font-family: 'Times
+New Roman'; background: yellow;"><d iv="">- Arıcılık ve arı
+&uuml;r&uuml;nlerinin &uuml;retimi, işlenmesi ve pazarlanması
+</d></span></strong><strong><span style="mso-fareast-font-family: 'Times
+New Roman'; background: lime;">%50-65 Hibe Son Başvuru Proje
+&ccedil;eşidine g&ouml;re; 25 Ocak 2016-22 Nisan&nbsp;
+2016</span></strong><span style="mso-fareast-font-family: 'Times New
+Roman';"> <o:p></o:p></span></p>
+<p class="MsoNormal"><strong><span style="mso-fareast-font-family: 'Times
+New Roman'; background: yellow;"><d iv="">- Zanaatkarlık ve yerel
+&uuml;r&uuml;n işletmeleri </d></span></strong><span
+style="mso-fareast-font-family: 'Times New Roman'; background:
+lime;">%50-65 Hibe Son Başvuru Proje &ccedil;eşidine g&ouml;re; 25 Ocak
+2016-22 Nisan&nbsp; 2016</span><span style="mso-fareast-font-family: 'Times
+New Roman';"> <o:p></o:p></span></p>
+<p class="MsoNormal"><strong><span style="mso-fareast-font-family: 'Times
+New Roman'; background: yellow;"><d iv="">- Kırsal turizm ve rekreasyon
+faaliyetleri </d></span></strong><strong><span
+style="mso-fareast-font-family: 'Times New Roman'; background:
+lime;">%50-65 Hibe Son Başvuru Proje &ccedil;eşidine g&ouml;re; 25 Ocak
+2016-22 Nisan&nbsp; 2016</span></strong><span
+style="mso-fareast-font-family: 'Times New Roman';">
+<o:p></o:p></span></p>
+<p class="MsoNormal"><strong><span style="mso-fareast-font-family: 'Times
+New Roman'; background: yellow;"><d iv="">- Su &uuml;r&uuml;nleri
+yetiştiriciliği </d></span></strong><span style="mso-fareast-font-family:
+'Times New Roman'; background: lime;">%50-65 Hibe Son Başvuru Proje
+&ccedil;eşidine g&ouml;re; 25 Ocak 2016-22 Nisan&nbsp; 2016</span><span
+style="mso-fareast-font-family: 'Times New Roman';">
+<o:p></o:p></span></p>
+<p class="MsoNormal"><strong><span style="mso-fareast-font-family: 'Times
+New Roman'; background: yellow;"><d iv="">- Makine Parkları
+</d></span></strong><strong><span style="mso-fareast-font-family: 'Times
+New Roman'; background: lime;">%50-65 Hibe Son Başvuru Proje
+&ccedil;eşidine g&ouml;re; 25 Ocak 2016-22 Nisan&nbsp;
+2016</span></strong><span style="mso-fareast-font-family: 'Times New
+Roman';"> <o:p></o:p></span></p>
+<p class="MsoNormal"><strong><span style="mso-fareast-font-family: 'Times
+New Roman'; background: yellow;"><d iv="">- Yenilenebilir enerji
+yatırımları </d></span></strong><strong><span
+style="mso-fareast-font-family: 'Times New Roman'; background:
+lime;">%50-65 Hibe Son Başvuru Proje &ccedil;eşidine g&ouml;re; 25 Ocak
+2016-22 Nisan&nbsp; 2016</span></strong><span
+style="mso-fareast-font-family: 'Times New Roman';">
+<o:p></o:p></span></p>
+<p><strong><span style="font-family: 'Arial','sans-serif';">- 2016 Yeni
+<span style="background: yellow;">&Ccedil;eyiz Hesabı ve Devlet
+Katkısına</span> Dair Y&ouml;netmelik</span></strong></p>
+<p><span style="font-family: 'Arial','sans-serif'; background: yellow;">-
+2015 Kasım <b>KOSGEB&rsquo;den</b></span><span style="font-family:
+'Arial','sans-serif';"> KOBİ&rsquo;lerin Kurumsallaşma ve Markalaşma
+Projeleri 55 Milyon TL&rsquo;lik destek %50 Hibe..</span></p>
+<p><span style="font-family: 'Arial','sans-serif'; background: yellow;">-
+2015 Kasım ER<strong><span style="font-family: 'Arial','sans-serif';">A-IB
+AB</span></strong></span><strong><span style="font-family:
+'Arial','sans-serif';"> Hibesi</span></strong><span style="font-family:
+'Arial','sans-serif';"> &Ccedil;ağrısı A&ccedil;ıklandı.</span></p>
+<p><span style="font-family: 'Arial','sans-serif';">- 2015 Kasım <b>1511
+Programı</b> &Ccedil;ağrısı ile ilgili <b><span style="background:
+yellow;">25 ayrı HİBE A&Ccedil;IKLANDI Son Başvuru Aralık
+2015</span></b></span></p>
+<p><strong><span style="font-family: 'Arial','sans-serif'; background:
+#4BACC6;">- </span></strong><span style="font-family:
+'Calibri','sans-serif'; background: #4BACC6;">2016 Yılında</span><span
+style="font-family: 'Calibri','sans-serif'; background: white;">
+</span>Taşınmaz k&uuml;lt&uuml;r varlıklarına<strong><span
+style="background: yellow;"> Proje ve Restorasyon Hibesi 300.000
+TL</span></strong></p>
+<p><span style="background: #4BACC6;">- 2016 Yılında</span><span
+style="background: white;"> Yabancı Kaynaklı<strong><span style="color:
+black;"> </span></strong></span><strong><span style="color: black;
+background: yellow;">Kredi</span></strong><span style="background:
+yellow;"> </span><span style="background:
+white;">Kuruluşları</span>&nbsp;<strong>&ndash; <span style="background:
+yellow;">DOLANDIRILMAYIN</span></strong></p>
+<p><strong><span style="background: yellow;">- G&Uuml;NCEL ŞİRKET
+HİBELERİ</span></strong><o:p></o:p></p>
+<p class="MsoNormal"><strong><span style="mso-fareast-font-family: 'Times
+New Roman';"><d iv="">- Pazara Giriş Belgelerinin Desteklenmesi
+</d></span></strong><span style="mso-fareast-font-family: 'Times New
+Roman';"><o:p></o:p></span></p>
+<p class="MsoNormal"><strong><span style="mso-fareast-font-family: 'Times
+New Roman'; background: yellow;"><d iv="">( CE, TUV, TSE GOSTR, SASO vb
+Belgelerin Alım Hibesi)</d></span></strong><span
+style="mso-fareast-font-family: 'Times New Roman';">
+<o:p></o:p></span></p>
+<p class="MsoNormal"><strong><span style="mso-fareast-font-family: 'Times
+New Roman';"><d iv="">- Tarımsal &Uuml;r&uuml;nlerde İhracat İadesi
+</d></span></strong><span style="mso-fareast-font-family: 'Times New
+Roman';"><o:p></o:p></span></p>
+<p class="MsoNormal"><strong><span style="mso-fareast-font-family: 'Times
+New Roman';"><d iv="">- <span class="SpellE">Sekt&ouml;rel</span> Nitelikli
+Uluslararası Yurt i&ccedil;i Fuarların
+Desteklenmesi</d></span></strong><span style="mso-fareast-font-family:
+'Times New Roman';"> <o:p></o:p></span></p>
+<p class="MsoNormal"><strong><span style="mso-fareast-font-family: 'Times
+New Roman';"><d iv="">- D&ouml;viz Kazandırıcı Hizmet Ticaretinin
+Desteklenmesi </d></span></strong><span style="mso-fareast-font-family:
+'Times New Roman';"><o:p></o:p></span></p>
+<p class="MsoNormal"><strong><span style="mso-fareast-font-family: 'Times
+New Roman';"><d iv="">- Teknik M&uuml;şavirlik Hizmetlerine Sağlanacak
+Devlet Yardımları</d></span></strong><span
+style="mso-fareast-font-family: 'Times New Roman';">
+<o:p></o:p></span></p>
+<p class="MsoNormal"><strong><span style="mso-fareast-font-family: 'Times
+New Roman';"><d iv="">- <span style="background: yellow;">Yurt dışı
+Pazar Araştırması ve Pazara Giriş Desteği Hakkında Tebliğ
+</span></d></span></strong><span style="mso-fareast-font-family: 'Times New
+Roman';"><o:p></o:p></span></p>
+<p class="MsoNormal"><strong><span style="mso-fareast-font-family: 'Times
+New Roman'; background: yellow;"><d iv="">&nbsp;&nbsp; (&nbsp; u&ccedil;ak
+bileti, otel konaklama, ara&ccedil; kiralama hibesi
+)</d></span></strong><span style="mso-fareast-font-family: 'Times New
+Roman';"> <o:p></o:p></span></p>
+<p class="MsoNormal"><strong><span style="mso-fareast-font-family: 'Times
+New Roman';"><d iv="">- <span class="SpellE">Uuslararası</span>
+Rekabet&ccedil;iliğin Geliştirilmesinin
+Desteklenmesi</d></span></strong><span style="mso-fareast-font-family:
+'Times New Roman';"> <o:p></o:p></span></p>
+<p class="MsoNormal"><strong><span style="mso-fareast-font-family: 'Times
+New Roman'; background: yellow;"><d iv="">- Yurt Dışı Birim, Marka ve
+Tanıtım Faaliyetlerinin Desteklenmesi </d></span></strong><span
+style="mso-fareast-font-family: 'Times New Roman';"><o:p></o:p></span></p>
+<p class="MsoNormal"><strong><span style="mso-fareast-font-family: 'Times
+New Roman'; background: yellow;"><d iv="">&nbsp;&nbsp; ( Yurt dışı Ofis,
+<span class="SpellE">Magaza</span>, <span class="SpellE">showroom</span>,
+depo, reyon raf, Sera KIRA HIBESI 4 YIL !!!)</d></span></strong><span
+style="mso-fareast-font-family: 'Times New Roman';">
+<o:p></o:p></span></p>
+<p class="MsoNormal"><strong><span style="mso-fareast-font-family: 'Times
+New Roman';"><d iv="">- Yurt Dışında Ger&ccedil;ekleştirilen Fuar
+Katılımlarının Desteklenmesi</d></span></strong><span
+style="mso-fareast-font-family: 'Times New Roman';">
+<o:p></o:p></span></p>
+<p class="MsoNormal"><strong><span style="mso-fareast-font-family: 'Times
+New Roman';"><d iv="">- Tasarım Desteği Hakkında Tebliğ ile Uygulama
+Usul ve Esasları </d></span></strong><span style="mso-fareast-font-family:
+'Times New Roman';"><o:p></o:p></span></p>
+<p class="MsoNormal"><strong><span style="mso-fareast-font-family: 'Times
+New Roman';"><d iv="">- T&uuml;rk &Uuml;r&uuml;nlerinin Yurtdışında
+Markalaşması ve T&uuml;rk Malı İmajının Yerleştirilmesi ve <span
+class="SpellE">Turqualıtynin</span> Desteklenmesi
+</d></span></strong><span style="mso-fareast-font-family: 'Times New
+Roman';"><o:p></o:p></span></p>
+<p class="MsoNormal"><strong><span style="mso-fareast-font-family: 'Times
+New Roman';"><d iv="">- 2000-1 Sayılı İstihdam Yardımı Hakkında
+Tebliğ ile Uygulama Usul ve Esasları</d></span></strong><span
+style="mso-fareast-font-family: 'Times New Roman';">
+<o:p></o:p></span></p>
+<p><span style="font-family: 'Arial','sans-serif';">- Yeni İş-kur
+istihdam desteği</span></p>
+<p><span style="font-family: 'Arial','sans-serif';">- Vergi avantajları
+yatırım d&ouml;nemi indirim hakkı</span></p>
+<p><span style="font-family: 'Arial','sans-serif';">&ndash; Y&uuml;ksek
+Teknoloji Yatırımlarına Destek &ndash; &Ouml;ncelikli
+Yatırım</span></p>
+<p><span style="font-family: 'Arial','sans-serif';">- Yatırımlara
+Y&uuml;ksek Oranlı Teşvik Bir Yıl Daha S&uuml;recek</span></p>
+<p><span style="font-family: 'Arial','sans-serif';">- Sigorta Primi
+İşveren Hissesi Desteği</span></p>
+<p><span style="font-family: 'Arial','sans-serif';">- Sermaye Artırımına
+Vergi Teşvik</span></p>
+<p><span style="font-family: 'Arial','sans-serif';">- Yatırım Malları Ve
+Ara Mallarının İthalinde KKDF Sıfırlanacak &ndash; 2015</span></p>
+<p><span style="font-family: 'Arial','sans-serif';">- Ar-<span
+class="SpellE">Ge</span> Tasarıma Daha Fazla Destek &ndash;
+2015</span></p>
+<p><span style="font-family: 'Arial','sans-serif';">- Hazine&rsquo;nin
+Kefalet Kapsamı Genişleyecek &ndash; 2015</span></p>
+<p><span style="font-family: 'Arial','sans-serif';">- Ar-<span
+class="SpellE">Ge</span> Yatırımları İ&ccedil;in Proje Finansman
+Desteği &ndash; 2015</span></p>
+<p><span style="font-family: 'Arial','sans-serif';">- İmalat&ccedil;ı
+KOBİ Ve Kadın Girişimcilere Ek Destek &ndash;2015</span></p>
+<p><span style="font-family: 'Arial','sans-serif';">- KOBİ&rsquo;lere
+Teminat Kolaylığı &ndash; 2015</span></p>
+<p><span style="font-family: 'Arial','sans-serif';">- Yurt dışı ofis
+mağaza <span class="SpellE">showroom</span> depo reyon raf kira desteği
+25 Birime &ccedil;ıktı</span></p>
+<p><span style="font-family: 'Arial','sans-serif';">- Kırsal kalkınmada
+tarımsal &uuml;r&uuml;nlerin işlenmesi makine desteği</span></p>
+<p><span style="font-family: 'Arial','sans-serif';">- Soğuk hava ve
+hayvancılık &ccedil;iftlik projelerine hibe</span></p>
+<p><span style="font-family: 'Arial','sans-serif';">- Tarımsal
+&uuml;r&uuml;nler i&ccedil;in depolama kira desteği</span></p>
+<p><span style="font-family: 'Arial','sans-serif';">- SIFIR faizli
+hayvancılık ve tarım kredileri</span></p>
+<p><span style="font-family: 'Arial','sans-serif';">- Yurt dışı pazar
+araştırması U&Ccedil;AK BİLETİ ve OTEL Konaklama Hibesi</span></p>
+<p><span style="font-family: 'Arial','sans-serif';">- Enerji faturalarına
+destekler</span></p>
+<p><span style="font-family: 'Arial','sans-serif';">- Sanayi yatırımı ve
+kapasite <span class="SpellE">arttırımına</span> teşvikleri</span></p>
+<p><span style="font-family: 'Arial','sans-serif';">- Hayvancılık
+Hibeleri Yeni</span></p>
+<p><span style="font-family: 'Arial','sans-serif';">- Yurt dışı şirket
+alımı desteği</span></p>
+<p><span style="font-family: 'Arial','sans-serif';">- Hayvan alımı ve
+ahır hibeleri</span></p>
+<p><span style="font-family: 'Arial','sans-serif';">- Ağa&ccedil;landırma
+hibeleri, orman ağacı, badem, ceviz</span></p>
+<p><span style="font-family: 'Arial','sans-serif';">-<strong><span
+style="font-family: 'Arial','sans-serif'; background: #9BBB59;"> DIĞER
+B&Uuml;T&Uuml;N TEŞVİK VE HİBELER
+AŞAĞIDADIR</span></strong>&nbsp;</span></p>
+<p><b><span style="font-family: 'Arial','sans-serif'; background:
+yellow;">15-16-17 Ocak 2016 Cuma- Cumartesi ve Pazar 2 Farklı Eğitim
+programı ISTANBUL Taksim G&ouml;nen Otelde</span></b><b><span
+style="font-family: 'Arial','sans-serif';"> </span></b></p>
+<p><b><span style="font-family: 'Arial','sans-serif';">AZ SAYIDA KATILIMCI
+ILE OZEL BIR EGITIM.***** TEŞVİK KANUNU KAPSAMINDA ***** </span></b></p>
+<p><span style="font-family: 'Arial','sans-serif';">6 B&Ouml;LGEYE FARKLI
+TEŞVİK UYGULAMALARI VAR. <strong><span style="font-family:
+'Arial','sans-serif'; background: yellow;">BEDELSİZ ARAZI TAHSİSİ
+İ&Ccedil;İN İLK BAŞVURUN&hellip;</span></strong></span></p>
+<p><span style="font-family: 'Arial','sans-serif';">&ndash; Sanayi fabrika
+yatırımları</span></p>
+<p><span style="font-family: 'Arial','sans-serif';">&ndash; İthalatın
+&ouml;nlenmesine y&ouml;nelik yeni ara mamul ve hammadde stratejik
+yatırımları</span></p>
+<p><span style="font-family: 'Arial','sans-serif';">&ndash; Eğitim ve okul
+yatırımları</span></p>
+<p><span style="font-family: 'Arial','sans-serif';">&ndash; Sağlık
+hastane tıp merkezi yatırımları,</span></p>
+<p><span style="font-family: 'Arial','sans-serif';">&ndash; &Ouml;ğrenci
+yurtları,</span></p>
+<p><span style="font-family: 'Arial','sans-serif';">&ndash; Sera
+yatırımları,</span></p>
+<p><span style="font-family: 'Arial','sans-serif';">&ndash; Hayvancılık,
+s&uuml;t ve et sığırcılığı koyun,ke&ccedil;i, et ve tavuk
+yumurtacılığı</span></p>
+<p><span style="font-family: 'Arial','sans-serif';">&ndash; 3 Yıldız
+&uuml;zeri oteller butik oteller</span></p>
+<p><span style="font-family: 'Arial','sans-serif';">&ndash; Geri
+d&ouml;n&uuml;ş&uuml;m tesisleri,</span></p>
+<p><span style="font-family: 'Arial','sans-serif';">&ndash; Depolama,
+Lojistik, Soğuk hava tesisleri ,</span></p>
+<p><span style="font-family: 'Arial','sans-serif';">&ndash; Huzurevi
+yatırımları</span></p>
+<p><span style="font-family: 'Arial','sans-serif';">&ndash; K&ouml;m&uuml;r
+gazı &uuml;retim tesisleri</span></p>
+<p><span style="font-family: 'Arial','sans-serif';">&ndash; Soğuk hava
+deposu yapımı %50 HİBE</span></p>
+<p><span style="font-family: 'Arial','sans-serif';">&ndash; Tarımsal
+&uuml;r&uuml;n işleme makine ekipman alımı %50 HİBE</span></p>
+<p><span style="font-family: 'Arial','sans-serif';">&ndash; Koyun
+ke&ccedil;i manda projeleri %50 HİBE</span></p>
+<p><span style="font-family: 'Arial','sans-serif';">&ndash; Alternatif
+Enerji Kaynaklı Sera Yapımı %50 Hibe</span></p>
+<p><span style="font-family: 'Arial','sans-serif';">&ndash; KOSGEB
+Teşvikleri değişti</span></p>
+<p><span style="font-family: 'Arial','sans-serif';">&ndash; T&Uuml;BİTAK
+ARGE Teşvikleri&hellip;</span></p>
+<p><span style="font-family: 'Arial','sans-serif';">&ndash; Bir&ccedil;ok
+Tarım ve &ccedil;ift&ccedil;ilik teşvikleri</span></p>
+<p><span style="font-family: 'Arial','sans-serif';">&ndash; Teknik
+m&uuml;şavirlik ve <span class="SpellE">m&uuml;tahit</span> şirketlerine
+hibeler</span></p>
+<p><strong><span style="font-family: 'Arial','sans-serif'; background:
+yellow;">&ndash; D&Ouml;VİZ KAZANDIRICI HİZMET SEKT&Ouml;R&Uuml;
+HİBELERİ</span></strong></p>
+<p><span style="font-family: 'Arial','sans-serif';">A) Hastane ve sağlık
+turizmi şirketleri</span></p>
+<p><span style="font-family: 'Arial','sans-serif';">B) Bilişim
+sekt&ouml;r&uuml;,</span></p>
+<p><span style="font-family: 'Arial','sans-serif';">C) Film yapımı ve
+dağıtımı,</span></p>
+<p><span style="font-family: 'Arial','sans-serif';">D) Okul v
+&uuml;niversitelerin yapımı ve diğer teşvikler</span></p>
+<p><span style="font-family: 'Arial','sans-serif';">&ndash; Turizm
+yatırımlarına DEVLET ARAZİSİ DESTEĞİ</span></p>
+<p><span style="font-family: 'Arial','sans-serif';">&ndash; 2015 AB Hibe
+&ccedil;ağrıları- Projenizi <span
+class="SpellE">hazırIayın</span></span></p>
+<p><span style="font-family: 'Arial','sans-serif';">&ndash; Yurt dışı
+kaynaklı yatırım kredileri uzun ve d&uuml;ş&uuml;k faizli.</span></p>
+<p><span style="font-family: 'Arial','sans-serif';">T&uuml;rkiye&rsquo;nin
+teşvik alanında en iyi ismi ile, uygulanan b&uuml;t&uuml;n devlet
+teşviklerine genel bakisi. Uygulamaların ve s&uuml;re&ccedil;lerin
+anlatıldığı eğitimde, en son d&uuml;zenlenen yatırım teşvik kanunun
+getirdikleri. Devletten Bedelsiz arazi nasıl alırım. İmalat ve satış
+stratejilerinde teşviklerden nasıl yararlanırım. AB Hibe
+programlarından kimler nasıl yararlanır? Yeni Serbest B&ouml;lgeler
+kanunu ile hangi avantajlar g&uuml;ndeme geldi? Yeni ARGE kanunun
+getirdiği desteklerden yararlanıyor musunuz? Turizmde hangi destekler
+var? Devletin Kars ilikli ve karşılıksız olarak vermiş olduğu
+Destekler, Hibeler ve Kredilerin tamamı anlatılacaktır. Serbest
+B&ouml;lgelerdeki vergi avantajları nelerdir? Devletin Karşılıklı ve
+karşılıksız olarak vermiş olduğu Destekler, Hibeler ve Kredilerin
+tamamı anlatılacaktır. Şirket sahipleri, &uuml;st d&uuml;zey
+y&ouml;neticiler ile firmaların diş ticaret, muhasebe ve finans
+&ccedil;alışanlarının mutlaka katılması gereken bir
+eğitimdir.Ama&ccedil;=Danışmana ihtiya&ccedil; olmadan&ndash;
+B&uuml;t&uuml;n</span></p>
+<p><span style="font-family: 'Arial','sans-serif';">- Devlet Teşvikleri ve
+Hibeleri Nelerdir? Nasıl yararlanacaksınız!</span></p>
+<p><span style="font-family: 'Arial','sans-serif';">- Devletten Teşvik
+Kapsamında Arazi Nasıl Alisiniz.</span></p>
+<p><span style="font-family: 'Arial','sans-serif';">- Tarım, Eğitim,
+Soğuk Hava, Lojistik, &Ouml;ğrenci Yurtları, Hastane, Huzur evleri,
+Hayvancılık, Geri Donuşum Tesisleri Teşvik kapsamında. Teşvik
+Alabilirsiniz. Devlet Arazisine Yatırım yapabilirsiniz.</span></p>
+<p><span style="font-family: 'Arial','sans-serif';">&ndash; Kredilerinize
+Devleti Kefil G&ouml;sterin. D&uuml;ş&uuml;k Faizli AB ve Yabancı
+Kaynaklı Krediler Nelerdir. !Eğitim Programı Detayları ve
+B&uuml;t&uuml;n Teşvikler Aşağıdadır.</span></p>
+<p><span style="font-family: 'Arial','sans-serif'; background:
+yellow;">Sadece 12 Kişi ile sinirli olarak katılımcıya en &uuml;st
+seviyede eğitim hedeflediğimiz i&ccedil;in yer rezervasyonu
+yapılmasını rica ederiz.</span></p>
+<p><span style="font-family: 'Arial','sans-serif';">Eğitim Konusu:
+<b>B&Uuml;T&Uuml;N DEVLET TEŞVİKLERİ, HİBELERİ ve AB HİBELERİ
+EĞİTİMİ</b></span></p>
+<p><span style="font-family: 'Arial','sans-serif';">Eğitim Tarihi:
+<strong><span style="font-family: 'Arial','sans-serif';">15-16 Ocak 2016
+Cuma ve Cumartesi İstanbul da</span></strong>.</span></p>
+<p><span style="font-family: 'Arial','sans-serif';">Eğitim Yeri: İstanbul
+&ndash; Taksim G&ouml;nen Otel</span></p>
+<p><span style="font-family: 'Arial','sans-serif';">Eğitim Saati: 09.30
+&ndash; 17.30</span></p>
+<p><span style="font-family: 'Arial','sans-serif';">Eğitim &Uuml;creti:
+750 TL+ KDV.</span></p>
+<p>&nbsp;</p>
+<p><span style="font-family: 'Arial','sans-serif';">Eğitim Konusu:
+<b>YATIRIM TEŞVİK BELGESİ ve YATIRIM FİZİBİLİTESİ HAZIRLAMA
+UYGULAMA EĞİTİMİ</b></span></p>
+<p><span style="font-family: 'Arial','sans-serif';">Eğitim Tarihi:<b> 17
+Ocak 2016 Pazar İstanbul da.</b></span></p>
+<p><span style="font-family: 'Arial','sans-serif';">Eğitim Yeri: İstanbul
+&ndash; Taksim G&ouml;nen Otel</span></p>
+<p><span style="font-family: 'Arial','sans-serif';">Eğitim Saati: 09.30
+&ndash; 17.30</span></p>
+<p><span style="font-family: 'Arial','sans-serif';">Eğitim &Uuml;creti:
+750 TL+ KDV.Detaylar ve Sorularınız i&ccedil;in bizi
+arayabilirsiniz</span></p>
+<p><b><span style="font-family: 'Arial','sans-serif';">Her iki eğitimin
+toplam katılım bedeli ise, İNDİRİMLİ 1000 TL + KDV den kayıt
+yapabilirsiniz. </span></b></p>
+<p><strong><span style="font-family: 'Arial','sans-serif';">NOT:
+B&Uuml;T&Uuml;N KONULAR Genel Başlıklarla AŞAĞIDA LİSTELENMİŞTİR.
+Eğitimimiz &ccedil;ok detaylıdır.</span></strong></p>
+<p><span style="font-family:
+'Arial','sans-serif';">Saygılarımla,</span></p>
+<p><span style="font-family: 'Arial','sans-serif';">Tel: 0 212 586 50
+67&nbsp; - Cep: 0 532 332 32 99</span></p>
+<p>&nbsp;</p>
+<p><b><span style="font-family: 'Arial','sans-serif';">2 FARKLI EĞİTİM
+PROGRAMI DETAYLARI AŞAĞIDADIR </span></b></p>
+<p><b><span style="font-family: 'Arial','sans-serif'; background:
+yellow;">15-16 Ocak 2016 Cuma ve Cumartesi <span
+class="SpellE">Istanbul</span> Taksim G&ouml;nen Otelde</span></b></p>
+<p><b><span style="font-family: 'Arial','sans-serif'; background:
+yellow;">Teşvik Kanunu, B&uuml;t&uuml;n Devlet Teşvikleri HİBELERİ ve
+AB Hibeleri Eğitim Konuları :</span></b></p>
+<p><span style="font-family: 'Arial','sans-serif';">1- Yatırım Teşvik
+Kanunu Nedir? Nerelerde Uygulanır? Nasıl Yararlanabilirim?</span></p>
+<p><span style="font-family: 'Arial','sans-serif';">- Nisan 2015 Yatırım
+Teşvik avantajları Başladı-Yatırım Teşvik Belgesi,</span></p>
+<p><span style="font-family: 'Arial','sans-serif';">&ndash; B&ouml;lgesel
+Teşvik Kapsamındaki Teşvikler,</span></p>
+<p><span style="font-family: 'Arial','sans-serif';">&ndash; Kurumlar/Gelir
+Vergisi İndirimi,</span></p>
+<p><span style="font-family: 'Arial','sans-serif';">&ndash; SSK Primi
+İşveren Hissesinin Hazine tarafından karşılanması,</span></p>
+<p><span style="font-family: 'Arial','sans-serif';">&ndash; Bedelsiz
+Yatırım Yeri Tahsisi,</span></p>
+<p><span style="font-family: 'Arial','sans-serif';">&ndash; KDV
+İstisnası</span></p>
+<p><span style="font-family: 'Arial','sans-serif';">&ndash;
+G&uuml;mr&uuml;k Vergisi Muafiyeti</span></p>
+<p><span style="font-family: 'Arial','sans-serif';">&ndash; Faiz
+Desteği</span></p>
+<p><span style="font-family: 'Arial','sans-serif';">&ndash; Gelişmişlik
+Seviyesine Gore 6 B&ouml;lgeye Farklı Teşvikler.</span></p>
+<p><span style="font-family: 'Arial','sans-serif';">&ndash; STRATEJIK
+Yatırımlara ekstra destekler.</span></p>
+<p><strong><span style="font-family: 'Arial','sans-serif'; background:
+yellow;">2- Avrupa Birliği Teşvikleri nelerdir</span></strong><span
+style="font-family: 'Arial','sans-serif';">? Hibelerden nasıl
+yararlanabilirim? AB HİBELERİNDEN YARARLANIN!</span></p>
+<p><span style="font-family: 'Arial','sans-serif';">3- Devletten Nasıl
+Arazi Alabilirim? <strong><span style="font-family:
+'Arial','sans-serif';">BELSİZ ARAZI DESTEĞİ</span></strong> Nasıl
+Uygulanır. YENI Değişikliklerle</span></p>
+<p><span style="font-family: 'Arial','sans-serif';">4- ARGE KANUNU neler
+getirdi? <span style="background: yellow;">ARGE Teşviki ve T&Uuml;BİTAK
+uygulamaları.AR-GE Kanunda devrim gibi değişiklik</span></span></p>
+<p><span style="font-family: 'Arial','sans-serif';">&nbsp;&nbsp; -&nbsp;
+Enerji Ar-<span class="SpellE">Ge</span> si</span></p>
+<p><span style="font-family: 'Arial','sans-serif';">&nbsp;&nbsp;
+-&nbsp;&nbsp; Ar-<span class="SpellE">Ge</span> Harcamalarına Hibe ve
+İndirimli Faiz Kredisi</span></p>
+<p><strong><span style="font-family: 'Arial','sans-serif'; background:
+yellow;">5. Şirket Teşvikleri</span></strong><o:p></o:p></p>
+<p class="MsoNormal"><span style="font-family: 'Arial','sans-serif';
+mso-fareast-font-family: 'Times New Roman';"><d iv="">- Pazara Giriş
+Belgelerinin Desteklenmesi</d></span><span style="mso-fareast-font-family:
+'Times New Roman';"> <o:p></o:p></span></p>
+<p class="MsoNormal"><strong><span style="mso-fareast-font-family: 'Times
+New Roman'; background: yellow;"><d iv="">( CE, TUV, TSE GOSTR, SASO vb
+Belgelerin Alım Hibesi)</d></span></strong><span
+style="mso-fareast-font-family: 'Times New Roman';">
+<o:p></o:p></span></p>
+<p class="MsoNormal"><span style="font-family: 'Arial','sans-serif';
+mso-fareast-font-family: 'Times New Roman';"><d iv=""><d iv="">- Tarımsal
+&Uuml;r&uuml;nlerde İhracat İadesi </d></d></span><span
+style="mso-fareast-font-family: 'Times New Roman';"><o:p></o:p></span></p>
+<p class="MsoNormal"><span style="font-family: 'Arial','sans-serif';
+mso-fareast-font-family: 'Times New Roman';"><d iv=""><d iv="">- <span
+class="SpellE">Sekt&ouml;rel</span> Nitelikli Uluslararası Yurt i&ccedil;i
+Fuarların Desteklenmesi</d></d></span><span
+style="mso-fareast-font-family: 'Times New Roman';">
+<o:p></o:p></span></p>
+<p class="MsoNormal"><span style="font-family: 'Arial','sans-serif';
+mso-fareast-font-family: 'Times New Roman';"><d iv=""><d iv="">- D&ouml;viz
+Kazandırıcı Hizmet Ticaretinin Desteklenmesi </d></d></span><span
+style="mso-fareast-font-family: 'Times New Roman';"><o:p></o:p></span></p>
+<p class="MsoNormal"><span style="font-family: 'Arial','sans-serif';
+mso-fareast-font-family: 'Times New Roman';"><d iv=""><d iv="">- Teknik
+M&uuml;şavirlik Hizmetlerine Sağlanacak Devlet
+Yardımları</d></d></span><span style="mso-fareast-font-family: 'Times New
+Roman';"> <o:p></o:p></span></p>
+<p class="MsoNormal"><span style="font-family: 'Arial','sans-serif';
+mso-fareast-font-family: 'Times New Roman';"><d iv=""><d iv="">- Yurt
+dışı Pazar Araştırması ve Pazara Giriş Desteği Hakkında Tebliğ
+</d></d></span><span style="mso-fareast-font-family: 'Times New
+Roman';"><o:p></o:p></span></p>
+<p class="MsoNormal"><span style="font-family: 'Arial','sans-serif';
+mso-fareast-font-family: 'Times New Roman'; background: yellow;"><d
+iv="">&nbsp;&nbsp; (&nbsp; <strong><span style="font-family:
+'Arial','sans-serif';">U&ccedil;ak bileti, otel konaklama, ara&ccedil;
+kiralama hibesi )</span></strong></d></span><span
+style="mso-fareast-font-family: 'Times New Roman';">
+<o:p></o:p></span></p>
+<p class="MsoNormal"><span style="font-family: 'Arial','sans-serif';
+mso-fareast-font-family: 'Times New Roman';"><d iv=""><d iv="">- <span
+class="SpellE">Uuslararası</span> Rekabet&ccedil;iliğin
+Geliştirilmesinin Desteklenmesi</d></d></span><span
+style="mso-fareast-font-family: 'Times New Roman';">
+<o:p></o:p></span></p>
+<p class="MsoNormal"><span style="font-family: 'Arial','sans-serif';
+mso-fareast-font-family: 'Times New Roman';"><d iv=""><d iv="">- Yurt
+Dışı Birim, Marka ve Tanıtım Faaliyetlerinin Desteklenmesi
+</d></d></span><span style="mso-fareast-font-family: 'Times New
+Roman';"><o:p></o:p></span></p>
+<p class="MsoNormal"><span style="font-family: 'Arial','sans-serif';
+mso-fareast-font-family: 'Times New Roman'; background: yellow;"><d
+iv="">&nbsp;&nbsp; <strong><span style="font-family:
+'Arial','sans-serif';">( Yurt dışı Ofis, <span
+class="SpellE">Magaza</span>, <span class="SpellE">showroom</span>, depo,
+reyon raf, Sera KIRA HIBESI)</span></strong></d></span><span
+style="mso-fareast-font-family: 'Times New Roman';">
+<o:p></o:p></span></p>
+<p class="MsoNormal"><span style="font-family: 'Arial','sans-serif';
+mso-fareast-font-family: 'Times New Roman';"><d iv=""><d iv="">- Yurt
+Dışında Ger&ccedil;ekleştirilen Fuar Katılımlarının
+Desteklenmesi</d></d></span><span style="mso-fareast-font-family: 'Times
+New Roman';"> <o:p></o:p></span></p>
+<p class="MsoNormal"><span style="font-family: 'Arial','sans-serif';
+mso-fareast-font-family: 'Times New Roman';"><d iv=""><d iv="">- Tasarım
+Desteği Hakkında Tebliğ ile Uygulama Usul ve Esasları
+</d></d></span><span style="mso-fareast-font-family: 'Times New
+Roman';"><o:p></o:p></span></p>
+<p class="MsoNormal"><span style="font-family: 'Arial','sans-serif';
+mso-fareast-font-family: 'Times New Roman';"><d iv=""><d iv="">- T&uuml;rk
+&Uuml;r&uuml;nlerinin Yurtdışında Markalaşması ve T&uuml;rk Malı
+İmajının Yerleştirilmesi ve <span class="SpellE">Turqualıtynin</span>
+Desteklenmesi </d></d></span><span style="mso-fareast-font-family: 'Times
+New Roman';"><o:p></o:p></span></p>
+<p class="MsoNormal"><span style="font-family: 'Arial','sans-serif';
+mso-fareast-font-family: 'Times New Roman';"><d iv=""><d iv="">- 2000-1
+Sayılı İstihdam Yardımı Hakkında Tebliğ ile Uygulama Usul ve
+Esasları</d></d></span><span style="mso-fareast-font-family: 'Times New
+Roman';"> <o:p></o:p></span></p>
+<p><strong><span style="font-family: 'Arial','sans-serif'; background:
+yellow;">6- KOSGEB TEŞVİKLERİ, HİBELERİ VE
+UYGULAMALARI.</span></strong></p>
+<p><span style="font-family: 'Arial','sans-serif';">&ndash; KOSGEB Proje
+Kapsamında Hibeler- KOBİ PROJELERİ ve HAZIRLAMA
+ŞABLONU</span><o:p></o:p></p>
+<p class="MsoNormal"><span style="mso-fareast-font-family: 'Times New
+Roman';"><d iv="">1. KOBİ PROJE DESTEK PROGRAMI
+<o:p></o:p></d></span></p>
+<p class="MsoNormal"><span style="mso-fareast-font-family: 'Times New
+Roman';"><d iv=""><d iv="">2. TEMATİK PROJE DESTEK PROGRAMI
+<o:p></o:p></d></d></span></p>
+<p class="MsoNormal"><span style="mso-fareast-font-family: 'Times New
+Roman';"><d iv=""><d iv="">3. İŞBİRLİĞİ - G&Uuml;&Ccedil;BİRLİĞİ
+DESTEK PROGRAMI <o:p></o:p></d></d></span></p>
+<p class="MsoNormal"><span style="mso-fareast-font-family: 'Times New
+Roman';"><d iv=""><d iv="">4- AR-GE, <span class="SpellE">İnovasyon</span>
+ve End&uuml;striyel Uygulama Destekleri <o:p></o:p></d></d></span></p>
+<p class="MsoNormal"><span style="mso-fareast-font-family: 'Times New
+Roman';"><d iv=""><d iv="">5- Yeni GİRİŞİMCİLİK DESTEK PROGRAMI
+<o:p></o:p></d></d></span></p>
+<p class="MsoNormal"><span style="mso-fareast-font-family: 'Times New
+Roman';"><d iv=""><d iv="">6- <strong>Genel Destek Programı</strong>
+<o:p></o:p></d></d></span></p>
+<p class="MsoNormal"><span style="mso-fareast-font-family: 'Times New
+Roman';"><d iv="">- Yurt İ&ccedil;i Fuar Desteği
+<o:p></o:p></d></span></p>
+<p class="MsoNormal"><span style="mso-fareast-font-family: 'Times New
+Roman';"><d iv="">- Yurt Dışı İş Gezisi Desteği
+<o:p></o:p></d></span></p>
+<p class="MsoNormal"><span style="mso-fareast-font-family: 'Times New
+Roman';"><d iv="">- Tanıtım Desteği <o:p></o:p></d></span></p>
+<p class="MsoNormal"><span style="mso-fareast-font-family: 'Times New
+Roman';"><d iv="">- Eşleştirme Desteği <o:p></o:p></d></span></p>
+<p class="MsoNormal"><span style="mso-fareast-font-family: 'Times New
+Roman';"><d iv="">- Nitelikli Eleman İstihdam Desteği
+<o:p></o:p></d></span></p>
+<p class="MsoNormal"><span style="mso-fareast-font-family: 'Times New
+Roman';"><d iv="">- Danışmanlık Desteği <o:p></o:p></d></span></p>
+<p class="MsoNormal"><span style="mso-fareast-font-family: 'Times New
+Roman';"><d iv="">- Eğitim Desteği <o:p></o:p></d></span></p>
+<p class="MsoNormal"><span style="mso-fareast-font-family: 'Times New
+Roman';"><d iv="">- Enerji Verimliliği Desteği
+<o:p></o:p></d></span></p>
+<p class="MsoNormal"><span style="mso-fareast-font-family: 'Times New
+Roman';"><d iv="">- Tasarım Desteği <o:p></o:p></d></span></p>
+<p class="MsoNormal"><span style="mso-fareast-font-family: 'Times New
+Roman';"><d iv="">- Sınai M&uuml;lkiyet Hakları Desteği
+<o:p></o:p></d></span></p>
+<p class="MsoNormal"><span style="mso-fareast-font-family: 'Times New
+Roman';"><d iv="">- Belgelendirme Desteği <o:p></o:p></d></span></p>
+<p class="MsoNormal"><span style="mso-fareast-font-family: 'Times New
+Roman';"><d iv="">- Test, Analiz ve Kalibrasyon Desteği
+<o:p></o:p></d></span></p>
+<p class="MsoNormal"><span style="mso-fareast-font-family: 'Times New
+Roman';"><d iv="">- Bağımsız Denetim Desteği
+<o:p></o:p></d></span></p>
+<p class="MsoNormal"><span style="mso-fareast-font-family: 'Times New
+Roman';"><d iv="">- G&ouml;n&uuml;ll&uuml; Uzmanlık Desteği
+<o:p></o:p></d></span></p>
+<p class="MsoNormal"><span style="mso-fareast-font-family: 'Times New
+Roman';"><d iv="">- Lojistik Desteği <o:p></o:p></d></span></p>
+<p><strong><span style="font-family: 'Arial','sans-serif'; background:
+yellow;">7- EXİMBANK DESTEKLERİ</span><o:p></o:p></strong></p>
+<p><span style="font-family: 'Arial','sans-serif';">&ndash; İhracat Kredi
+Sigortası</span></p>
+<p><span style="font-family: 'Arial','sans-serif';">&ndash; Kısa Vadeli
+İhracat Kredileri</span></p>
+<p><span style="font-family: 'Arial','sans-serif';">&ndash; &Ouml;zellikli
+Krediler</span></p>
+<p><span style="font-family: 'Arial','sans-serif';">&ndash; Sevk
+&Ouml;ncesi Reeskont Kredisi</span></p>
+<p><span style="font-family: 'Arial','sans-serif';">&ndash; Kısa Vadeli
+İhracat Alacakları Iskonto Programı</span></p>
+<p><span style="font-family: 'Arial','sans-serif';">&ndash; Gemi inşa ve
+İhracatın Finansman Programı</span></p>
+<p><span style="font-family: 'Arial','sans-serif';">&ndash; Yurtdışı
+M&uuml;teahhitlik Hizmetlerine Y&ouml;nelik Teminat Mektubu
+Programı</span></p>
+<p><span style="font-family: 'Arial','sans-serif';">&ndash; Yurtdışı
+Mağazalar Yatırım Kredisi</span></p>
+<p><span style="font-family: 'Arial','sans-serif';">&ndash; D&ouml;viz
+Kazandırıcı Hizmetler Kapsamındaki Krediler</span></p>
+<p><span style="font-family: 'Arial','sans-serif';">&ndash; Uluslararası
+Nakliyat Pazarlama Kredisi (Karayolu/Denizyolu /Havayolu)</span></p>
+<p><span style="font-family: 'Arial','sans-serif';">&ndash; Turizm
+Pazarlama Kredisi</span></p>
+<p><span style="font-family: 'Arial','sans-serif';">&ndash; İhracata
+Y&ouml;nelik İthalat Finansman Kredisi</span></p>
+<p><span style="font-family: 'Arial','sans-serif';">&ndash; Yurt Dişi
+Fuarlara Katilim Kredisi</span></p>
+<p><span style="font-family: 'Arial','sans-serif';">8- Serbest
+B&ouml;lgeler Kanunun Getirdiği Avantajlar</span></p>
+<p><strong><span style="font-family: 'Arial','sans-serif';">9- Yatırım
+Teşvik Belgesi Teşvikler</span></strong></p>
+<p><span style="font-family: 'Arial','sans-serif';">&ndash;
+G&uuml;mr&uuml;k vergisi, KDV muafiyetleri ve Faiz Desteği.</span></p>
+<p><span style="font-family: 'Arial','sans-serif';">10- Yabancı Kaynaklı
+Kredilerden Nasıl Yararlanabiliriz. <strong><span style="font-family:
+'Arial','sans-serif';">YURT DIŞI D&uuml;ş&uuml;k faizli
+Krediler!</span></strong></span></p>
+<p><span style="font-family: 'Arial','sans-serif';">11- Serbest
+B&ouml;lgelerde Şirket Kuruluşları ve Serbest B&ouml;lge Teşvikleri.
+Serbest B&ouml;lgeden yararlanın !- Serbest B&ouml;lge Şirketlerine <span
+class="SpellE">Eximbank</span> Teşvikleri Başladı.</span></p>
+<p><span style="font-family: 'Arial','sans-serif';">12- <strong><span
+style="font-family: 'Arial','sans-serif';">Tarım Makineleri Hibe
+Desteği</span></strong>. BİREYSEL SULAMA MAKİNE VE EKİPMAN ALIMLARININ
+DESTEKLENMESİ <strong><span style="font-family: 'Arial','sans-serif';">%50
+Hibe</span></strong></span><o:p></o:p></p>
+<p class="MsoNormal"><span style="mso-fareast-font-family: 'Times New
+Roman';"><d iv="">a) Tarla i&ccedil;i damla sulama sistemi kurulması,
+<o:p></o:p></d></span></p>
+<p class="MsoNormal"><span style="mso-fareast-font-family: 'Times New
+Roman';"><d iv="">b) Tarla i&ccedil;i yağmurlama sulama sistemi
+kurulması, <o:p></o:p></d></span></p>
+<p class="MsoNormal"><span style="mso-fareast-font-family: 'Times New
+Roman';"><d iv="">c) Tarla i&ccedil;i mikro yağmurlama sulama sistemi
+kurulması, <o:p></o:p></d></span></p>
+<p class="MsoNormal"><span style="mso-fareast-font-family: 'Times New
+Roman';"><d iv="">&ccedil;) Lineer sistem yağmurlama sulama makinesi
+alınması, <o:p></o:p></d></span></p>
+<p class="MsoNormal"><span style="mso-fareast-font-family: 'Times New
+Roman';"><d iv="">d) <span class="SpellE">Center</span> pivot sistem
+yağmurlama sulama makinesi alınması, <o:p></o:p></d></span></p>
+<p class="MsoNormal"><span style="mso-fareast-font-family: 'Times New
+Roman';"><d iv="">e) Tamburlu sistem yağmurlama sulama makinesi
+alınması, <o:p></o:p></d></span></p>
+<p class="MsoNormal"><span style="mso-fareast-font-family: 'Times New
+Roman';"><d iv="">f) G&uuml;neş enerjili sulama sistemleri kurulması
+<o:p></o:p></d></span></p>
+<p><span style="font-family: 'Arial','sans-serif';">13- Kırsal Kalkınma
+Yatırımlarının Desteklenmesi <strong><span style="font-family:
+'Arial','sans-serif'; background: yellow;">% 50 HİBE&nbsp;
+</span></strong><strong><span style="font-family: 'Arial','sans-serif';
+background: lime;">AŞAĞIDAKİ KONULARDA YENI YATIRIMLAR DA
+DAHİL</span></strong></span><o:p></o:p></p>
+<p class="MsoNormal"><span style="mso-fareast-font-family: 'Times New
+Roman';"><d iv="">a) Bitkisel &uuml;r&uuml;n işlenmesi, paketlenmesi ve
+depolanmasına y&ouml;nelik yatırımlardan yaş meyve sebze tasnif,
+paketleme ve depolama yatırımları i&ccedil;in 3.000.000 T&uuml;rk
+Lirası, tohum işleme, paketleme ve depolama yatırımları i&ccedil;in
+3.000.000 T&uuml;rk Lirası, bunun dışında kalan yatırımlar
+i&ccedil;in 1.000.000 T&uuml;rk Lirası, <o:p></o:p></d></span></p>
+<p class="MsoNormal"><span style="mso-fareast-font-family: 'Times New
+Roman';"><d iv="">b) Hayvansal &uuml;r&uuml;n işlenmesi, paketlenmesi ve
+depolanmasına y&ouml;nelik yatırımlara 3.000.000 T&uuml;rk Lirası,
+<o:p></o:p></d></span></p>
+<p class="MsoNormal"><span style="mso-fareast-font-family: 'Times New
+Roman';"><d iv="">c) Su &uuml;r&uuml;nleri işlenmesi, paketlenmesi ve
+depolanmasına y&ouml;nelik yatırımlara 3.000.000 T&uuml;rk Lirası,
+<o:p></o:p></d></span></p>
+<p class="MsoNormal"><span style="mso-fareast-font-family: 'Times New
+Roman';"><d iv="">&ccedil;) Hayvansal <span class="SpellE">orjinli</span>
+g&uuml;bre işlenmesi, paketlenmesi ve depolanmasına y&ouml;nelik
+yatırımlara 2.000.000 T&uuml;rk Lirası, <o:p></o:p></d></span></p>
+<p class="MsoNormal"><span style="mso-fareast-font-family: 'Times New
+Roman';"><d iv="">d) Alternatif enerji kaynakları kullanan yeni seraların
+yapımına y&ouml;nelik yatırımlara 3.000.000 T&uuml;rk Lirası,
+<o:p></o:p></d></span></p>
+<p class="MsoNormal"><span style="mso-fareast-font-family: 'Times New
+Roman';"><d iv="">e) Soğuk hava deposu yapımına y&ouml;nelik yeni
+yatırımlara 1.000.000 T&uuml;rk Lirası, <o:p></o:p></d></span></p>
+<p class="MsoNormal"><span style="mso-fareast-font-family: 'Times New
+Roman';"><d iv="">f) &Ccedil;elik silo yapımına y&ouml;nelik yeni
+yatırımlara 1.000.000 T&uuml;rk Lirası, <o:p></o:p></d></span></p>
+<p class="MsoNormal"><span style="mso-fareast-font-family: 'Times New
+Roman';"><d iv="">g) Tebliğ kapsamında bulunan konularla ilgili tarımsal
+faaliyetlere y&ouml;nelik yapılmış tesislerde kullanılmak &uuml;zere;
+alternatif enerji kaynaklarından jeotermal ve biyogazdan ısı ve/veya
+elektrik &uuml;reten tesisler ile g&uuml;neş ve r&uuml;zgar enerjisinden
+elektrik &uuml;reten tesislerin yapımına y&ouml;nelik yatırımlara
+3.000.000 T&uuml;rk Lirası, <o:p></o:p></d></span></p>
+<p class="MsoNormal"><span style="mso-fareast-font-family: 'Times New
+Roman';"><d iv="">ğ) Tarımsal &uuml;retime y&ouml;nelik modern sabit
+yatırımlardan mantar yetiştiriciliği ve k&uuml;lt&uuml;r
+balık&ccedil;ılığına y&ouml;nelik sabit yatırımlara 1.000.000
+T&uuml;rk Lirası, b&uuml;y&uuml;kbaş hayvan yetiştiriciliğine
+y&ouml;nelik sabit yatırımlara 1.500.000 T&uuml;rk Lirası,
+k&uuml;&ccedil;&uuml;kbaş ve kanatlı hayvan yetiştiriciliğine
+y&ouml;nelik sabit yatırımlarda 1.000.000 T&uuml;rk Lirasını
+ge&ccedil;emez. <o:p></o:p></d></span></p>
+<p><span style="font-family: 'Arial','sans-serif';">14- İmalat Haricinde,
+Hastane, Eğitim, &Ouml;ğrenci Yurtları, Huzurevleri, Seralar, Maden
+Ocakları, Turizm tesislerinizde Teşvik var!</span></p>
+<p><span style="font-family: 'Arial','sans-serif';">15- AB projeleri.
+Nasıl yazılır. AB destekleri hibeleri nasıl yararlanılır.</span></p>
+<p><span style="font-family: 'Arial','sans-serif';">16- ARGE &ouml;ğrenci
+teşvikleri. ARGE <span class="SpellE">laboratuvar</span> merkezi
+desteği.</span></p>
+<p><span style="font-family: 'Arial','sans-serif';">17- ENERJI SEKTORU
+ARASTIRMA-GELISTIRME PROJELERI DESTEKLEME PROGRAMINA (ENAR) DAIR
+YONETMELIK</span></p>
+<p><span style="font-family: 'Arial','sans-serif';">18- TURIZM TESVIK
+KANUNU ve YENI TURIZM TESVIGI</span></p>
+<p><span style="font-family: 'Arial','sans-serif';">19- Kırsal Turizm ve
+Kırsal Kalkınma Hibeleri <strong><span style="font-family:
+'Arial','sans-serif';">&ndash; IPARD
+2</span></strong></span><o:p></o:p></p>
+<p class="MsoNormal"><strong><span style="mso-fareast-font-family: 'Times
+New Roman'; background: yellow;"><d iv="">YENI HIBE &Ccedil;AĞRISI
+SURELIDIR;</d></span></strong><span style="mso-fareast-font-family: 'Times
+New Roman';"> <o:p></o:p></span></p>
+<p class="MsoNormal"><strong><span style="mso-fareast-font-family: 'Times
+New Roman'; background: yellow;"><d iv="">(%50-65 Hibe Son Başvuru Proje
+&ccedil;eşidine g&ouml;re; 25 Ocak 2016-22 Nisan&nbsp; 2016 )
+</d></span></strong><strong><span style="mso-fareast-font-family: 'Times
+New Roman'; background: lime;">YENI YATIRIMLARDA DAHIL AŞAĞIDAKİLER
+!!</span></strong><span style="mso-fareast-font-family: 'Times New
+Roman';"> <o:p></o:p></span></p>
+<p class="MsoNormal"><span style="mso-fareast-font-family: 'Times New
+Roman'; background: white;"><d iv="">-&nbsp; Tarımsal İşletmelerin
+Fiziki Varlıklarına Y&ouml;nelik Yatırımlar </d></span><span
+style="mso-fareast-font-family: 'Times New Roman';"><o:p></o:p></span></p>
+<p class="MsoNormal"><span style="mso-fareast-font-family: 'Times New
+Roman'; background: white;"><d iv="">- S&uuml;t &Uuml;reten Tarımsal
+İşletmeler </d></span><span style="mso-fareast-font-family: 'Times New
+Roman';"><o:p></o:p></span></p>
+<p class="MsoNormal"><span style="mso-fareast-font-family: 'Times New
+Roman'; background: white;"><d iv="">- Kırmızı Et &Uuml;reten Tarımsal
+İşletmeler </d></span><span style="mso-fareast-font-family: 'Times New
+Roman';"><o:p></o:p></span></p>
+<p class="MsoNormal"><span style="mso-fareast-font-family: 'Times New
+Roman'; background: white;"><d iv="">- Kanatlı Eti &Uuml;reten Tarımsal
+İşletmeler</d></span><span style="mso-fareast-font-family: 'Times New
+Roman';"> <o:p></o:p></span></p>
+<p class="MsoNormal"><span style="mso-fareast-font-family: 'Times New
+Roman'; background: white;"><d iv="">- Yumurta &Uuml;reten Tarımsal
+İşletmeler </d></span><span style="mso-fareast-font-family: 'Times New
+Roman';"><o:p></o:p></span></p>
+<p class="MsoNormal"><span style="mso-fareast-font-family: 'Times New
+Roman'; background: white;"><d iv="">- Tarım ve Balık&ccedil;ılık
+&Uuml;r&uuml;nlerinin İşlenmesi ve Pazarlanması ile İlgili Fiziki
+Varlıklara Y&ouml;nelik Yatırımlar </d></span><span
+style="mso-fareast-font-family: 'Times New Roman';"><o:p></o:p></span></p>
+<p class="MsoNormal"><span style="mso-fareast-font-family: 'Times New
+Roman'; background: white;"><d iv="">- S&uuml;t ve S&uuml;t
+&Uuml;r&uuml;nlerinin İşlenmesi ve Pazarlanması</d></span><span
+style="mso-fareast-font-family: 'Times New Roman';">
+<o:p></o:p></span></p>
+<p class="MsoNormal"><span style="mso-fareast-font-family: 'Times New
+Roman'; background: white;"><d iv="">- Kırmızı Et ve Et
+&Uuml;r&uuml;nlerinin İşlenmesi ve Pazarlanması</d></span><span
+style="mso-fareast-font-family: 'Times New Roman';">
+<o:p></o:p></span></p>
+<p class="MsoNormal"><span style="mso-fareast-font-family: 'Times New
+Roman'; background: white;"><d iv="">- Kanatlı Eti ve Et
+&Uuml;r&uuml;nlerinin İşlenmesi ve Pazarlanması</d></span><span
+style="mso-fareast-font-family: 'Times New Roman';">
+<o:p></o:p></span></p>
+<p class="MsoNormal"><span style="mso-fareast-font-family: 'Times New
+Roman'; background: white;"><d iv="">- Su &Uuml;r&uuml;nlerinin İşlenmesi
+ve Pazarlanması </d></span><span style="mso-fareast-font-family: 'Times
+New Roman';"><o:p></o:p></span></p>
+<p class="MsoNormal"><span style="mso-fareast-font-family: 'Times New
+Roman'; background: white;"><d iv="">- Meyve ve Sebze &Uuml;r&uuml;nlerinin
+İşlenmesi ve Pazarlanması </d></span><span
+style="mso-fareast-font-family: 'Times New Roman';"><o:p></o:p></span></p>
+<p class="MsoNormal"><span style="mso-fareast-font-family: 'Times New
+Roman'; background: white;"><d iv="">- &Ccedil;iftlik Faaliyetlerinin
+&Ccedil;eşitlendirilmesi ve İş Geliştirme </d></span><span
+style="mso-fareast-font-family: 'Times New Roman';"><o:p></o:p></span></p>
+<p class="MsoNormal"><span style="mso-fareast-font-family: 'Times New
+Roman'; background: white;"><d iv="">- Bitkisel &uuml;retimin
+&ccedil;eşitlendirilmesi ve bitkisel &uuml;r&uuml;nlerin işlenmesi ve
+pazarlanması </d></span><span style="mso-fareast-font-family: 'Times New
+Roman';"><o:p></o:p></span></p>
+<p class="MsoNormal"><span style="mso-fareast-font-family: 'Times New
+Roman'; background: white;"><d iv="">- Arıcılık ve arı
+&uuml;r&uuml;nlerinin &uuml;retimi, işlenmesi ve pazarlanması
+</d></span><span style="mso-fareast-font-family: 'Times New
+Roman';"><o:p></o:p></span></p>
+<p class="MsoNormal"><span style="mso-fareast-font-family: 'Times New
+Roman'; background: white;"><d iv="">- Zanaatkarlık ve yerel
+&uuml;r&uuml;n işletmeleri </d></span><span
+style="mso-fareast-font-family: 'Times New Roman';"><o:p></o:p></span></p>
+<p class="MsoNormal"><span style="mso-fareast-font-family: 'Times New
+Roman'; background: white;"><d iv="">- Kırsal turizm ve rekreasyon
+faaliyetleri </d></span><span style="mso-fareast-font-family: 'Times New
+Roman';"><o:p></o:p></span></p>
+<p class="MsoNormal"><span style="mso-fareast-font-family: 'Times New
+Roman'; background: white;"><d iv="">- Su &uuml;r&uuml;nleri
+yetiştiriciliği </d></span><span style="mso-fareast-font-family: 'Times
+New Roman';"><o:p></o:p></span></p>
+<p class="MsoNormal"><span style="mso-fareast-font-family: 'Times New
+Roman'; background: white;"><d iv="">- Makine Parkları </d></span><span
+style="mso-fareast-font-family: 'Times New Roman';"><o:p></o:p></span></p>
+<p class="MsoNormal"><span style="mso-fareast-font-family: 'Times New
+Roman'; background: white;"><d iv="">- Yenilenebilir enerji yatırımları
+</d></span><span style="mso-fareast-font-family: 'Times New
+Roman';"><o:p></o:p></span></p>
+<p><span style="font-family: 'Arial','sans-serif';">20- TARIMSAL
+DESTEKLEMELER -TESVIKLER.</span></p>
+<p><span style="font-family: 'Arial','sans-serif';">21- HAYVANCILIK
+TEŞVIKLERI INEK ALIMI, AHIR YAPIMI, SUT INEK&Ccedil;ILIGI, SAGMA UNITESI,
+SOGUTMA TANKI HIBESI.</span></p>
+<p><span style="font-family: 'Arial','sans-serif';">22- K&uuml;lt&uuml;r
+Yatırımları destek ve hibeleri.</span></p>
+<p><span style="font-family: 'Arial','sans-serif';">23- <strong><span
+style="font-family: 'Arial','sans-serif';">AB Hibe &ccedil;ağrıları ve
+&Ouml;zel Vakıf Hibe &ccedil;ağrıları</span></strong></span></p>
+<p><span style="font-family: 'Arial','sans-serif';">24- Enerji Verimliliği
+Destekleri</span></p>
+<p><span style="font-family: 'Arial','sans-serif';">25- <strong><span
+style="font-family: 'Arial','sans-serif';">D&ouml;viz Kazandırıcı Hizmet
+Sekt&ouml;r&uuml;ne y&ouml;nelik destekler</span></strong></span></p>
+<p><span style="font-family: 'Arial','sans-serif';">- Hastane, </span></p>
+<p><span style="font-family: 'Arial','sans-serif';">-&nbsp; Sağlık
+turizmi şirketleri, </span></p>
+<p><span style="font-family: 'Arial','sans-serif';">- Bilişim Şirketleri,
+</span></p>
+<p><span style="font-family: 'Arial','sans-serif';">- Okul ve
+&Uuml;niversiteler, </span></p>
+<p><span style="font-family: 'Arial','sans-serif';">- Film yapım ve
+Dağıtım Şirketlerine destekler.</span></p>
+<p><span style="font-family: 'Arial','sans-serif';">26 Sera, Huzurevi,
+&Ouml;ğrenci Yurdu, Lisanslı Depoculuk ve Hastanelere devlet arazisi
+tahsisi.</span></p>
+<p><span style="font-family: 'Arial','sans-serif';">27 Enerji
+Kaynaklarının ve Enerjinin Kullanımında Verimliliğin Artırılmasına
+ENERJİ FATURA HİBESİ 200.000 TLYENİ</span></p>
+<p><span style="font-family: 'Arial','sans-serif';">28- 0 FAİZLİ ve
+D&Uuml;Ş&Uuml;K FAİZLİ HAYVANCILIK ve TARIM KREDİLERİ A&Ccedil;IKLANDI
+2016 Ocak* YENİ</span></p>
+<p><span style="font-family: 'Arial','sans-serif';">29- PAZAR ARAŞTIRMASI,
+YURT DIŞI U&Ccedil;AK BİLETİ OTEL KONAKLAMA HİBESİNDE
+DEĞİŞİKLİK</span></p>
+<p><span style="font-family: 'Arial','sans-serif';">30- ENERJİ KAYNAĞININ
+VERİMLİ KULLANILMASI- ENERJİ FATURA DESTEĞİ 200.000 TL
+YENİ</span></p>
+<p><span style="font-family: 'Arial','sans-serif';">31- RAPOR ve YURT DIŞI
+ŞİRKET ALIM DESTEĞİ HİBESİ</span></p>
+<p><span style="font-family: 'Arial','sans-serif';">32- İLERİ
+TEKNOLOJİYE SAHİP YURT DIŞI ŞİRKET ALIM DESTEĞİ HİBESİ
+</span></p>
+<p><span style="font-family: 'Arial','sans-serif';">33-
+AĞA&Ccedil;LANDIRMA HİBELERİ. CEVİZ, BADEM, ORMAN AĞA&Ccedil;LARI
+HİBESİ ve TEŞVİKLERİ 2015</span></p>
+<p><span style="font-family: 'Arial','sans-serif';">34- ARGE KAYNAKLI
+&Uuml;R&Uuml;NLERİN &Uuml;RETİMİNE Y&Ouml;NELİK MAKİNA EKİPMAN ALIMI
+HİBESİ 4 MİLYON TL Hibe</span></p>
+<p><span style="font-family: 'Arial','sans-serif';">35- K&uuml;lt&uuml;r
+Yatırımları, K&uuml;lt&uuml;r varlıkları Restorasyon
+Hibesi</span></p>
+<p><span style="font-family: 'Arial','sans-serif';">36-&nbsp; Yeni SIFIR
+Faizli Krediler</span></p>
+<p><span style="font-family: 'Arial','sans-serif';">37 &ndash;
+Gen&ccedil;lik ve Spor Bakanlığı Hibeleri.</span></p>
+<p><span style="font-family: 'Arial','sans-serif';">38- OSB <span
+class="SpellE">lerde</span> okul yatırımlarına teşvik var</span></p>
+<p><span style="font-family: 'Arial','sans-serif';">39-&nbsp; Tarımsal
+&uuml;retime ve Organik Tarım &Uuml;retimine Destekler</span></p>
+<p><span style="font-family: 'Arial','sans-serif';">40- Hayvan alımı
+dahil, Ağır yapımı ve s&uuml;t toplama makinelerine <strong><span
+style="font-family: 'Arial','sans-serif'; background:
+yellow;">HIBE</span></strong></span></p>
+<p><strong><span style="font-family: 'Arial','sans-serif';">17 Ocak 2016
+Pazar &ndash; ISTANBUL TAKSIM GONEN OTELDE</span></strong></p>
+<p><b><span style="font-family: 'Arial','sans-serif'; background:
+yellow;">2016 YATIRIM TEŞVİK BELGESİ HAZIRLAMA, TAKIP, &Ccedil;IKARMA,
+KAPAMA ve YATIRIM FİZİBİLİTESİ HAZIRLAMA UYGULAMA
+EĞİTİMİ.</span></b></p>
+<p><span style="font-family: 'Arial','sans-serif';">DANIŞMANA
+İHTİYACINIZ OLMADAN YATIRIM TEŞVİK BELGESİNİ SIZ &Ccedil;IKARIN.
+YATIRIM TEŞVİK BELGESİ &Ccedil;IKARMADAN YATIRIM YAPMAYIN&Ccedil;OK
+&Ouml;NEMLİ DEĞİŞİKLİK YAPILDI. AVANTAJLAR
+UZATILDI-T&uuml;rkiye&rsquo;de TEŞVİK KANUNUNDAN yararlanmak i&ccedil;im
+Yatırım Fizibilitesinin hazırlanması ve Yatırım Teşvik Belgesinin
+&ccedil;ıkartılması gerekmektedir.</span></p>
+<p><span style="font-family: 'Arial','sans-serif';">Eğitimimizin amacı
+Hi&ccedil; bir danışmana ihtiyacınız olmadan Yatırım Fizibilitesinin
+hazırlanması, Yatırım Teşvik i&ccedil;in on hazırlık, Yatırım
+Teşvik Belgesi &Ccedil;ıkartılması <span class="SpellE">asamalar</span>
+ve Kapama işlemlerinin nasıl yapılacağını
+&ouml;ğreneceksiniz.</span></p>
+<p><span style="font-family: 'Arial','sans-serif';">- 2 Adet &Ouml;rnek
+projeler dağıtılacak olup, beraber 1 &ouml;rnek proje
+hazırlanacaktır.</span></p>
+<p><span style="font-family: 'Arial','sans-serif';">*** TEŞVİK KANUNU
+KAPSAMINDA SANAYİİ ve FABRİKA YATIRIMLARI, MAKİNE EKİPMAN YATIRIMLARI,
+HAYVANCILIK PROJELERİ, TARIM SERA YATIRIMLARI, HUZUREVİ, OKUL,
+&Ouml;ĞRENCİ YURTLARI, SOĞUK HAVA, LİSANSLI DEPOCULUK ve HASTANE
+YATIRIMLARI ile GERİ D&Ouml;N&Uuml;Ş&Uuml;M TESİSLERİ İ&Ccedil;İN
+YATIRIM TEŞVİK BELGESİ &Ccedil;IKARMAK GEREKMEKTEDİR.</span></p>
+<p><span style="font-family: 'Arial','sans-serif';">Eğitim Programı
+Detayları Aşağıdadır.</span></p>
+<p><span style="font-family: 'Arial','sans-serif';">Ama&ccedil; danışmana
+ihtiya&ccedil; olmadan yatırım teşvik belgesi nasıl hazırlanır,
+doldurulur ve kapatılır. En az 2 &ouml;rnekle anlatılması.</span></p>
+<p><span style="font-family: 'Arial','sans-serif';">Sadece 12 Kişi ile
+sinirli olarak katılımcıya en &uuml;st seviyede eğitim hedeflediğimiz
+i&ccedil;in yer rezervasyonu yapılmasını rica ederiz.</span></p>
+<p><b><span style="font-family: 'Arial','sans-serif';">1- Yeni Yatırım
+Teşvik Nedir? Nerelerde Uygulanır? Nasıl Yararlanabilirim?
+</span></b></p>
+<p><span style="font-family: 'Arial','sans-serif';">&ndash; Yatırım
+Teşvik Belgesi,</span></p>
+<p><span style="font-family: 'Arial','sans-serif';">&ndash; B&ouml;lgesel
+Teşvik Kapsamındaki Teşvikler,</span></p>
+<p><span style="font-family: 'Arial','sans-serif';">&ndash; Kurumlar/Gelir
+Vergisi İndirimi,</span></p>
+<p><span style="font-family: 'Arial','sans-serif';">&ndash; SSK Primi
+Isıveren Hissesinin Hazine tarafından karşılanması,</span></p>
+<p><span style="font-family: 'Arial','sans-serif';">&ndash; Yatırım Yeri
+Tahsisi,</span></p>
+<p><span style="font-family: 'Arial','sans-serif';">&ndash; KDV
+İstisnası</span></p>
+<p><span style="font-family: 'Arial','sans-serif';">&ndash;
+G&uuml;mr&uuml;k Vergisi Muafiyeti</span></p>
+<p><span style="font-family: 'Arial','sans-serif';">&ndash; Faiz
+Desteği</span></p>
+<p><span style="font-family: 'Arial','sans-serif';">&ndash; SSK Is&ccedil;a
+ve stopaj desteği</span></p>
+<p><span style="font-family: 'Arial','sans-serif';">&ndash; B&uuml;y&uuml;k
+ve Stratejik Yatırımların Desteklenmesi</span></p>
+<p><span style="font-family: 'Arial','sans-serif';">2- Yatırım
+Fizibilitesi Nedir? Nasıl Hazırlanır? &Ouml;rnekler ve uygulama ile
+hazırlanacak.</span></p>
+<p><span style="font-family: 'Arial','sans-serif';">3- &Ccedil;ED Raporu
+Başvuruları, Takip edilmesi gerekli kurallar.</span></p>
+<p><span style="font-family: 'Arial','sans-serif';">4- Yatırım Teşvik
+Belgesi Nasıl &ccedil;ıkartılır, takip edilir kapatılır.</span></p>
+<p><span style="font-family: 'Arial','sans-serif';">5- M&uuml;racaat
+Edebilecek ger&ccedil;ek ve T&uuml;zel Kilsiler.</span></p>
+<p><span style="font-family: 'Arial','sans-serif';">6- Devlet arazisi
+nasıl alınır. B&uuml;t&uuml;n <span
+class="SpellE">asamalar</span>.</span></p>
+<p><span style="font-family: 'Arial','sans-serif';">7- Sabit Tutar ve
+Asgari yatırım kapasiteleri</span></p>
+<p><span style="font-family: 'Arial','sans-serif';">8- M&uuml;racaat mercii
+ve Yatırım Teşvik Belgesinin Başvurusunun
+değerlendirilmesi</span></p>
+<p><span style="font-family: 'Arial','sans-serif';">9- Yatırıma başlama,
+tamamlama ve Belge kapama işlemleri</span></p>
+<p><span style="font-family: 'Arial','sans-serif';">10- Cezai
+Uygulamalar.</span></p>
+<p><span style="font-family: 'Arial','sans-serif';">11- Kullanılmış
+<span class="SpellE">makina</span> ve te&ccedil;hizat ithali.</span></p>
+<p><span style="font-family: 'Arial','sans-serif';">12- Yatırım Teşvik
+Belgesinde Finansal Kiralama İşlemleri.</span></p>
+<p><span style="font-family: 'Arial','sans-serif';">13- Belge zayii,
+Tamamlama vizesi ve İhtilaflı durumlar.</span></p>
+<p><span style="font-family: 'Arial','sans-serif';">Detaylar ve
+sorularınız i&ccedil;in bizi arayınız</span><span style="font-size:
+18.0pt; font-family: 'Arial','sans-serif';">.</span><br /> <br /> <span
+style="font-size: 11.0pt; font-family:
+'Arial','sans-serif';">Saygılarımla,</span><span style="font-size:
+11.0pt;"><o:p></o:p></span></p>
+<p><span style="font-size: 11.0pt; font-family:
+'Arial','sans-serif';">Eğitim Danışmanı</span><span style="font-size:
+11.0pt;"><o:p></o:p></span></p>
+<p><span style="font-size: 11.0pt; font-family: 'Arial','sans-serif';">DIŞ
+TİCARET Y&Ouml;NETİMİ A.Ş.</span><span style="font-size:
+11.0pt;"><o:p></o:p></span></p>
+<p><span style="font-size: 11.0pt; font-family: 'Arial','sans-serif';">Tel:
+0 212 586.50 67</span><span style="font-size:
+11.0pt;"><o:p></o:p></span></p>
+<p><span style="font-size: 11.0pt; font-family: 'Arial','sans-serif';">Cep:
+0 532 332.32 99</span><span style="font-size:
+11.0pt;"><o:p></o:p></span></p>
+<p><b><u><span style="font-size: 11.0pt; font-family:
+'Arial','sans-serif';">Bilgi B&ouml;l&uuml;m&uuml;:</span></u></b><span
+style="font-size: 11.0pt;"><br /> </span><span style="font-size: 11.0pt;
+font-family: 'Arial','sans-serif';">Bu Ticari duyuru metnini bir daha
+almamak ve haber duyuru sisteminden &ccedil;ıkmak i&ccedil;in
+&uuml;cretsiz bir şekilde&nbsp;<a
+href="http://muziklidavetiye.com/iem2/unsubscribe.php?M=1331777&C=6d3a077d318144af5573e335252f01f0&L=2&N=4">Unsubscribe
+me from this list</a> yada <a
+href="mailto:tesviksil@yandex.com">tesviksil@yandex.com</a> adresine iptal
+maili atmanız yeterlidir.</span><span style="font-size: 11.0pt;"><br />
+</span><span style="font-size: 11.0pt; font-family:
+'Arial','sans-serif';">Bu Mail 6563 Sayılı ELEKTRONİK TİCARETİN
+D&Uuml;ZENLENMESİ HAKKINDA KANUN 6 <span class="SpellE">Nolu</span>
+maddesinin 2 <span class="SpellE">nolu</span> bendi gereği
+g&ouml;nderilmiştir.</span><span style="font-size: 11.0pt;"><br />
+</span><span style="font-size: 11.0pt; font-family:
+'Arial','sans-serif';">Bu mail DTY DIŞ TİCARET Y&Ouml;NETİMİ
+DANIŞMANLIK HİZMETLERİ A.Ş. tarafından ticari alıcılara ve
+&uuml;yelerine g&ouml;nderilmiştir.</span><span style="font-size:
+11.0pt;"><o:p></o:p></span></p>
+</div>
+<img
+src="http://muziklidavetiye.com/iem2/open.php?M=1331777&L=2&N=4&F=H&image=.jpg"
+height="1" width="10"></body>
+
+</html>
+
+--b1_127e77c8c3022087056c0991cba5d80e--
+
+

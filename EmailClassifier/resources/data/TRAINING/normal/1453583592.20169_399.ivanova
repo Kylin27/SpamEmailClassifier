@@ -1,0 +1,15 @@
+Delivered-To: bruce@bruce-guenter.dyndns.org
+Received: (qmail 17980 invoked from network); 21 Jan 2016 21:30:30 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.2]); 21 Jan 2016 21:30:30 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 21 Jan 2016 21:30:30 -0000
+Received: (qmail 20388 invoked from network); 21 Jan 2016 21:30:28 -0000
+Received: from s53-252.csie.ncu.edu.tw ([140.115.53.252])
+  by zak.futurequest.net ([69.5.6.152])
+  with SMTP via TCP; 21 Jan 2016 21:30:28 -0000
+Received: from 8.32.216.164 by s53-252.csie.ncu.edu.tw; Thu, 21 Jan 2016 23:23:27 +0200
+Message-ID: <X[20
+
+
